@@ -1,0 +1,3136 @@
+CountyID,County,State,State Abbrev,Territory,Region,District
+17031,Cook County,Illinois,IL,IL3,Central,Heartland
+17197,Will County,Illinois,IL,IL3,Central,Heartland
+17043,DuPage County,Illinois,IL,IL1,Central,Heartland
+17097,Lake County,Illinois,IL,IL1,Central,Heartland
+17089,Kane County,Illinois,IL,IL2,Central,Heartland
+17163,St. Clair County,Illinois,IL,IL2,Central,Heartland
+17111,McHenry County,Illinois,IL,IL1,Central,Heartland
+17201,Winnebago County,Illinois,IL,IL3,Central,Heartland
+17143,Peoria County,Illinois,IL,IL3,Central,Heartland
+17119,Madison County,Illinois,IL,IL3,Central,Heartland
+17113,McLean County,Illinois,IL,IL3,Central,Heartland
+17167,Sangamon County,Illinois,IL,IL3,Central,Heartland
+17019,Champaign County,Illinois,IL,IL1,Central,Heartland
+17161,Rock Island County,Illinois,IL,IL2,Central,Heartland
+17179,Tazewell County,Illinois,IL,IL2,Central,Heartland
+17099,LaSalle County,Illinois,IL,IL1,Central,Heartland
+17093,Kendall County,Illinois,IL,IL1,Central,Heartland
+17115,Macon County,Illinois,IL,IL1,Central,Heartland
+17037,DeKalb County,Illinois,IL,IL1,Central,Heartland
+17183,Vermilion County,Illinois,IL,IL1,Central,Heartland
+17199,Williamson County,Illinois,IL,IL3,Central,Heartland
+17195,Whiteside County,Illinois,IL,IL1,Central,Heartland
+17001,Adams County,Illinois,IL,IL1,Central,Heartland
+17141,Ogle County,Illinois,IL,IL3,Central,Heartland
+17077,Jackson County,Illinois,IL,IL2,Central,Heartland
+17091,Kankakee County,Illinois,IL,IL1,Central,Heartland
+17007,Boone County,Illinois,IL,IL1,Central,Heartland
+17177,Stephenson County,Illinois,IL,IL2,Central,Heartland
+17029,Coles County,Illinois,IL,IL1,Central,Heartland
+17063,Grundy County,Illinois,IL,IL1,Central,Heartland
+17203,Woodford County,Illinois,IL,IL2,Central,Heartland
+17103,Lee County,Illinois,IL,IL2,Central,Heartland
+17081,Jefferson County,Illinois,IL,IL2,Central,Heartland
+17021,Christian County,Illinois,IL,IL3,Central,Heartland
+17057,Fulton County,Illinois,IL,IL3,Central,Heartland
+17117,Macoupin County,Illinois,IL,IL1,Central,Heartland
+17073,Henry County,Illinois,IL,IL3,Central,Heartland
+17027,Clinton County,Illinois,IL,IL2,Central,Heartland
+17075,Iroquois County,Illinois,IL,IL3,Central,Heartland
+17095,Knox County,Illinois,IL,IL1,Central,Heartland
+17121,Marion County,Illinois,IL,IL3,Central,Heartland
+17109,McDonough County,Illinois,IL,IL3,Central,Heartland
+17135,Montgomery County,Illinois,IL,IL2,Central,Heartland
+17165,Saline County,Illinois,IL,IL3,Central,Heartland
+17041,Douglas County,Illinois,IL,IL2,Central,Heartland
+17055,Franklin County,Illinois,IL,IL1,Central,Heartland
+17137,Morgan County,Illinois,IL,IL1,Central,Heartland
+17145,Perry County,Illinois,IL,IL2,Central,Heartland
+17085,Jo Daviess County,Illinois,IL,IL2,Central,Heartland
+17011,Bureau County,Illinois,IL,IL1,Central,Heartland
+17107,Logan County,Illinois,IL,IL2,Central,Heartland
+17105,Livingston County,Illinois,IL,IL3,Central,Heartland
+17045,Edgar County,Illinois,IL,IL1,Central,Heartland
+17083,Jersey County,Illinois,IL,IL1,Central,Heartland
+17133,Monroe County,Illinois,IL,IL2,Central,Heartland
+17033,Crawford County,Illinois,IL,IL3,Central,Heartland
+17187,Warren County,Illinois,IL,IL3,Central,Heartland
+17049,Effingham County,Illinois,IL,IL1,Central,Heartland
+17147,Piatt County,Illinois,IL,IL3,Central,Heartland
+17157,Randolph County,Illinois,IL,IL2,Central,Heartland
+17139,Moultrie County,Illinois,IL,IL2,Central,Heartland
+17005,Bond County,Illinois,IL,IL2,Central,Heartland
+17193,White County,Illinois,IL,IL1,Central,Heartland
+17067,Hancock County,Illinois,IL,IL2,Central,Heartland
+17051,Fayette County,Illinois,IL,IL1,Central,Heartland
+17159,Richland County,Illinois,IL,IL3,Central,Heartland
+17173,Shelby County,Illinois,IL,IL1,Central,Heartland
+17017,Cass County,Illinois,IL,IL2,Central,Heartland
+17191,Wayne County,Illinois,IL,IL1,Central,Heartland
+17149,Pike County,Illinois,IL,IL3,Central,Heartland
+17181,Union County,Illinois,IL,IL3,Central,Heartland
+17123,Marshall County,Illinois,IL,IL3,Central,Heartland
+17061,Greene County,Illinois,IL,IL2,Central,Heartland
+17025,Clay County,Illinois,IL,IL3,Central,Heartland
+17039,De Witt County,Illinois,IL,IL1,Central,Heartland
+17131,Mercer County,Illinois,IL,IL3,Central,Heartland
+17185,Wabash County,Illinois,IL,IL2,Central,Heartland
+17189,Washington County,Illinois,IL,IL2,Central,Heartland
+17087,Johnson County,Illinois,IL,IL3,Central,Heartland
+17079,Jasper County,Illinois,IL,IL1,Central,Heartland
+17129,Menard County,Illinois,IL,IL2,Central,Heartland
+17127,Massac County,Illinois,IL,IL2,Central,Heartland
+17101,Lawrence County,Illinois,IL,IL3,Central,Heartland
+17023,Clark County,Illinois,IL,IL3,Central,Heartland
+17015,Carroll County,Illinois,IL,IL3,Central,Heartland
+17125,Mason County,Illinois,IL,IL3,Central,Heartland
+17009,Brown County,Illinois,IL,IL3,Central,Heartland
+17053,Ford County,Illinois,IL,IL2,Central,Heartland
+17171,Scott County,Illinois,IL,IL2,Central,Heartland
+17003,Alexander County,Illinois,IL,IL2,Central,Heartland
+17035,Cumberland County,Illinois,IL,IL3,Central,Heartland
+17047,Edwards County,Illinois,IL,IL2,Central,Heartland
+17071,Henderson County,Illinois,IL,IL2,Central,Heartland
+17069,Hardin County,Illinois,IL,IL3,Central,Heartland
+17059,Gallatin County,Illinois,IL,IL2,Central,Heartland
+17065,Hamilton County,Illinois,IL,IL3,Central,Heartland
+17175,Stark County,Illinois,IL,IL2,Central,Heartland
+17169,Schuyler County,Illinois,IL,IL1,Central,Heartland
+17153,Pulaski County,Illinois,IL,IL2,Central,Heartland
+17013,Calhoun County,Illinois,IL,IL2,Central,Heartland
+17155,Putnam County,Illinois,IL,IL2,Central,Heartland
+17151,Pope County,Illinois,IL,IL2,Central,Heartland
+18097,Marion County,Indiana,IN,IN2,Central,Heartland
+18089,Lake County,Indiana,IN,IN2,Central,Heartland
+18057,Hamilton County,Indiana,IN,IN2,Central,Heartland
+18141,St. Joseph County,Indiana,IN,IN1,Central,Heartland
+18003,Allen County,Indiana,IN,IN3,Central,Heartland
+18163,Vanderburgh County,Indiana,IN,IN3,Central,Heartland
+18127,Porter County,Indiana,IN,IN2,Central,Heartland
+18157,Tippecanoe County,Indiana,IN,IN1,Central,Heartland
+18081,Johnson County,Indiana,IN,IN2,Central,Heartland
+18063,Hendricks County,Indiana,IN,IN1,Central,Heartland
+18095,Madison County,Indiana,IN,IN3,Central,Heartland
+18039,Elkhart County,Indiana,IN,IN2,Central,Heartland
+18091,LaPorte County,Indiana,IN,IN3,Central,Heartland
+18035,Delaware County,Indiana,IN,IN3,Central,Heartland
+18167,Vigo County,Indiana,IN,IN3,Central,Heartland
+18067,Howard County,Indiana,IN,IN1,Central,Heartland
+18005,Bartholomew County,Indiana,IN,IN2,Central,Heartland
+18105,Monroe County,Indiana,IN,IN3,Central,Heartland
+18053,Grant County,Indiana,IN,IN2,Central,Heartland
+18059,Hancock County,Indiana,IN,IN1,Central,Heartland
+18019,Clark County,Indiana,IN,IN3,Central,Heartland
+18173,Warrick County,Indiana,IN,IN2,Central,Heartland
+18043,Floyd County,Indiana,IN,IN2,Central,Heartland
+18177,Wayne County,Indiana,IN,IN2,Central,Heartland
+18109,Morgan County,Indiana,IN,IN2,Central,Heartland
+18093,Lawrence County,Indiana,IN,IN2,Central,Heartland
+18085,Kosciusko County,Indiana,IN,IN2,Central,Heartland
+18029,Dearborn County,Indiana,IN,IN3,Central,Heartland
+18103,Miami County,Indiana,IN,IN3,Central,Heartland
+18099,Marshall County,Indiana,IN,IN2,Central,Heartland
+18113,Noble County,Indiana,IN,IN1,Central,Heartland
+18183,Whitley County,Indiana,IN,IN2,Central,Heartland
+18087,LaGrange County,Indiana,IN,IN1,Central,Heartland
+18011,Boone County,Indiana,IN,IN1,Central,Heartland
+18017,Cass County,Indiana,IN,IN2,Central,Heartland
+18077,Jefferson County,Indiana,IN,IN1,Central,Heartland
+18065,Henry County,Indiana,IN,IN2,Central,Heartland
+18073,Jasper County,Indiana,IN,IN2,Central,Heartland
+18107,Montgomery County,Indiana,IN,IN1,Central,Heartland
+18023,Clinton County,Indiana,IN,IN3,Central,Heartland
+18137,Ripley County,Indiana,IN,IN2,Central,Heartland
+18055,Greene County,Indiana,IN,IN1,Central,Heartland
+18031,Decatur County,Indiana,IN,IN1,Central,Heartland
+18169,Wabash County,Indiana,IN,IN1,Central,Heartland
+18135,Randolph County,Indiana,IN,IN3,Central,Heartland
+18071,Jackson County,Indiana,IN,IN2,Central,Heartland
+18179,Wells County,Indiana,IN,IN3,Central,Heartland
+18033,DeKalb County,Indiana,IN,IN3,Central,Heartland
+18151,Steuben County,Indiana,IN,IN1,Central,Heartland
+18145,Shelby County,Indiana,IN,IN3,Central,Heartland
+18049,Fulton County,Indiana,IN,IN1,Central,Heartland
+18149,Starke County,Indiana,IN,IN1,Central,Heartland
+18083,Knox County,Indiana,IN,IN2,Central,Heartland
+18041,Fayette County,Indiana,IN,IN1,Central,Heartland
+18079,Jennings County,Indiana,IN,IN1,Central,Heartland
+18001,Adams County,Indiana,IN,IN2,Central,Heartland
+18037,Dubois County,Indiana,IN,IN3,Central,Heartland
+18051,Gibson County,Indiana,IN,IN2,Central,Heartland
+18069,Huntington County,Indiana,IN,IN2,Central,Heartland
+18061,Harrison County,Indiana,IN,IN3,Central,Heartland
+18027,Daviess County,Indiana,IN,IN1,Central,Heartland
+18123,Perry County,Indiana,IN,IN2,Central,Heartland
+18075,Jay County,Indiana,IN,IN2,Central,Heartland
+18015,Carroll County,Indiana,IN,IN3,Central,Heartland
+18133,Putnam County,Indiana,IN,IN1,Central,Heartland
+18047,Franklin County,Indiana,IN,IN1,Central,Heartland
+18159,Tipton County,Indiana,IN,IN3,Central,Heartland
+18175,Washington County,Indiana,IN,IN1,Central,Heartland
+18165,Vermillion County,Indiana,IN,IN1,Central,Heartland
+18181,White County,Indiana,IN,IN3,Central,Heartland
+18139,Rush County,Indiana,IN,IN2,Central,Heartland
+18153,Sullivan County,Indiana,IN,IN3,Central,Heartland
+18119,Owen County,Indiana,IN,IN2,Central,Heartland
+18129,Posey County,Indiana,IN,IN3,Central,Heartland
+18021,Clay County,Indiana,IN,IN1,Central,Heartland
+18117,Orange County,Indiana,IN,IN2,Central,Heartland
+18009,Blackford County,Indiana,IN,IN3,Central,Heartland
+18143,Scott County,Indiana,IN,IN2,Central,Heartland
+18045,Fountain County,Indiana,IN,IN2,Central,Heartland
+18147,Spencer County,Indiana,IN,IN3,Central,Heartland
+18121,Parke County,Indiana,IN,IN1,Central,Heartland
+18111,Newton County,Indiana,IN,IN3,Central,Heartland
+18101,Martin County,Indiana,IN,IN1,Central,Heartland
+18013,Brown County,Indiana,IN,IN2,Central,Heartland
+18007,Benton County,Indiana,IN,IN2,Central,Heartland
+18155,Switzerland County,Indiana,IN,IN2,Central,Heartland
+18125,Pike County,Indiana,IN,IN3,Central,Heartland
+18161,Union County,Indiana,IN,IN3,Central,Heartland
+18131,Pulaski County,Indiana,IN,IN3,Central,Heartland
+18025,Crawford County,Indiana,IN,IN1,Central,Heartland
+18115,Ohio County,Indiana,IN,IN2,Central,Heartland
+18171,Warren County,Indiana,IN,IN3,Central,Heartland
+39035,Cuyahoga County,Ohio,OH,OH2,Central,Heartland
+39061,Hamilton County,Ohio,OH,OH1,Central,Heartland
+39049,Franklin County,Ohio,OH,OH1,Central,Heartland
+39017,Butler County,Ohio,OH,OH3,Central,Heartland
+39153,Summit County,Ohio,OH,OH3,Central,Heartland
+39113,Montgomery County,Ohio,OH,OH2,Central,Heartland
+39151,Stark County,Ohio,OH,OH1,Central,Heartland
+39095,Lucas County,Ohio,OH,OH3,Central,Heartland
+39093,Lorain County,Ohio,OH,OH2,Central,Heartland
+39085,Lake County,Ohio,OH,OH1,Central,Heartland
+39099,Mahoning County,Ohio,OH,OH1,Central,Heartland
+39103,Medina County,Ohio,OH,OH2,Central,Heartland
+39041,Delaware County,Ohio,OH,OH3,Central,Heartland
+39025,Clermont County,Ohio,OH,OH1,Central,Heartland
+39165,Warren County,Ohio,OH,OH1,Central,Heartland
+39089,Licking County,Ohio,OH,OH3,Central,Heartland
+39057,Greene County,Ohio,OH,OH2,Central,Heartland
+39029,Columbiana County,Ohio,OH,OH3,Central,Heartland
+39139,Richland County,Ohio,OH,OH2,Central,Heartland
+39109,Miami County,Ohio,OH,OH1,Central,Heartland
+39155,Trumbull County,Ohio,OH,OH2,Central,Heartland
+39045,Fairfield County,Ohio,OH,OH3,Central,Heartland
+39023,Clark County,Ohio,OH,OH2,Central,Heartland
+39133,Portage County,Ohio,OH,OH2,Central,Heartland
+39173,Wood County,Ohio,OH,OH2,Central,Heartland
+39141,Ross County,Ohio,OH,OH3,Central,Heartland
+39013,Belmont County,Ohio,OH,OH2,Central,Heartland
+39145,Scioto County,Ohio,OH,OH2,Central,Heartland
+39007,Ashtabula County,Ohio,OH,OH1,Central,Heartland
+39003,Allen County,Ohio,OH,OH1,Central,Heartland
+39169,Wayne County,Ohio,OH,OH1,Central,Heartland
+39063,Hancock County,Ohio,OH,OH1,Central,Heartland
+39009,Athens County,Ohio,OH,OH1,Central,Heartland
+39143,Sandusky County,Ohio,OH,OH1,Central,Heartland
+39081,Jefferson County,Ohio,OH,OH1,Central,Heartland
+39043,Erie County,Ohio,OH,OH3,Central,Heartland
+39055,Geauga County,Ohio,OH,OH1,Central,Heartland
+39157,Tuscarawas County,Ohio,OH,OH2,Central,Heartland
+39119,Muskingum County,Ohio,OH,OH3,Central,Heartland
+39167,Washington County,Ohio,OH,OH1,Central,Heartland
+39101,Marion County,Ohio,OH,OH3,Central,Heartland
+39091,Logan County,Ohio,OH,OH3,Central,Heartland
+39147,Seneca County,Ohio,OH,OH2,Central,Heartland
+39051,Fulton County,Ohio,OH,OH3,Central,Heartland
+39011,Auglaize County,Ohio,OH,OH3,Central,Heartland
+39129,Pickaway County,Ohio,OH,OH2,Central,Heartland
+39097,Madison County,Ohio,OH,OH1,Central,Heartland
+39083,Knox County,Ohio,OH,OH1,Central,Heartland
+39087,Lawrence County,Ohio,OH,OH3,Central,Heartland
+39031,Coshocton County,Ohio,OH,OH3,Central,Heartland
+39077,Huron County,Ohio,OH,OH3,Central,Heartland
+39015,Brown County,Ohio,OH,OH1,Central,Heartland
+39071,Highland County,Ohio,OH,OH2,Central,Heartland
+39149,Shelby County,Ohio,OH,OH2,Central,Heartland
+39123,Ottawa County,Ohio,OH,OH3,Central,Heartland
+39127,Perry County,Ohio,OH,OH3,Central,Heartland
+39079,Jackson County,Ohio,OH,OH3,Central,Heartland
+39159,Union County,Ohio,OH,OH2,Central,Heartland
+39021,Champaign County,Ohio,OH,OH3,Central,Heartland
+39033,Crawford County,Ohio,OH,OH2,Central,Heartland
+39027,Clinton County,Ohio,OH,OH2,Central,Heartland
+39059,Guernsey County,Ohio,OH,OH2,Central,Heartland
+39135,Preble County,Ohio,OH,OH2,Central,Heartland
+39005,Ashland County,Ohio,OH,OH2,Central,Heartland
+39171,Williams County,Ohio,OH,OH2,Central,Heartland
+39047,Fayette County,Ohio,OH,OH1,Central,Heartland
+39037,Darke County,Ohio,OH,OH1,Central,Heartland
+39131,Pike County,Ohio,OH,OH3,Central,Heartland
+39117,Morrow County,Ohio,OH,OH1,Central,Heartland
+39069,Henry County,Ohio,OH,OH2,Central,Heartland
+39105,Meigs County,Ohio,OH,OH1,Central,Heartland
+39075,Holmes County,Ohio,OH,OH3,Central,Heartland
+39053,Gallia County,Ohio,OH,OH1,Central,Heartland
+39073,Hocking County,Ohio,OH,OH3,Central,Heartland
+39107,Mercer County,Ohio,OH,OH2,Central,Heartland
+39065,Hardin County,Ohio,OH,OH1,Central,Heartland
+39039,Defiance County,Ohio,OH,OH2,Central,Heartland
+39137,Putnam County,Ohio,OH,OH1,Central,Heartland
+39001,Adams County,Ohio,OH,OH2,Central,Heartland
+39161,Van Wert County,Ohio,OH,OH2,Central,Heartland
+39019,Carroll County,Ohio,OH,OH3,Central,Heartland
+39175,Wyandot County,Ohio,OH,OH3,Central,Heartland
+39111,Monroe County,Ohio,OH,OH3,Central,Heartland
+39121,Noble County,Ohio,OH,OH1,Central,Heartland
+39125,Paulding County,Ohio,OH,OH3,Central,Heartland
+39115,Morgan County,Ohio,OH,OH2,Central,Heartland
+39067,Harrison County,Ohio,OH,OH2,Central,Heartland
+39163,Vinton County,Ohio,OH,OH3,Central,Heartland
+26163,Wayne County,Michigan,MI,MI3,Central,Heartland
+26099,Macomb County,Michigan,MI,MI2,Central,Heartland
+26125,Oakland County,Michigan,MI,MI1,Central,Heartland
+26081,Kent County,Michigan,MI,MI2,Central,Heartland
+26049,Genesee County,Michigan,MI,MI3,Central,Heartland
+26161,Washtenaw County,Michigan,MI,MI1,Central,Heartland
+26065,Ingham County,Michigan,MI,MI3,Central,Heartland
+26077,Kalamazoo County,Michigan,MI,MI3,Central,Heartland
+26093,Livingston County,Michigan,MI,MI2,Central,Heartland
+26145,Saginaw County,Michigan,MI,MI3,Central,Heartland
+26021,Berrien County,Michigan,MI,MI2,Central,Heartland
+26121,Muskegon County,Michigan,MI,MI3,Central,Heartland
+26139,Ottawa County,Michigan,MI,MI1,Central,Heartland
+26147,St. Clair County,Michigan,MI,MI1,Central,Heartland
+26025,Calhoun County,Michigan,MI,MI1,Central,Heartland
+26005,Allegan County,Michigan,MI,MI1,Central,Heartland
+26045,Eaton County,Michigan,MI,MI3,Central,Heartland
+26017,Bay County,Michigan,MI,MI2,Central,Heartland
+26075,Jackson County,Michigan,MI,MI3,Central,Heartland
+26091,Lenawee County,Michigan,MI,MI2,Central,Heartland
+26055,Grand Traverse County,Michigan,MI,MI2,Central,Heartland
+26115,Monroe County,Michigan,MI,MI1,Central,Heartland
+26037,Clinton County,Michigan,MI,MI1,Central,Heartland
+26087,Lapeer County,Michigan,MI,MI3,Central,Heartland
+26159,Van Buren County,Michigan,MI,MI2,Central,Heartland
+26103,Marquette County,Michigan,MI,MI3,Central,Heartland
+26155,Shiawassee County,Michigan,MI,MI1,Central,Heartland
+26157,Tuscola County,Michigan,MI,MI3,Central,Heartland
+26111,Midland County,Michigan,MI,MI1,Central,Heartland
+26073,Isabella County,Michigan,MI,MI1,Central,Heartland
+26123,Newaygo County,Michigan,MI,MI3,Central,Heartland
+26067,Ionia County,Michigan,MI,MI1,Central,Heartland
+26015,Barry County,Michigan,MI,MI3,Central,Heartland
+26059,Hillsdale County,Michigan,MI,MI1,Central,Heartland
+26107,Mecosta County,Michigan,MI,MI1,Central,Heartland
+26057,Gratiot County,Michigan,MI,MI2,Central,Heartland
+26033,Chippewa County,Michigan,MI,MI1,Central,Heartland
+26149,St. Joseph County,Michigan,MI,MI2,Central,Heartland
+26117,Montcalm County,Michigan,MI,MI3,Central,Heartland
+26047,Emmet County,Michigan,MI,MI1,Central,Heartland
+26165,Wexford County,Michigan,MI,MI1,Central,Heartland
+26023,Branch County,Michigan,MI,MI1,Central,Heartland
+26061,Houghton County,Michigan,MI,MI2,Central,Heartland
+26151,Sanilac County,Michigan,MI,MI2,Central,Heartland
+26041,Delta County,Michigan,MI,MI1,Central,Heartland
+26027,Cass County,Michigan,MI,MI1,Central,Heartland
+26031,Cheboygan County,Michigan,MI,MI1,Central,Heartland
+26137,Otsego County,Michigan,MI,MI3,Central,Heartland
+26133,Osceola County,Michigan,MI,MI2,Central,Heartland
+26063,Huron County,Michigan,MI,MI2,Central,Heartland
+26069,Iosco County,Michigan,MI,MI2,Central,Heartland
+26129,Ogemaw County,Michigan,MI,MI1,Central,Heartland
+26007,Alpena County,Michigan,MI,MI2,Central,Heartland
+26089,Leelanau County,Michigan,MI,MI1,Central,Heartland
+26079,Kalkaska County,Michigan,MI,MI3,Central,Heartland
+26109,Menominee County,Michigan,MI,MI3,Central,Heartland
+26019,Benzie County,Michigan,MI,MI2,Central,Heartland
+26029,Charlevoix County,Michigan,MI,MI1,Central,Heartland
+26039,Crawford County,Michigan,MI,MI2,Central,Heartland
+26105,Mason County,Michigan,MI,MI2,Central,Heartland
+26035,Clare County,Michigan,MI,MI2,Central,Heartland
+26053,Gogebic County,Michigan,MI,MI1,Central,Heartland
+26101,Manistee County,Michigan,MI,MI3,Central,Heartland
+26127,Oceana County,Michigan,MI,MI2,Central,Heartland
+26043,Dickinson County,Michigan,MI,MI3,Central,Heartland
+26051,Gladwin County,Michigan,MI,MI1,Central,Heartland
+26011,Arenac County,Michigan,MI,MI2,Central,Heartland
+26085,Lake County,Michigan,MI,MI1,Central,Heartland
+26009,Antrim County,Michigan,MI,MI3,Central,Heartland
+26143,Roscommon County,Michigan,MI,MI3,Central,Heartland
+26119,Montmorency County,Michigan,MI,MI2,Central,Heartland
+26001,Alcona County,Michigan,MI,MI2,Central,Heartland
+26113,Missaukee County,Michigan,MI,MI2,Central,Heartland
+26003,Alger County,Michigan,MI,MI1,Central,Heartland
+26141,Presque Isle County,Michigan,MI,MI3,Central,Heartland
+26097,Mackinac County,Michigan,MI,MI1,Central,Heartland
+26071,Iron County,Michigan,MI,MI2,Central,Heartland
+26135,Oscoda County,Michigan,MI,MI1,Central,Heartland
+26013,Baraga County,Michigan,MI,MI3,Central,Heartland
+26131,Ontonagon County,Michigan,MI,MI3,Central,Heartland
+26153,Schoolcraft County,Michigan,MI,MI3,Central,Heartland
+26095,Luce County,Michigan,MI,MI2,Central,Heartland
+26083,Keweenaw County,Michigan,MI,MI3,Central,Heartland
+55079,Milwaukee County,Wisconsin,WI,WI2,Central,Heartland
+55025,Dane County,Wisconsin,WI,WI3,Central,Heartland
+55133,Waukesha County,Wisconsin,WI,WI3,Central,Heartland
+55009,Brown County,Wisconsin,WI,WI3,Central,Heartland
+55101,Racine County,Wisconsin,WI,WI2,Central,Heartland
+55059,Kenosha County,Wisconsin,WI,WI1,Central,Heartland
+55139,Winnebago County,Wisconsin,WI,WI2,Central,Heartland
+55105,Rock County,Wisconsin,WI,WI1,Central,Heartland
+55131,Washington County,Wisconsin,WI,WI3,Central,Heartland
+55039,Fond du Lac County,Wisconsin,WI,WI3,Central,Heartland
+55073,Marathon County,Wisconsin,WI,WI3,Central,Heartland
+55127,Walworth County,Wisconsin,WI,WI2,Central,Heartland
+55087,Outagamie County,Wisconsin,WI,WI2,Central,Heartland
+55071,Manitowoc County,Wisconsin,WI,WI1,Central,Heartland
+55035,Eau Claire County,Wisconsin,WI,WI1,Central,Heartland
+55055,Jefferson County,Wisconsin,WI,WI1,Central,Heartland
+55097,Portage County,Wisconsin,WI,WI1,Central,Heartland
+55063,La Crosse County,Wisconsin,WI,WI1,Central,Heartland
+55117,Sheboygan County,Wisconsin,WI,WI2,Central,Heartland
+55141,Wood County,Wisconsin,WI,WI2,Central,Heartland
+55089,Ozaukee County,Wisconsin,WI,WI1,Central,Heartland
+55021,Columbia County,Wisconsin,WI,WI2,Central,Heartland
+55015,Calumet County,Wisconsin,WI,WI2,Central,Heartland
+55027,Dodge County,Wisconsin,WI,WI2,Central,Heartland
+55095,Polk County,Wisconsin,WI,WI1,Central,Heartland
+55005,Barron County,Wisconsin,WI,WI3,Central,Heartland
+55109,St. Croix County,Wisconsin,WI,WI2,Central,Heartland
+55111,Sauk County,Wisconsin,WI,WI3,Central,Heartland
+55075,Marinette County,Wisconsin,WI,WI1,Central,Heartland
+55043,Grant County,Wisconsin,WI,WI2,Central,Heartland
+55045,Green County,Wisconsin,WI,WI2,Central,Heartland
+55033,Dunn County,Wisconsin,WI,WI3,Central,Heartland
+55017,Chippewa County,Wisconsin,WI,WI2,Central,Heartland
+55085,Oneida County,Wisconsin,WI,WI2,Central,Heartland
+55081,Monroe County,Wisconsin,WI,WI2,Central,Heartland
+55115,Shawano County,Wisconsin,WI,WI1,Central,Heartland
+55135,Waupaca County,Wisconsin,WI,WI3,Central,Heartland
+55083,Oconto County,Wisconsin,WI,WI3,Central,Heartland
+55031,Douglas County,Wisconsin,WI,WI1,Central,Heartland
+55137,Waushara County,Wisconsin,WI,WI3,Central,Heartland
+55057,Juneau County,Wisconsin,WI,WI1,Central,Heartland
+55123,Vernon County,Wisconsin,WI,WI2,Central,Heartland
+55029,Door County,Wisconsin,WI,WI2,Central,Heartland
+55093,Pierce County,Wisconsin,WI,WI1,Central,Heartland
+55067,Langlade County,Wisconsin,WI,WI3,Central,Heartland
+55023,Crawford County,Wisconsin,WI,WI3,Central,Heartland
+55003,Ashland County,Wisconsin,WI,WI2,Central,Heartland
+55019,Clark County,Wisconsin,WI,WI3,Central,Heartland
+55047,Green Lake County,Wisconsin,WI,WI3,Central,Heartland
+55061,Kewaunee County,Wisconsin,WI,WI2,Central,Heartland
+55001,Adams County,Wisconsin,WI,WI3,Central,Heartland
+55007,Bayfield County,Wisconsin,WI,WI1,Central,Heartland
+55121,Trempealeau County,Wisconsin,WI,WI1,Central,Heartland
+55069,Lincoln County,Wisconsin,WI,WI3,Central,Heartland
+55013,Burnett County,Wisconsin,WI,WI3,Central,Heartland
+55119,Taylor County,Wisconsin,WI,WI2,Central,Heartland
+55053,Jackson County,Wisconsin,WI,WI2,Central,Heartland
+55077,Marquette County,Wisconsin,WI,WI1,Central,Heartland
+55125,Vilas County,Wisconsin,WI,WI3,Central,Heartland
+55049,Iowa County,Wisconsin,WI,WI3,Central,Heartland
+55065,Lafayette County,Wisconsin,WI,WI3,Central,Heartland
+55107,Rusk County,Wisconsin,WI,WI1,Central,Heartland
+55011,Buffalo County,Wisconsin,WI,WI2,Central,Heartland
+55103,Richland County,Wisconsin,WI,WI2,Central,Heartland
+55113,Sawyer County,Wisconsin,WI,WI1,Central,Heartland
+55129,Washburn County,Wisconsin,WI,WI3,Central,Heartland
+55041,Forest County,Wisconsin,WI,WI3,Central,Heartland
+55091,Pepin County,Wisconsin,WI,WI1,Central,Heartland
+55099,Price County,Wisconsin,WI,WI3,Central,Heartland
+55051,Iron County,Wisconsin,WI,WI3,Central,Heartland
+55037,Florence County,Wisconsin,WI,WI3,Central,Heartland
+55078,Menominee County,Wisconsin,WI,WI3,Central,Heartland
+40109,Oklahoma County,Oklahoma,OK,OK1,Central,Plains
+40143,Tulsa County,Oklahoma,OK,OK3,Central,Plains
+40027,Cleveland County,Oklahoma,OK,OK1,Central,Plains
+40017,Canadian County,Oklahoma,OK,OK2,Central,Plains
+40125,Pottawatomie County,Oklahoma,OK,OK2,Central,Plains
+40037,Creek County,Oklahoma,OK,OK2,Central,Plains
+40119,Payne County,Oklahoma,OK,OK2,Central,Plains
+40101,Muskogee County,Oklahoma,OK,OK3,Central,Plains
+40031,Comanche County,Oklahoma,OK,OK1,Central,Plains
+40051,Grady County,Oklahoma,OK,OK3,Central,Plains
+40131,Rogers County,Oklahoma,OK,OK1,Central,Plains
+40019,Carter County,Oklahoma,OK,OK3,Central,Plains
+40113,Osage County,Oklahoma,OK,OK3,Central,Plains
+40021,Cherokee County,Oklahoma,OK,OK2,Central,Plains
+40145,Wagoner County,Oklahoma,OK,OK3,Central,Plains
+40047,Garfield County,Oklahoma,OK,OK2,Central,Plains
+40079,Le Flore County,Oklahoma,OK,OK1,Central,Plains
+40147,Washington County,Oklahoma,OK,OK3,Central,Plains
+40013,Bryan County,Oklahoma,OK,OK1,Central,Plains
+40121,Pittsburg County,Oklahoma,OK,OK2,Central,Plains
+40083,Logan County,Oklahoma,OK,OK1,Central,Plains
+40115,Ottawa County,Oklahoma,OK,OK3,Central,Plains
+40123,Pontotoc County,Oklahoma,OK,OK2,Central,Plains
+40135,Sequoyah County,Oklahoma,OK,OK3,Central,Plains
+40039,Custer County,Oklahoma,OK,OK1,Central,Plains
+40111,Okmulgee County,Oklahoma,OK,OK2,Central,Plains
+40041,Delaware County,Oklahoma,OK,OK3,Central,Plains
+40049,Garvin County,Oklahoma,OK,OK1,Central,Plains
+40071,Kay County,Oklahoma,OK,OK2,Central,Plains
+40065,Jackson County,Oklahoma,OK,OK2,Central,Plains
+40087,McClain County,Oklahoma,OK,OK2,Central,Plains
+40133,Seminole County,Oklahoma,OK,OK3,Central,Plains
+40137,Stephens County,Oklahoma,OK,OK3,Central,Plains
+40091,McIntosh County,Oklahoma,OK,OK2,Central,Plains
+40009,Beckham County,Oklahoma,OK,OK3,Central,Plains
+40097,Mayes County,Oklahoma,OK,OK3,Central,Plains
+40089,McCurtain County,Oklahoma,OK,OK2,Central,Plains
+40153,Woodward County,Oklahoma,OK,OK3,Central,Plains
+40015,Caddo County,Oklahoma,OK,OK3,Central,Plains
+40095,Marshall County,Oklahoma,OK,OK2,Central,Plains
+40117,Pawnee County,Oklahoma,OK,OK3,Central,Plains
+40081,Lincoln County,Oklahoma,OK,OK3,Central,Plains
+40001,Adair County,Oklahoma,OK,OK1,Central,Plains
+40023,Choctaw County,Oklahoma,OK,OK1,Central,Plains
+40063,Hughes County,Oklahoma,OK,OK1,Central,Plains
+40035,Craig County,Oklahoma,OK,OK3,Central,Plains
+40139,Texas County,Oklahoma,OK,OK2,Central,Plains
+40105,Nowata County,Oklahoma,OK,OK3,Central,Plains
+40069,Johnston County,Oklahoma,OK,OK1,Central,Plains
+40073,Kingfisher County,Oklahoma,OK,OK1,Central,Plains
+40005,Atoka County,Oklahoma,OK,OK2,Central,Plains
+40127,Pushmataha County,Oklahoma,OK,OK2,Central,Plains
+40061,Haskell County,Oklahoma,OK,OK2,Central,Plains
+40077,Latimer County,Oklahoma,OK,OK1,Central,Plains
+40011,Blaine County,Oklahoma,OK,OK3,Central,Plains
+40075,Kiowa County,Oklahoma,OK,OK3,Central,Plains
+40099,Murray County,Oklahoma,OK,OK3,Central,Plains
+40093,Major County,Oklahoma,OK,OK2,Central,Plains
+40107,Okfuskee County,Oklahoma,OK,OK3,Central,Plains
+40103,Noble County,Oklahoma,OK,OK2,Central,Plains
+40149,Washita County,Oklahoma,OK,OK1,Central,Plains
+40007,Beaver County,Oklahoma,OK,OK1,Central,Plains
+40067,Jefferson County,Oklahoma,OK,OK1,Central,Plains
+40085,Love County,Oklahoma,OK,OK2,Central,Plains
+40151,Woods County,Oklahoma,OK,OK2,Central,Plains
+40045,Ellis County,Oklahoma,OK,OK3,Central,Plains
+40033,Cotton County,Oklahoma,OK,OK3,Central,Plains
+40003,Alfalfa County,Oklahoma,OK,OK3,Central,Plains
+40055,Greer County,Oklahoma,OK,OK1,Central,Plains
+40141,Tillman County,Oklahoma,OK,OK2,Central,Plains
+40053,Grant County,Oklahoma,OK,OK1,Central,Plains
+40029,Coal County,Oklahoma,OK,OK2,Central,Plains
+40043,Dewey County,Oklahoma,OK,OK3,Central,Plains
+40129,Roger Mills County,Oklahoma,OK,OK3,Central,Plains
+40057,Harmon County,Oklahoma,OK,OK3,Central,Plains
+40025,Cimarron County,Oklahoma,OK,OK3,Central,Plains
+40059,Harper County,Oklahoma,OK,OK2,Central,Plains
+19153,Polk County,Iowa,IA,IA1,Central,Plains
+19113,Linn County,Iowa,IA,IA2,Central,Plains
+19103,Johnson County,Iowa,IA,IA1,Central,Plains
+19163,Scott County,Iowa,IA,IA2,Central,Plains
+19013,Black Hawk County,Iowa,IA,IA3,Central,Plains
+19169,Story County,Iowa,IA,IA2,Central,Plains
+19061,Dubuque County,Iowa,IA,IA3,Central,Plains
+19155,Pottawattamie County,Iowa,IA,IA3,Central,Plains
+19193,Woodbury County,Iowa,IA,IA1,Central,Plains
+19049,Dallas County,Iowa,IA,IA1,Central,Plains
+19181,Warren County,Iowa,IA,IA2,Central,Plains
+19111,Lee County,Iowa,IA,IA1,Central,Plains
+19167,Sioux County,Iowa,IA,IA1,Central,Plains
+19045,Clinton County,Iowa,IA,IA1,Central,Plains
+19179,Wapello County,Iowa,IA,IA1,Central,Plains
+19033,Cerro Gordo County,Iowa,IA,IA1,Central,Plains
+19057,Des Moines County,Iowa,IA,IA2,Central,Plains
+19139,Muscatine County,Iowa,IA,IA3,Central,Plains
+19125,Marion County,Iowa,IA,IA2,Central,Plains
+19187,Webster County,Iowa,IA,IA1,Central,Plains
+19017,Bremer County,Iowa,IA,IA2,Central,Plains
+19149,Plymouth County,Iowa,IA,IA1,Central,Plains
+19099,Jasper County,Iowa,IA,IA2,Central,Plains
+19027,Carroll County,Iowa,IA,IA2,Central,Plains
+19123,Mahaska County,Iowa,IA,IA3,Central,Plains
+19105,Jones County,Iowa,IA,IA2,Central,Plains
+19015,Boone County,Iowa,IA,IA2,Central,Plains
+19021,Buena Vista County,Iowa,IA,IA3,Central,Plains
+19127,Marshall County,Iowa,IA,IA2,Central,Plains
+19019,Buchanan County,Iowa,IA,IA2,Central,Plains
+19055,Delaware County,Iowa,IA,IA1,Central,Plains
+19083,Hardin County,Iowa,IA,IA3,Central,Plains
+19183,Washington County,Iowa,IA,IA3,Central,Plains
+19191,Winneshiek County,Iowa,IA,IA3,Central,Plains
+19041,Clay County,Iowa,IA,IA3,Central,Plains
+19047,Crawford County,Iowa,IA,IA2,Central,Plains
+19087,Henry County,Iowa,IA,IA3,Central,Plains
+19029,Cass County,Iowa,IA,IA1,Central,Plains
+19097,Jackson County,Iowa,IA,IA3,Central,Plains
+19065,Fayette County,Iowa,IA,IA2,Central,Plains
+19011,Benton County,Iowa,IA,IA3,Central,Plains
+19095,Iowa County,Iowa,IA,IA3,Central,Plains
+19031,Cedar County,Iowa,IA,IA1,Central,Plains
+19109,Kossuth County,Iowa,IA,IA2,Central,Plains
+19121,Madison County,Iowa,IA,IA3,Central,Plains
+19037,Chickasaw County,Iowa,IA,IA3,Central,Plains
+19085,Harrison County,Iowa,IA,IA3,Central,Plains
+19023,Butler County,Iowa,IA,IA1,Central,Plains
+19137,Montgomery County,Iowa,IA,IA1,Central,Plains
+19069,Franklin County,Iowa,IA,IA1,Central,Plains
+19077,Guthrie County,Iowa,IA,IA2,Central,Plains
+19129,Mills County,Iowa,IA,IA1,Central,Plains
+19091,Humboldt County,Iowa,IA,IA3,Central,Plains
+19119,Lyon County,Iowa,IA,IA1,Central,Plains
+19007,Appanoose County,Iowa,IA,IA1,Central,Plains
+19171,Tama County,Iowa,IA,IA3,Central,Plains
+19059,Dickinson County,Iowa,IA,IA3,Central,Plains
+19073,Greene County,Iowa,IA,IA3,Central,Plains
+19197,Wright County,Iowa,IA,IA3,Central,Plains
+19079,Hamilton County,Iowa,IA,IA2,Central,Plains
+19043,Clayton County,Iowa,IA,IA1,Central,Plains
+19189,Winnebago County,Iowa,IA,IA1,Central,Plains
+19081,Hancock County,Iowa,IA,IA1,Central,Plains
+19117,Lucas County,Iowa,IA,IA1,Central,Plains
+19089,Howard County,Iowa,IA,IA1,Central,Plains
+19115,Louisa County,Iowa,IA,IA1,Central,Plains
+19101,Jefferson County,Iowa,IA,IA1,Central,Plains
+19145,Page County,Iowa,IA,IA3,Central,Plains
+19075,Grundy County,Iowa,IA,IA3,Central,Plains
+19157,Poweshiek County,Iowa,IA,IA1,Central,Plains
+19067,Floyd County,Iowa,IA,IA1,Central,Plains
+19053,Decatur County,Iowa,IA,IA1,Central,Plains
+19161,Sac County,Iowa,IA,IA2,Central,Plains
+19025,Calhoun County,Iowa,IA,IA1,Central,Plains
+19141,O'Brien County,Iowa,IA,IA1,Central,Plains
+19005,Allamakee County,Iowa,IA,IA3,Central,Plains
+19165,Shelby County,Iowa,IA,IA3,Central,Plains
+19063,Emmet County,Iowa,IA,IA1,Central,Plains
+19177,Van Buren County,Iowa,IA,IA3,Central,Plains
+19175,Union County,Iowa,IA,IA2,Central,Plains
+19051,Davis County,Iowa,IA,IA2,Central,Plains
+19131,Mitchell County,Iowa,IA,IA3,Central,Plains
+19135,Monroe County,Iowa,IA,IA3,Central,Plains
+19035,Cherokee County,Iowa,IA,IA2,Central,Plains
+19147,Palo Alto County,Iowa,IA,IA2,Central,Plains
+19173,Taylor County,Iowa,IA,IA1,Central,Plains
+19039,Clarke County,Iowa,IA,IA3,Central,Plains
+19143,Osceola County,Iowa,IA,IA3,Central,Plains
+19071,Fremont County,Iowa,IA,IA3,Central,Plains
+19093,Ida County,Iowa,IA,IA2,Central,Plains
+19133,Monona County,Iowa,IA,IA3,Central,Plains
+19107,Keokuk County,Iowa,IA,IA3,Central,Plains
+19001,Adair County,Iowa,IA,IA3,Central,Plains
+19151,Pocahontas County,Iowa,IA,IA1,Central,Plains
+19185,Wayne County,Iowa,IA,IA3,Central,Plains
+19195,Worth County,Iowa,IA,IA2,Central,Plains
+19003,Adams County,Iowa,IA,IA2,Central,Plains
+19009,Audubon County,Iowa,IA,IA2,Central,Plains
+19159,Ringgold County,Iowa,IA,IA1,Central,Plains
+20091,Johnson County,Kansas,KS,KS2,Central,Plains
+20173,Sedgwick County,Kansas,KS,KS2,Central,Plains
+20177,Shawnee County,Kansas,KS,KS3,Central,Plains
+20209,Wyandotte County,Kansas,KS,KS1,Central,Plains
+20103,Leavenworth County,Kansas,KS,KS1,Central,Plains
+20045,Douglas County,Kansas,KS,KS1,Central,Plains
+20015,Butler County,Kansas,KS,KS3,Central,Plains
+20161,Riley County,Kansas,KS,KS3,Central,Plains
+20169,Saline County,Kansas,KS,KS2,Central,Plains
+20079,Harvey County,Kansas,KS,KS3,Central,Plains
+20155,Reno County,Kansas,KS,KS2,Central,Plains
+20055,Finney County,Kansas,KS,KS2,Central,Plains
+20121,Miami County,Kansas,KS,KS1,Central,Plains
+20113,McPherson County,Kansas,KS,KS2,Central,Plains
+20061,Geary County,Kansas,KS,KS2,Central,Plains
+20035,Cowley County,Kansas,KS,KS1,Central,Plains
+20037,Crawford County,Kansas,KS,KS3,Central,Plains
+20175,Seward County,Kansas,KS,KS1,Central,Plains
+20057,Ford County,Kansas,KS,KS3,Central,Plains
+20099,Labette County,Kansas,KS,KS2,Central,Plains
+20149,Pottawatomie County,Kansas,KS,KS3,Central,Plains
+20051,Ellis County,Kansas,KS,KS3,Central,Plains
+20059,Franklin County,Kansas,KS,KS3,Central,Plains
+20125,Montgomery County,Kansas,KS,KS3,Central,Plains
+20111,Lyon County,Kansas,KS,KS2,Central,Plains
+20139,Osage County,Kansas,KS,KS3,Central,Plains
+20009,Barton County,Kansas,KS,KS1,Central,Plains
+20191,Sumner County,Kansas,KS,KS1,Central,Plains
+20133,Neosho County,Kansas,KS,KS3,Central,Plains
+20041,Dickinson County,Kansas,KS,KS3,Central,Plains
+20085,Jackson County,Kansas,KS,KS2,Central,Plains
+20005,Atchison County,Kansas,KS,KS2,Central,Plains
+20021,Cherokee County,Kansas,KS,KS3,Central,Plains
+20115,Marion County,Kansas,KS,KS1,Central,Plains
+20011,Bourbon County,Kansas,KS,KS2,Central,Plains
+20159,Rice County,Kansas,KS,KS2,Central,Plains
+20087,Jefferson County,Kansas,KS,KS3,Central,Plains
+20131,Nemaha County,Kansas,KS,KS2,Central,Plains
+20001,Allen County,Kansas,KS,KS2,Central,Plains
+20107,Linn County,Kansas,KS,KS3,Central,Plains
+20151,Pratt County,Kansas,KS,KS1,Central,Plains
+20205,Wilson County,Kansas,KS,KS1,Central,Plains
+20067,Grant County,Kansas,KS,KS1,Central,Plains
+20043,Doniphan County,Kansas,KS,KS2,Central,Plains
+20029,Cloud County,Kansas,KS,KS3,Central,Plains
+20117,Marshall County,Kansas,KS,KS3,Central,Plains
+20137,Norton County,Kansas,KS,KS1,Central,Plains
+20031,Coffey County,Kansas,KS,KS3,Central,Plains
+20127,Morris County,Kansas,KS,KS1,Central,Plains
+20095,Kingman County,Kansas,KS,KS3,Central,Plains
+20053,Ellsworth County,Kansas,KS,KS2,Central,Plains
+20201,Washington County,Kansas,KS,KS3,Central,Plains
+20189,Stevens County,Kansas,KS,KS3,Central,Plains
+20013,Brown County,Kansas,KS,KS3,Central,Plains
+20181,Sherman County,Kansas,KS,KS1,Central,Plains
+20193,Thomas County,Kansas,KS,KS3,Central,Plains
+20147,Phillips County,Kansas,KS,KS1,Central,Plains
+20077,Harper County,Kansas,KS,KS1,Central,Plains
+20003,Anderson County,Kansas,KS,KS1,Central,Plains
+20145,Pawnee County,Kansas,KS,KS3,Central,Plains
+20069,Gray County,Kansas,KS,KS2,Central,Plains
+20027,Clay County,Kansas,KS,KS2,Central,Plains
+20143,Ottawa County,Kansas,KS,KS1,Central,Plains
+20171,Scott County,Kansas,KS,KS2,Central,Plains
+20119,Meade County,Kansas,KS,KS1,Central,Plains
+20093,Kearny County,Kansas,KS,KS1,Central,Plains
+20163,Rooks County,Kansas,KS,KS3,Central,Plains
+20197,Wabaunsee County,Kansas,KS,KS2,Central,Plains
+20123,Mitchell County,Kansas,KS,KS3,Central,Plains
+20073,Greenwood County,Kansas,KS,KS1,Central,Plains
+20129,Morton County,Kansas,KS,KS1,Central,Plains
+20185,Stafford County,Kansas,KS,KS1,Central,Plains
+20207,Woodson County,Kansas,KS,KS3,Central,Plains
+20167,Russell County,Kansas,KS,KS2,Central,Plains
+20183,Smith County,Kansas,KS,KS2,Central,Plains
+20165,Rush County,Kansas,KS,KS2,Central,Plains
+20157,Republic County,Kansas,KS,KS1,Central,Plains
+20081,Haskell County,Kansas,KS,KS2,Central,Plains
+20141,Osborne County,Kansas,KS,KS3,Central,Plains
+20007,Barber County,Kansas,KS,KS2,Central,Plains
+20109,Logan County,Kansas,KS,KS3,Central,Plains
+20179,Sheridan County,Kansas,KS,KS1,Central,Plains
+20049,Elk County,Kansas,KS,KS2,Central,Plains
+20065,Graham County,Kansas,KS,KS1,Central,Plains
+20135,Ness County,Kansas,KS,KS2,Central,Plains
+20195,Trego County,Kansas,KS,KS2,Central,Plains
+20105,Lincoln County,Kansas,KS,KS2,Central,Plains
+20039,Decatur County,Kansas,KS,KS3,Central,Plains
+20047,Edwards County,Kansas,KS,KS3,Central,Plains
+20017,Chase County,Kansas,KS,KS2,Central,Plains
+20019,Chautauqua County,Kansas,KS,KS3,Central,Plains
+20075,Hamilton County,Kansas,KS,KS3,Central,Plains
+20187,Stanton County,Kansas,KS,KS2,Central,Plains
+20025,Clark County,Kansas,KS,KS1,Central,Plains
+20063,Gove County,Kansas,KS,KS2,Central,Plains
+20089,Jewell County,Kansas,KS,KS2,Central,Plains
+20203,Wichita County,Kansas,KS,KS2,Central,Plains
+20097,Kiowa County,Kansas,KS,KS1,Central,Plains
+20023,Cheyenne County,Kansas,KS,KS2,Central,Plains
+20153,Rawlins County,Kansas,KS,KS1,Central,Plains
+20101,Lane County,Kansas,KS,KS2,Central,Plains
+20083,Hodgeman County,Kansas,KS,KS3,Central,Plains
+20033,Comanche County,Kansas,KS,KS3,Central,Plains
+20199,Wallace County,Kansas,KS,KS2,Central,Plains
+20071,Greeley County,Kansas,KS,KS2,Central,Plains
+29189,St. Louis County,Missouri,MO,MO1,Central,Plains
+29095,Jackson County,Missouri,MO,MO1,Central,Plains
+29183,St. Charles County,Missouri,MO,MO1,Central,Plains
+29077,Greene County,Missouri,MO,MO2,Central,Plains
+29510,"St. Louis, City of",Missouri,MO,MO1,Central,Plains
+29099,Jefferson County,Missouri,MO,MO3,Central,Plains
+29047,Clay County,Missouri,MO,MO3,Central,Plains
+29097,Jasper County,Missouri,MO,MO1,Central,Plains
+29071,Franklin County,Missouri,MO,MO1,Central,Plains
+29019,Boone County,Missouri,MO,MO2,Central,Plains
+29165,Platte County,Missouri,MO,MO1,Central,Plains
+29043,Christian County,Missouri,MO,MO1,Central,Plains
+29031,Cape Girardeau County,Missouri,MO,MO1,Central,Plains
+29021,Buchanan County,Missouri,MO,MO1,Central,Plains
+29051,Cole County,Missouri,MO,MO3,Central,Plains
+29187,St. Francois County,Missouri,MO,MO1,Central,Plains
+29145,Newton County,Missouri,MO,MO3,Central,Plains
+29037,Cass County,Missouri,MO,MO2,Central,Plains
+29023,Butler County,Missouri,MO,MO2,Central,Plains
+29029,Camden County,Missouri,MO,MO3,Central,Plains
+29101,Johnson County,Missouri,MO,MO1,Central,Plains
+29113,Lincoln County,Missouri,MO,MO3,Central,Plains
+29169,Pulaski County,Missouri,MO,MO3,Central,Plains
+29201,Scott County,Missouri,MO,MO2,Central,Plains
+29213,Taney County,Missouri,MO,MO3,Central,Plains
+29027,Callaway County,Missouri,MO,MO3,Central,Plains
+29225,Webster County,Missouri,MO,MO2,Central,Plains
+29161,Phelps County,Missouri,MO,MO1,Central,Plains
+29107,Lafayette County,Missouri,MO,MO2,Central,Plains
+29009,Barry County,Missouri,MO,MO3,Central,Plains
+29091,Howell County,Missouri,MO,MO3,Central,Plains
+29001,Adair County,Missouri,MO,MO3,Central,Plains
+29195,Saline County,Missouri,MO,MO3,Central,Plains
+29131,Miller County,Missouri,MO,MO2,Central,Plains
+29105,Laclede County,Missouri,MO,MO1,Central,Plains
+29109,Lawrence County,Missouri,MO,MO3,Central,Plains
+29159,Pettis County,Missouri,MO,MO2,Central,Plains
+29007,Audrain County,Missouri,MO,MO2,Central,Plains
+29167,Polk County,Missouri,MO,MO2,Central,Plains
+29127,Marion County,Missouri,MO,MO1,Central,Plains
+29209,Stone County,Missouri,MO,MO1,Central,Plains
+29147,Nodaway County,Missouri,MO,MO3,Central,Plains
+29055,Crawford County,Missouri,MO,MO1,Central,Plains
+29119,McDonald County,Missouri,MO,MO1,Central,Plains
+29177,Ray County,Missouri,MO,MO3,Central,Plains
+29207,Stoddard County,Missouri,MO,MO3,Central,Plains
+29053,Cooper County,Missouri,MO,MO2,Central,Plains
+29083,Henry County,Missouri,MO,MO2,Central,Plains
+29215,Texas County,Missouri,MO,MO2,Central,Plains
+29219,Warren County,Missouri,MO,MO3,Central,Plains
+29069,Dunklin County,Missouri,MO,MO1,Central,Plains
+29133,Mississippi County,Missouri,MO,MO2,Central,Plains
+29143,New Madrid County,Missouri,MO,MO3,Central,Plains
+29217,Vernon County,Missouri,MO,MO3,Central,Plains
+29163,Pike County,Missouri,MO,MO1,Central,Plains
+29221,Washington County,Missouri,MO,MO2,Central,Plains
+29117,Livingston County,Missouri,MO,MO1,Central,Plains
+29175,Randolph County,Missouri,MO,MO1,Central,Plains
+29155,Pemiscot County,Missouri,MO,MO2,Central,Plains
+29003,Andrew County,Missouri,MO,MO1,Central,Plains
+29157,Perry County,Missouri,MO,MO3,Central,Plains
+29229,Wright County,Missouri,MO,MO3,Central,Plains
+29011,Barton County,Missouri,MO,MO3,Central,Plains
+29115,Linn County,Missouri,MO,MO2,Central,Plains
+29135,Moniteau County,Missouri,MO,MO1,Central,Plains
+29063,DeKalb County,Missouri,MO,MO1,Central,Plains
+29141,Morgan County,Missouri,MO,MO1,Central,Plains
+29186,Ste. Genevieve County,Missouri,MO,MO2,Central,Plains
+29089,Howard County,Missouri,MO,MO3,Central,Plains
+29121,Macon County,Missouri,MO,MO2,Central,Plains
+29153,Ozark County,Missouri,MO,MO3,Central,Plains
+29049,Clinton County,Missouri,MO,MO3,Central,Plains
+29139,Montgomery County,Missouri,MO,MO1,Central,Plains
+29013,Bates County,Missouri,MO,MO3,Central,Plains
+29039,Cedar County,Missouri,MO,MO2,Central,Plains
+29085,Hickory County,Missouri,MO,MO3,Central,Plains
+29015,Benton County,Missouri,MO,MO3,Central,Plains
+29223,Wayne County,Missouri,MO,MO2,Central,Plains
+29059,Dallas County,Missouri,MO,MO1,Central,Plains
+29203,Shannon County,Missouri,MO,MO1,Central,Plains
+29137,Monroe County,Missouri,MO,MO2,Central,Plains
+29065,Dent County,Missouri,MO,MO3,Central,Plains
+29017,Bollinger County,Missouri,MO,MO1,Central,Plains
+29185,St. Clair County,Missouri,MO,MO1,Central,Plains
+29073,Gasconade County,Missouri,MO,MO2,Central,Plains
+29181,Ripley County,Missouri,MO,MO3,Central,Plains
+29151,Osage County,Missouri,MO,MO1,Central,Plains
+29111,Lewis County,Missouri,MO,MO2,Central,Plains
+29123,Madison County,Missouri,MO,MO3,Central,Plains
+29081,Harrison County,Missouri,MO,MO2,Central,Plains
+29067,Douglas County,Missouri,MO,MO2,Central,Plains
+29079,Grundy County,Missouri,MO,MO1,Central,Plains
+29149,Oregon County,Missouri,MO,MO2,Central,Plains
+29057,Dade County,Missouri,MO,MO1,Central,Plains
+29173,Ralls County,Missouri,MO,MO1,Central,Plains
+29211,Sullivan County,Missouri,MO,MO1,Central,Plains
+29045,Clark County,Missouri,MO,MO3,Central,Plains
+29093,Iron County,Missouri,MO,MO2,Central,Plains
+29125,Maries County,Missouri,MO,MO2,Central,Plains
+29025,Caldwell County,Missouri,MO,MO2,Central,Plains
+29179,Reynolds County,Missouri,MO,MO3,Central,Plains
+29033,Carroll County,Missouri,MO,MO1,Central,Plains
+29061,Daviess County,Missouri,MO,MO1,Central,Plains
+29087,Holt County,Missouri,MO,MO2,Central,Plains
+29005,Atchison County,Missouri,MO,MO3,Central,Plains
+29075,Gentry County,Missouri,MO,MO2,Central,Plains
+29041,Chariton County,Missouri,MO,MO1,Central,Plains
+29205,Shelby County,Missouri,MO,MO3,Central,Plains
+29197,Schuyler County,Missouri,MO,MO3,Central,Plains
+29035,Carter County,Missouri,MO,MO1,Central,Plains
+29199,Scotland County,Missouri,MO,MO3,Central,Plains
+29171,Putnam County,Missouri,MO,MO2,Central,Plains
+29103,Knox County,Missouri,MO,MO3,Central,Plains
+29129,Mercer County,Missouri,MO,MO1,Central,Plains
+29227,Worth County,Missouri,MO,MO1,Central,Plains
+31055,Douglas County,Nebraska,NE,NE3,Central,Mountain Central
+31109,Lancaster County,Nebraska,NE,NE1,Central,Mountain Central
+31153,Sarpy County,Nebraska,NE,NE3,Central,Mountain Central
+31079,Hall County,Nebraska,NE,NE3,Central,Mountain Central
+31053,Dodge County,Nebraska,NE,NE2,Central,Mountain Central
+31141,Platte County,Nebraska,NE,NE2,Central,Mountain Central
+31157,Scotts Bluff County,Nebraska,NE,NE3,Central,Mountain Central
+31019,Buffalo County,Nebraska,NE,NE2,Central,Mountain Central
+31001,Adams County,Nebraska,NE,NE3,Central,Mountain Central
+31025,Cass County,Nebraska,NE,NE1,Central,Mountain Central
+31119,Madison County,Nebraska,NE,NE3,Central,Mountain Central
+31043,Dakota County,Nebraska,NE,NE1,Central,Mountain Central
+31159,Seward County,Nebraska,NE,NE2,Central,Mountain Central
+31111,Lincoln County,Nebraska,NE,NE1,Central,Mountain Central
+31131,Otoe County,Nebraska,NE,NE1,Central,Mountain Central
+31067,Gage County,Nebraska,NE,NE1,Central,Mountain Central
+31155,Saunders County,Nebraska,NE,NE3,Central,Mountain Central
+31151,Saline County,Nebraska,NE,NE3,Central,Mountain Central
+31185,York County,Nebraska,NE,NE2,Central,Mountain Central
+31047,Dawson County,Nebraska,NE,NE2,Central,Mountain Central
+31037,Colfax County,Nebraska,NE,NE1,Central,Mountain Central
+31145,Red Willow County,Nebraska,NE,NE2,Central,Mountain Central
+31041,Custer County,Nebraska,NE,NE2,Central,Mountain Central
+31177,Washington County,Nebraska,NE,NE3,Central,Mountain Central
+31137,Phelps County,Nebraska,NE,NE2,Central,Mountain Central
+31179,Wayne County,Nebraska,NE,NE2,Central,Mountain Central
+31081,Hamilton County,Nebraska,NE,NE3,Central,Mountain Central
+31101,Keith County,Nebraska,NE,NE2,Central,Mountain Central
+31033,Cheyenne County,Nebraska,NE,NE2,Central,Mountain Central
+31173,Thurston County,Nebraska,NE,NE3,Central,Mountain Central
+31035,Clay County,Nebraska,NE,NE3,Central,Mountain Central
+31107,Knox County,Nebraska,NE,NE1,Central,Mountain Central
+31027,Cedar County,Nebraska,NE,NE2,Central,Mountain Central
+31167,Stanton County,Nebraska,NE,NE1,Central,Mountain Central
+31051,Dixon County,Nebraska,NE,NE3,Central,Mountain Central
+31013,Box Butte County,Nebraska,NE,NE1,Central,Mountain Central
+31143,Polk County,Nebraska,NE,NE3,Central,Mountain Central
+31121,Merrick County,Nebraska,NE,NE2,Central,Mountain Central
+31031,Cherry County,Nebraska,NE,NE2,Central,Mountain Central
+31089,Holt County,Nebraska,NE,NE3,Central,Mountain Central
+31023,Butler County,Nebraska,NE,NE3,Central,Mountain Central
+31093,Howard County,Nebraska,NE,NE2,Central,Mountain Central
+31123,Morrill County,Nebraska,NE,NE2,Central,Mountain Central
+31045,Dawes County,Nebraska,NE,NE1,Central,Mountain Central
+31065,Furnas County,Nebraska,NE,NE1,Central,Mountain Central
+31175,Valley County,Nebraska,NE,NE1,Central,Mountain Central
+31095,Jefferson County,Nebraska,NE,NE1,Central,Mountain Central
+31039,Cuming County,Nebraska,NE,NE3,Central,Mountain Central
+31011,Boone County,Nebraska,NE,NE3,Central,Mountain Central
+31147,Richardson County,Nebraska,NE,NE1,Central,Mountain Central
+31099,Kearney County,Nebraska,NE,NE2,Central,Mountain Central
+31125,Nance County,Nebraska,NE,NE1,Central,Mountain Central
+31129,Nuckolls County,Nebraska,NE,NE2,Central,Mountain Central
+31059,Fillmore County,Nebraska,NE,NE2,Central,Mountain Central
+31139,Pierce County,Nebraska,NE,NE2,Central,Mountain Central
+31161,Sheridan County,Nebraska,NE,NE2,Central,Mountain Central
+31003,Antelope County,Nebraska,NE,NE1,Central,Mountain Central
+31169,Thayer County,Nebraska,NE,NE3,Central,Mountain Central
+31127,Nemaha County,Nebraska,NE,NE1,Central,Mountain Central
+31021,Burt County,Nebraska,NE,NE3,Central,Mountain Central
+31061,Franklin County,Nebraska,NE,NE2,Central,Mountain Central
+31181,Webster County,Nebraska,NE,NE2,Central,Mountain Central
+31135,Perkins County,Nebraska,NE,NE1,Central,Mountain Central
+31163,Sherman County,Nebraska,NE,NE2,Central,Mountain Central
+31029,Chase County,Nebraska,NE,NE2,Central,Mountain Central
+31097,Johnson County,Nebraska,NE,NE2,Central,Mountain Central
+31077,Greeley County,Nebraska,NE,NE3,Central,Mountain Central
+31133,Pawnee County,Nebraska,NE,NE1,Central,Mountain Central
+31049,Deuel County,Nebraska,NE,NE3,Central,Mountain Central
+31087,Hitchcock County,Nebraska,NE,NE2,Central,Mountain Central
+31105,Kimball County,Nebraska,NE,NE1,Central,Mountain Central
+31083,Harlan County,Nebraska,NE,NE3,Central,Mountain Central
+31069,Garden County,Nebraska,NE,NE2,Central,Mountain Central
+31063,Frontier County,Nebraska,NE,NE2,Central,Mountain Central
+31017,Brown County,Nebraska,NE,NE1,Central,Mountain Central
+31015,Boyd County,Nebraska,NE,NE1,Central,Mountain Central
+31073,Gosper County,Nebraska,NE,NE2,Central,Mountain Central
+31071,Garfield County,Nebraska,NE,NE2,Central,Mountain Central
+31165,Sioux County,Nebraska,NE,NE2,Central,Mountain Central
+31057,Dundy County,Nebraska,NE,NE3,Central,Mountain Central
+31007,Banner County,Nebraska,NE,NE1,Central,Mountain Central
+31171,Thomas County,Nebraska,NE,NE2,Central,Mountain Central
+31103,Keya Paha County,Nebraska,NE,NE1,Central,Mountain Central
+31149,Rock County,Nebraska,NE,NE3,Central,Mountain Central
+31085,Hayes County,Nebraska,NE,NE3,Central,Mountain Central
+31183,Wheeler County,Nebraska,NE,NE1,Central,Mountain Central
+31113,Logan County,Nebraska,NE,NE3,Central,Mountain Central
+31091,Hooker County,Nebraska,NE,NE3,Central,Mountain Central
+31117,McPherson County,Nebraska,NE,NE1,Central,Mountain Central
+31115,Loup County,Nebraska,NE,NE2,Central,Mountain Central
+31005,Arthur County,Nebraska,NE,NE2,Central,Mountain Central
+31075,Grant County,Nebraska,NE,NE2,Central,Mountain Central
+31009,Blaine County,Nebraska,NE,NE1,Central,Mountain Central
+27053,Hennepin County,Minnesota,MN,MN2,Central,Mountain Central
+27123,Ramsey County,Minnesota,MN,MN1,Central,Mountain Central
+27003,Anoka County,Minnesota,MN,MN1,Central,Mountain Central
+27037,Dakota County,Minnesota,MN,MN2,Central,Mountain Central
+27163,Washington County,Minnesota,MN,MN3,Central,Mountain Central
+27137,St. Louis County,Minnesota,MN,MN3,Central,Mountain Central
+27109,Olmsted County,Minnesota,MN,MN3,Central,Mountain Central
+27145,Stearns County,Minnesota,MN,MN1,Central,Mountain Central
+27171,Wright County,Minnesota,MN,MN3,Central,Mountain Central
+27139,Scott County,Minnesota,MN,MN3,Central,Mountain Central
+27019,Carver County,Minnesota,MN,MN2,Central,Mountain Central
+27131,Rice County,Minnesota,MN,MN1,Central,Mountain Central
+27027,Clay County,Minnesota,MN,MN3,Central,Mountain Central
+27141,Sherburne County,Minnesota,MN,MN2,Central,Mountain Central
+27169,Winona County,Minnesota,MN,MN2,Central,Mountain Central
+27061,Itasca County,Minnesota,MN,MN1,Central,Mountain Central
+27035,Crow Wing County,Minnesota,MN,MN1,Central,Mountain Central
+27007,Beltrami County,Minnesota,MN,MN3,Central,Mountain Central
+27111,Otter Tail County,Minnesota,MN,MN1,Central,Mountain Central
+27049,Goodhue County,Minnesota,MN,MN2,Central,Mountain Central
+27009,Benton County,Minnesota,MN,MN2,Central,Mountain Central
+27103,Nicollet County,Minnesota,MN,MN3,Central,Mountain Central
+27059,Isanti County,Minnesota,MN,MN2,Central,Mountain Central
+27041,Douglas County,Minnesota,MN,MN1,Central,Mountain Central
+27013,Blue Earth County,Minnesota,MN,MN3,Central,Mountain Central
+27097,Morrison County,Minnesota,MN,MN1,Central,Mountain Central
+27025,Chisago County,Minnesota,MN,MN3,Central,Mountain Central
+27099,Mower County,Minnesota,MN,MN1,Central,Mountain Central
+27085,McLeod County,Minnesota,MN,MN3,Central,Mountain Central
+27119,Polk County,Minnesota,MN,MN2,Central,Mountain Central
+27015,Brown County,Minnesota,MN,MN3,Central,Mountain Central
+27153,Todd County,Minnesota,MN,MN2,Central,Mountain Central
+27147,Steele County,Minnesota,MN,MN3,Central,Mountain Central
+27093,Meeker County,Minnesota,MN,MN1,Central,Mountain Central
+27083,Lyon County,Minnesota,MN,MN2,Central,Mountain Central
+27017,Carlton County,Minnesota,MN,MN2,Central,Mountain Central
+27005,Becker County,Minnesota,MN,MN1,Central,Mountain Central
+27047,Freeborn County,Minnesota,MN,MN2,Central,Mountain Central
+27091,Martin County,Minnesota,MN,MN2,Central,Mountain Central
+27067,Kandiyohi County,Minnesota,MN,MN2,Central,Mountain Central
+27079,Le Sueur County,Minnesota,MN,MN3,Central,Mountain Central
+27057,Hubbard County,Minnesota,MN,MN2,Central,Mountain Central
+27039,Dodge County,Minnesota,MN,MN3,Central,Mountain Central
+27055,Houston County,Minnesota,MN,MN2,Central,Mountain Central
+27095,Mille Lacs County,Minnesota,MN,MN3,Central,Mountain Central
+27105,Nobles County,Minnesota,MN,MN2,Central,Mountain Central
+27045,Fillmore County,Minnesota,MN,MN3,Central,Mountain Central
+27115,Pine County,Minnesota,MN,MN2,Central,Mountain Central
+27161,Waseca County,Minnesota,MN,MN2,Central,Mountain Central
+27127,Redwood County,Minnesota,MN,MN2,Central,Mountain Central
+27129,Renville County,Minnesota,MN,MN2,Central,Mountain Central
+27043,Faribault County,Minnesota,MN,MN2,Central,Mountain Central
+27135,Roseau County,Minnesota,MN,MN3,Central,Mountain Central
+27021,Cass County,Minnesota,MN,MN2,Central,Mountain Central
+27159,Wadena County,Minnesota,MN,MN2,Central,Mountain Central
+27157,Wabasha County,Minnesota,MN,MN3,Central,Mountain Central
+27113,Pennington County,Minnesota,MN,MN1,Central,Mountain Central
+27033,Cottonwood County,Minnesota,MN,MN2,Central,Mountain Central
+27063,Jackson County,Minnesota,MN,MN1,Central,Mountain Central
+27001,Aitkin County,Minnesota,MN,MN2,Central,Mountain Central
+27089,Marshall County,Minnesota,MN,MN3,Central,Mountain Central
+27173,Yellow Medicine County,Minnesota,MN,MN1,Central,Mountain Central
+27075,Lake County,Minnesota,MN,MN1,Central,Mountain Central
+27165,Watonwan County,Minnesota,MN,MN1,Central,Mountain Central
+27065,Kanabec County,Minnesota,MN,MN3,Central,Mountain Central
+27117,Pipestone County,Minnesota,MN,MN1,Central,Mountain Central
+27107,Norman County,Minnesota,MN,MN2,Central,Mountain Central
+27143,Sibley County,Minnesota,MN,MN1,Central,Mountain Central
+27133,Rock County,Minnesota,MN,MN3,Central,Mountain Central
+27121,Pope County,Minnesota,MN,MN3,Central,Mountain Central
+27023,Chippewa County,Minnesota,MN,MN2,Central,Mountain Central
+27071,Koochiching County,Minnesota,MN,MN1,Central,Mountain Central
+27051,Grant County,Minnesota,MN,MN1,Central,Mountain Central
+27151,Swift County,Minnesota,MN,MN3,Central,Mountain Central
+27081,Lincoln County,Minnesota,MN,MN3,Central,Mountain Central
+27149,Stevens County,Minnesota,MN,MN3,Central,Mountain Central
+27101,Murray County,Minnesota,MN,MN2,Central,Mountain Central
+27029,Clearwater County,Minnesota,MN,MN3,Central,Mountain Central
+27167,Wilkin County,Minnesota,MN,MN1,Central,Mountain Central
+27073,Lac qui Parle County,Minnesota,MN,MN2,Central,Mountain Central
+27125,Red Lake County,Minnesota,MN,MN2,Central,Mountain Central
+27031,Cook County,Minnesota,MN,MN2,Central,Mountain Central
+27155,Traverse County,Minnesota,MN,MN3,Central,Mountain Central
+27077,Lake of the Woods County,Minnesota,MN,MN3,Central,Mountain Central
+27011,Big Stone County,Minnesota,MN,MN1,Central,Mountain Central
+27087,Mahnomen County,Minnesota,MN,MN1,Central,Mountain Central
+27069,Kittson County,Minnesota,MN,MN1,Central,Mountain Central
+46099,Minnehaha County,South Dakota,SD,SD3,Central,Mountain Central
+46103,Pennington County,South Dakota,SD,SD2,Central,Mountain Central
+46083,Lincoln County,South Dakota,SD,SD3,Central,Mountain Central
+46093,Meade County,South Dakota,SD,SD3,Central,Mountain Central
+46013,Brown County,South Dakota,SD,SD2,Central,Mountain Central
+46005,Beadle County,South Dakota,SD,SD1,Central,Mountain Central
+46029,Codington County,South Dakota,SD,SD1,Central,Mountain Central
+46011,Brookings County,South Dakota,SD,SD1,Central,Mountain Central
+46065,Hughes County,South Dakota,SD,SD1,Central,Mountain Central
+46081,Lawrence County,South Dakota,SD,SD2,Central,Mountain Central
+46035,Davison County,South Dakota,SD,SD2,Central,Mountain Central
+46127,Union County,South Dakota,SD,SD3,Central,Mountain Central
+46102,Oglala Lakota County,South Dakota,SD,SD3,Central,Mountain Central
+46135,Yankton County,South Dakota,SD,SD1,Central,Mountain Central
+46109,Roberts County,South Dakota,SD,SD3,Central,Mountain Central
+46023,Charles Mix County,South Dakota,SD,SD3,Central,Mountain Central
+46033,Custer County,South Dakota,SD,SD2,Central,Mountain Central
+46125,Turner County,South Dakota,SD,SD1,Central,Mountain Central
+46079,Lake County,South Dakota,SD,SD3,Central,Mountain Central
+46027,Clay County,South Dakota,SD,SD2,Central,Mountain Central
+46019,Butte County,South Dakota,SD,SD1,Central,Mountain Central
+46115,Spink County,South Dakota,SD,SD2,Central,Mountain Central
+46009,Bon Homme County,South Dakota,SD,SD1,Central,Mountain Central
+46047,Fall River County,South Dakota,SD,SD3,Central,Mountain Central
+46129,Walworth County,South Dakota,SD,SD2,Central,Mountain Central
+46015,Brule County,South Dakota,SD,SD2,Central,Mountain Central
+46067,Hutchinson County,South Dakota,SD,SD2,Central,Mountain Central
+46121,Todd County,South Dakota,SD,SD3,Central,Mountain Central
+46041,Dewey County,South Dakota,SD,SD2,Central,Mountain Central
+46087,McCook County,South Dakota,SD,SD3,Central,Mountain Central
+46091,Marshall County,South Dakota,SD,SD3,Central,Mountain Central
+46037,Day County,South Dakota,SD,SD3,Central,Mountain Central
+46077,Kingsbury County,South Dakota,SD,SD3,Central,Mountain Central
+46051,Grant County,South Dakota,SD,SD3,Central,Mountain Central
+46031,Corson County,South Dakota,SD,SD3,Central,Mountain Central
+46101,Moody County,South Dakota,SD,SD3,Central,Mountain Central
+46117,Stanley County,South Dakota,SD,SD3,Central,Mountain Central
+46123,Tripp County,South Dakota,SD,SD3,Central,Mountain Central
+46071,Jackson County,South Dakota,SD,SD2,Central,Mountain Central
+46039,Deuel County,South Dakota,SD,SD3,Central,Mountain Central
+46007,Bennett County,South Dakota,SD,SD2,Central,Mountain Central
+46057,Hamlin County,South Dakota,SD,SD3,Central,Mountain Central
+46045,Edmunds County,South Dakota,SD,SD3,Central,Mountain Central
+46053,Gregory County,South Dakota,SD,SD2,Central,Mountain Central
+46137,Ziebach County,South Dakota,SD,SD1,Central,Mountain Central
+46105,Perkins County,South Dakota,SD,SD2,Central,Mountain Central
+46107,Potter County,South Dakota,SD,SD3,Central,Mountain Central
+46059,Hand County,South Dakota,SD,SD1,Central,Mountain Central
+46097,Miner County,South Dakota,SD,SD2,Central,Mountain Central
+46025,Clark County,South Dakota,SD,SD3,Central,Mountain Central
+46085,Lyman County,South Dakota,SD,SD1,Central,Mountain Central
+46061,Hanson County,South Dakota,SD,SD2,Central,Mountain Central
+46043,Douglas County,South Dakota,SD,SD3,Central,Mountain Central
+46017,Buffalo County,South Dakota,SD,SD1,Central,Mountain Central
+46003,Aurora County,South Dakota,SD,SD1,Central,Mountain Central
+46021,Campbell County,South Dakota,SD,SD1,Central,Mountain Central
+46049,Faulk County,South Dakota,SD,SD2,Central,Mountain Central
+46069,Hyde County,South Dakota,SD,SD3,Central,Mountain Central
+46095,Mellette County,South Dakota,SD,SD2,Central,Mountain Central
+46119,Sully County,South Dakota,SD,SD3,Central,Mountain Central
+46089,McPherson County,South Dakota,SD,SD3,Central,Mountain Central
+46073,Jerauld County,South Dakota,SD,SD2,Central,Mountain Central
+46111,Sanborn County,South Dakota,SD,SD3,Central,Mountain Central
+46055,Haakon County,South Dakota,SD,SD3,Central,Mountain Central
+46063,Harding County,South Dakota,SD,SD3,Central,Mountain Central
+46075,Jones County,South Dakota,SD,SD1,Central,Mountain Central
+8041,El Paso County,Colorado,CO,CO3,Central,Mountain Central
+8005,Arapahoe County,Colorado,CO,CO1,Central,Mountain Central
+8001,Adams County,Colorado,CO,CO3,Central,Mountain Central
+8059,Jefferson County,Colorado,CO,CO2,Central,Mountain Central
+8031,Denver County,Colorado,CO,CO2,Central,Mountain Central
+8123,Weld County,Colorado,CO,CO1,Central,Mountain Central
+8035,Douglas County,Colorado,CO,CO1,Central,Mountain Central
+8069,Larimer County,Colorado,CO,CO1,Central,Mountain Central
+8013,Boulder County,Colorado,CO,CO2,Central,Mountain Central
+8101,Pueblo County,Colorado,CO,CO3,Central,Mountain Central
+8077,Mesa County,Colorado,CO,CO1,Central,Mountain Central
+8045,Garfield County,Colorado,CO,CO2,Central,Mountain Central
+8043,Fremont County,Colorado,CO,CO3,Central,Mountain Central
+8037,Eagle County,Colorado,CO,CO2,Central,Mountain Central
+8067,La Plata County,Colorado,CO,CO2,Central,Mountain Central
+8085,Montrose County,Colorado,CO,CO2,Central,Mountain Central
+8014,Broomfield County,Colorado,CO,CO3,Central,Mountain Central
+8083,Montezuma County,Colorado,CO,CO3,Central,Mountain Central
+8075,Logan County,Colorado,CO,CO1,Central,Mountain Central
+8119,Teller County,Colorado,CO,CO1,Central,Mountain Central
+8087,Morgan County,Colorado,CO,CO2,Central,Mountain Central
+8015,Chaffee County,Colorado,CO,CO1,Central,Mountain Central
+8029,Delta County,Colorado,CO,CO2,Central,Mountain Central
+8039,Elbert County,Colorado,CO,CO2,Central,Mountain Central
+8117,Summit County,Colorado,CO,CO3,Central,Mountain Central
+8081,Moffat County,Colorado,CO,CO3,Central,Mountain Central
+8071,Las Animas County,Colorado,CO,CO2,Central,Mountain Central
+8107,Routt County,Colorado,CO,CO1,Central,Mountain Central
+8105,Rio Grande County,Colorado,CO,CO1,Central,Mountain Central
+8097,Pitkin County,Colorado,CO,CO3,Central,Mountain Central
+8003,Alamosa County,Colorado,CO,CO3,Central,Mountain Central
+8099,Prowers County,Colorado,CO,CO1,Central,Mountain Central
+8089,Otero County,Colorado,CO,CO1,Central,Mountain Central
+8093,Park County,Colorado,CO,CO1,Central,Mountain Central
+8007,Archuleta County,Colorado,CO,CO1,Central,Mountain Central
+8019,Clear Creek County,Colorado,CO,CO1,Central,Mountain Central
+8125,Yuma County,Colorado,CO,CO2,Central,Mountain Central
+8051,Gunnison County,Colorado,CO,CO3,Central,Mountain Central
+8021,Conejos County,Colorado,CO,CO3,Central,Mountain Central
+8049,Grand County,Colorado,CO,CO1,Central,Mountain Central
+8113,San Miguel County,Colorado,CO,CO1,Central,Mountain Central
+8065,Lake County,Colorado,CO,CO1,Central,Mountain Central
+8109,Saguache County,Colorado,CO,CO2,Central,Mountain Central
+8047,Gilpin County,Colorado,CO,CO1,Central,Mountain Central
+8025,Crowley County,Colorado,CO,CO1,Central,Mountain Central
+8063,Kit Carson County,Colorado,CO,CO3,Central,Mountain Central
+8055,Huerfano County,Colorado,CO,CO2,Central,Mountain Central
+8095,Phillips County,Colorado,CO,CO2,Central,Mountain Central
+8121,Washington County,Colorado,CO,CO1,Central,Mountain Central
+8091,Ouray County,Colorado,CO,CO3,Central,Mountain Central
+8027,Custer County,Colorado,CO,CO1,Central,Mountain Central
+8103,Rio Blanco County,Colorado,CO,CO3,Central,Mountain Central
+8023,Costilla County,Colorado,CO,CO1,Central,Mountain Central
+8011,Bent County,Colorado,CO,CO1,Central,Mountain Central
+8073,Lincoln County,Colorado,CO,CO1,Central,Mountain Central
+8009,Baca County,Colorado,CO,CO3,Central,Mountain Central
+8115,Sedgwick County,Colorado,CO,CO1,Central,Mountain Central
+8033,Dolores County,Colorado,CO,CO1,Central,Mountain Central
+8017,Cheyenne County,Colorado,CO,CO3,Central,Mountain Central
+8057,Jackson County,Colorado,CO,CO3,Central,Mountain Central
+8061,Kiowa County,Colorado,CO,CO3,Central,Mountain Central
+8111,San Juan County,Colorado,CO,CO1,Central,Mountain Central
+8053,Hinsdale County,Colorado,CO,CO2,Central,Mountain Central
+8079,Mineral County,Colorado,CO,CO1,Central,Mountain Central
+38017,Cass County,North Dakota,ND,ND2,Central,Mountain Central
+38015,Burleigh County,North Dakota,ND,ND2,Central,Mountain Central
+38101,Ward County,North Dakota,ND,ND2,Central,Mountain Central
+38035,Grand Forks County,North Dakota,ND,ND3,Central,Mountain Central
+38059,Morton County,North Dakota,ND,ND2,Central,Mountain Central
+38093,Stutsman County,North Dakota,ND,ND3,Central,Mountain Central
+38105,Williams County,North Dakota,ND,ND1,Central,Mountain Central
+38089,Stark County,North Dakota,ND,ND3,Central,Mountain Central
+38079,Rolette County,North Dakota,ND,ND3,Central,Mountain Central
+38071,Ramsey County,North Dakota,ND,ND1,Central,Mountain Central
+38003,Barnes County,North Dakota,ND,ND3,Central,Mountain Central
+38099,Walsh County,North Dakota,ND,ND1,Central,Mountain Central
+38097,Traill County,North Dakota,ND,ND1,Central,Mountain Central
+38077,Richland County,North Dakota,ND,ND2,Central,Mountain Central
+38057,Mercer County,North Dakota,ND,ND3,Central,Mountain Central
+38055,McLean County,North Dakota,ND,ND1,Central,Mountain Central
+38067,Pembina County,North Dakota,ND,ND3,Central,Mountain Central
+38073,Ransom County,North Dakota,ND,ND3,Central,Mountain Central
+38061,Mountrail County,North Dakota,ND,ND3,Central,Mountain Central
+38053,McKenzie County,North Dakota,ND,ND3,Central,Mountain Central
+38009,Bottineau County,North Dakota,ND,ND2,Central,Mountain Central
+38049,McHenry County,North Dakota,ND,ND3,Central,Mountain Central
+38069,Pierce County,North Dakota,ND,ND2,Central,Mountain Central
+38005,Benson County,North Dakota,ND,ND3,Central,Mountain Central
+38045,LaMoure County,North Dakota,ND,ND2,Central,Mountain Central
+38029,Emmons County,North Dakota,ND,ND1,Central,Mountain Central
+38051,McIntosh County,North Dakota,ND,ND2,Central,Mountain Central
+38021,Dickey County,North Dakota,ND,ND2,Central,Mountain Central
+38063,Nelson County,North Dakota,ND,ND1,Central,Mountain Central
+38025,Dunn County,North Dakota,ND,ND2,Central,Mountain Central
+38041,Hettinger County,North Dakota,ND,ND3,Central,Mountain Central
+38103,Wells County,North Dakota,ND,ND3,Central,Mountain Central
+38085,Sioux County,North Dakota,ND,ND2,Central,Mountain Central
+38013,Burke County,North Dakota,ND,ND2,Central,Mountain Central
+38019,Cavalier County,North Dakota,ND,ND3,Central,Mountain Central
+38027,Eddy County,North Dakota,ND,ND1,Central,Mountain Central
+38075,Renville County,North Dakota,ND,ND1,Central,Mountain Central
+38081,Sargent County,North Dakota,ND,ND1,Central,Mountain Central
+38095,Towner County,North Dakota,ND,ND1,Central,Mountain Central
+38011,Bowman County,North Dakota,ND,ND1,Central,Mountain Central
+38047,Logan County,North Dakota,ND,ND1,Central,Mountain Central
+38091,Steele County,North Dakota,ND,ND2,Central,Mountain Central
+38031,Foster County,North Dakota,ND,ND3,Central,Mountain Central
+38023,Divide County,North Dakota,ND,ND3,Central,Mountain Central
+38033,Golden Valley County,North Dakota,ND,ND1,Central,Mountain Central
+38037,Grant County,North Dakota,ND,ND3,Central,Mountain Central
+38039,Griggs County,North Dakota,ND,ND3,Central,Mountain Central
+38043,Kidder County,North Dakota,ND,ND1,Central,Mountain Central
+38065,Oliver County,North Dakota,ND,ND2,Central,Mountain Central
+38083,Sheridan County,North Dakota,ND,ND1,Central,Mountain Central
+38001,Adams County,North Dakota,ND,ND1,Central,Mountain Central
+38087,Slope County,North Dakota,ND,ND2,Central,Mountain Central
+38007,Billings County,North Dakota,ND,ND1,Central,Mountain Central
+22071,Orleans Parish,Louisiana,LA,LA1,Southeast,Gulf
+22051,Jefferson Parish,Louisiana,LA,LA1,Southeast,Gulf
+22033,East Baton Rouge Parish,Louisiana,LA,LA3,Southeast,Gulf
+22055,Lafayette Parish,Louisiana,LA,LA3,Southeast,Gulf
+22063,Livingston Parish,Louisiana,LA,LA3,Southeast,Gulf
+22073,Ouachita Parish,Louisiana,LA,LA3,Southeast,Gulf
+22017,Caddo Parish,Louisiana,LA,LA3,Southeast,Gulf
+22103,St. Tammany Parish,Louisiana,LA,LA1,Southeast,Gulf
+22079,Rapides Parish,Louisiana,LA,LA2,Southeast,Gulf
+22019,Calcasieu Parish,Louisiana,LA,LA1,Southeast,Gulf
+22109,Terrebonne Parish,Louisiana,LA,LA2,Southeast,Gulf
+22105,Tangipahoa Parish,Louisiana,LA,LA3,Southeast,Gulf
+22015,Bossier Parish,Louisiana,LA,LA3,Southeast,Gulf
+22057,Lafourche Parish,Louisiana,LA,LA2,Southeast,Gulf
+22005,Ascension Parish,Louisiana,LA,LA2,Southeast,Gulf
+22097,St. Landry Parish,Louisiana,LA,LA1,Southeast,Gulf
+22001,Acadia Parish,Louisiana,LA,LA1,Southeast,Gulf
+22115,Vernon Parish,Louisiana,LA,LA1,Southeast,Gulf
+22061,Lincoln Parish,Louisiana,LA,LA2,Southeast,Gulf
+22101,St. Mary Parish,Louisiana,LA,LA1,Southeast,Gulf
+22045,Iberia Parish,Louisiana,LA,LA1,Southeast,Gulf
+22087,St. Bernard Parish,Louisiana,LA,LA3,Southeast,Gulf
+22099,St. Martin Parish,Louisiana,LA,LA2,Southeast,Gulf
+22011,Beauregard Parish,Louisiana,LA,LA1,Southeast,Gulf
+22039,Evangeline Parish,Louisiana,LA,LA2,Southeast,Gulf
+22117,Washington Parish,Louisiana,LA,LA3,Southeast,Gulf
+22069,Natchitoches Parish,Louisiana,LA,LA1,Southeast,Gulf
+22089,St. Charles Parish,Louisiana,LA,LA2,Southeast,Gulf
+22113,Vermilion Parish,Louisiana,LA,LA2,Southeast,Gulf
+22067,Morehouse Parish,Louisiana,LA,LA3,Southeast,Gulf
+22031,De Soto Parish,Louisiana,LA,LA1,Southeast,Gulf
+22095,St. John the Baptist Parish,Louisiana,LA,LA3,Southeast,Gulf
+22003,Allen Parish,Louisiana,LA,LA3,Southeast,Gulf
+22047,Iberville Parish,Louisiana,LA,LA3,Southeast,Gulf
+22009,Avoyelles Parish,Louisiana,LA,LA3,Southeast,Gulf
+22119,Webster Parish,Louisiana,LA,LA3,Southeast,Gulf
+22075,Plaquemines Parish,Louisiana,LA,LA3,Southeast,Gulf
+22043,Grant Parish,Louisiana,LA,LA2,Southeast,Gulf
+22083,Richland Parish,Louisiana,LA,LA1,Southeast,Gulf
+22041,Franklin Parish,Louisiana,LA,LA3,Southeast,Gulf
+22037,East Feliciana Parish,Louisiana,LA,LA3,Southeast,Gulf
+22029,Concordia Parish,Louisiana,LA,LA3,Southeast,Gulf
+22121,West Baton Rouge Parish,Louisiana,LA,LA1,Southeast,Gulf
+22053,Jefferson Davis Parish,Louisiana,LA,LA1,Southeast,Gulf
+22049,Jackson Parish,Louisiana,LA,LA3,Southeast,Gulf
+22027,Claiborne Parish,Louisiana,LA,LA1,Southeast,Gulf
+22059,LaSalle Parish,Louisiana,LA,LA2,Southeast,Gulf
+22077,Pointe Coupee Parish,Louisiana,LA,LA3,Southeast,Gulf
+22007,Assumption Parish,Louisiana,LA,LA1,Southeast,Gulf
+22093,St. James Parish,Louisiana,LA,LA3,Southeast,Gulf
+22085,Sabine Parish,Louisiana,LA,LA1,Southeast,Gulf
+22111,Union Parish,Louisiana,LA,LA2,Southeast,Gulf
+22065,Madison Parish,Louisiana,LA,LA1,Southeast,Gulf
+22013,Bienville Parish,Louisiana,LA,LA3,Southeast,Gulf
+22021,Caldwell Parish,Louisiana,LA,LA3,Southeast,Gulf
+22125,West Feliciana Parish,Louisiana,LA,LA2,Southeast,Gulf
+22127,Winn Parish,Louisiana,LA,LA1,Southeast,Gulf
+22081,Red River Parish,Louisiana,LA,LA1,Southeast,Gulf
+22025,Catahoula Parish,Louisiana,LA,LA3,Southeast,Gulf
+22035,East Carroll Parish,Louisiana,LA,LA1,Southeast,Gulf
+22123,West Carroll Parish,Louisiana,LA,LA1,Southeast,Gulf
+22091,St. Helena Parish,Louisiana,LA,LA3,Southeast,Gulf
+22023,Cameron Parish,Louisiana,LA,LA3,Southeast,Gulf
+22107,Tensas Parish,Louisiana,LA,LA1,Southeast,Gulf
+12011,Broward County,Florida,FL,FL3,Southeast,Gulf
+12086,MiamiDade County,Florida,FL,FL2,Southeast,Gulf
+12057,Hillsborough County,Florida,FL,FL2,Southeast,Gulf
+12103,Pinellas County,Florida,FL,FL1,Southeast,Gulf
+12095,Orange County,Florida,FL,FL1,Southeast,Gulf
+12099,Palm Beach County,Florida,FL,FL1,Southeast,Gulf
+12031,Duval County,Florida,FL,FL1,Southeast,Gulf
+12105,Polk County,Florida,FL,FL1,Southeast,Gulf
+12127,Volusia County,Florida,FL,FL3,Southeast,Gulf
+12101,Pasco County,Florida,FL,FL3,Southeast,Gulf
+12009,Brevard County,Florida,FL,FL2,Southeast,Gulf
+12071,Lee County,Florida,FL,FL1,Southeast,Gulf
+12117,Seminole County,Florida,FL,FL1,Southeast,Gulf
+12033,Escambia County,Florida,FL,FL1,Southeast,Gulf
+12021,Collier County,Florida,FL,FL2,Southeast,Gulf
+12115,Sarasota County,Florida,FL,FL2,Southeast,Gulf
+12081,Manatee County,Florida,FL,FL1,Southeast,Gulf
+12109,St. Johns County,Florida,FL,FL1,Southeast,Gulf
+12073,Leon County,Florida,FL,FL2,Southeast,Gulf
+12097,Osceola County,Florida,FL,FL3,Southeast,Gulf
+12083,Marion County,Florida,FL,FL3,Southeast,Gulf
+12091,Okaloosa County,Florida,FL,FL3,Southeast,Gulf
+12111,St. Lucie County,Florida,FL,FL2,Southeast,Gulf
+12005,Bay County,Florida,FL,FL2,Southeast,Gulf
+12069,Lake County,Florida,FL,FL3,Southeast,Gulf
+12001,Alachua County,Florida,FL,FL2,Southeast,Gulf
+12019,Clay County,Florida,FL,FL3,Southeast,Gulf
+12053,Hernando County,Florida,FL,FL1,Southeast,Gulf
+12085,Martin County,Florida,FL,FL3,Southeast,Gulf
+12119,Sumter County,Florida,FL,FL3,Southeast,Gulf
+12061,Indian River County,Florida,FL,FL2,Southeast,Gulf
+12035,Flagler County,Florida,FL,FL1,Southeast,Gulf
+12017,Citrus County,Florida,FL,FL2,Southeast,Gulf
+12015,Charlotte County,Florida,FL,FL1,Southeast,Gulf
+12113,Santa Rosa County,Florida,FL,FL2,Southeast,Gulf
+12087,Monroe County,Florida,FL,FL1,Southeast,Gulf
+12107,Putnam County,Florida,FL,FL1,Southeast,Gulf
+12089,Nassau County,Florida,FL,FL2,Southeast,Gulf
+12023,Columbia County,Florida,FL,FL2,Southeast,Gulf
+12131,Walton County,Florida,FL,FL1,Southeast,Gulf
+12055,Highlands County,Florida,FL,FL2,Southeast,Gulf
+12039,Gadsden County,Florida,FL,FL1,Southeast,Gulf
+12121,Suwannee County,Florida,FL,FL1,Southeast,Gulf
+12049,Hardee County,Florida,FL,FL3,Southeast,Gulf
+12063,Jackson County,Florida,FL,FL2,Southeast,Gulf
+12003,Baker County,Florida,FL,FL3,Southeast,Gulf
+12129,Wakulla County,Florida,FL,FL3,Southeast,Gulf
+12027,DeSoto County,Florida,FL,FL1,Southeast,Gulf
+12007,Bradford County,Florida,FL,FL1,Southeast,Gulf
+12133,Washington County,Florida,FL,FL1,Southeast,Gulf
+12123,Taylor County,Florida,FL,FL3,Southeast,Gulf
+12075,Levy County,Florida,FL,FL1,Southeast,Gulf
+12093,Okeechobee County,Florida,FL,FL3,Southeast,Gulf
+12051,Hendry County,Florida,FL,FL2,Southeast,Gulf
+12041,Gilchrist County,Florida,FL,FL2,Southeast,Gulf
+12047,Hamilton County,Florida,FL,FL3,Southeast,Gulf
+12013,Calhoun County,Florida,FL,FL1,Southeast,Gulf
+12029,Dixie County,Florida,FL,FL1,Southeast,Gulf
+12065,Jefferson County,Florida,FL,FL2,Southeast,Gulf
+12037,Franklin County,Florida,FL,FL2,Southeast,Gulf
+12059,Holmes County,Florida,FL,FL1,Southeast,Gulf
+12079,Madison County,Florida,FL,FL2,Southeast,Gulf
+12045,Gulf County,Florida,FL,FL1,Southeast,Gulf
+12125,Union County,Florida,FL,FL3,Southeast,Gulf
+12043,Glades County,Florida,FL,FL3,Southeast,Gulf
+12067,Lafayette County,Florida,FL,FL3,Southeast,Gulf
+12077,Liberty County,Florida,FL,FL3,Southeast,Gulf
+1073,Jefferson County,Alabama,AL,AL3,Southeast,Gulf
+1097,Mobile County,Alabama,AL,AL1,Southeast,Gulf
+1101,Montgomery County,Alabama,AL,AL2,Southeast,Gulf
+1089,Madison County,Alabama,AL,AL2,Southeast,Gulf
+1125,Tuscaloosa County,Alabama,AL,AL1,Southeast,Gulf
+1117,Shelby County,Alabama,AL,AL3,Southeast,Gulf
+1103,Morgan County,Alabama,AL,AL1,Southeast,Gulf
+1003,Baldwin County,Alabama,AL,AL2,Southeast,Gulf
+1015,Calhoun County,Alabama,AL,AL1,Southeast,Gulf
+1115,St. Clair County,Alabama,AL,AL1,Southeast,Gulf
+1083,Limestone County,Alabama,AL,AL2,Southeast,Gulf
+1069,Houston County,Alabama,AL,AL3,Southeast,Gulf
+1081,Lee County,Alabama,AL,AL2,Southeast,Gulf
+1009,Blount County,Alabama,AL,AL3,Southeast,Gulf
+1001,Autauga County,Alabama,AL,AL3,Southeast,Gulf
+1055,Etowah County,Alabama,AL,AL1,Southeast,Gulf
+1043,Cullman County,Alabama,AL,AL1,Southeast,Gulf
+1095,Marshall County,Alabama,AL,AL3,Southeast,Gulf
+1071,Jackson County,Alabama,AL,AL3,Southeast,Gulf
+1049,DeKalb County,Alabama,AL,AL2,Southeast,Gulf
+1021,Chilton County,Alabama,AL,AL1,Southeast,Gulf
+1047,Dallas County,Alabama,AL,AL1,Southeast,Gulf
+1077,Lauderdale County,Alabama,AL,AL3,Southeast,Gulf
+1113,Russell County,Alabama,AL,AL3,Southeast,Gulf
+1127,Walker County,Alabama,AL,AL3,Southeast,Gulf
+1051,Elmore County,Alabama,AL,AL1,Southeast,Gulf
+1121,Talladega County,Alabama,AL,AL2,Southeast,Gulf
+1031,Coffee County,Alabama,AL,AL2,Southeast,Gulf
+1123,Tallapoosa County,Alabama,AL,AL1,Southeast,Gulf
+1017,Chambers County,Alabama,AL,AL1,Southeast,Gulf
+1109,Pike County,Alabama,AL,AL3,Southeast,Gulf
+1053,Escambia County,Alabama,AL,AL1,Southeast,Gulf
+1079,Lawrence County,Alabama,AL,AL3,Southeast,Gulf
+1045,Dale County,Alabama,AL,AL1,Southeast,Gulf
+1033,Colbert County,Alabama,AL,AL2,Southeast,Gulf
+1093,Marion County,Alabama,AL,AL3,Southeast,Gulf
+1019,Cherokee County,Alabama,AL,AL3,Southeast,Gulf
+1005,Barbour County,Alabama,AL,AL3,Southeast,Gulf
+1025,Clarke County,Alabama,AL,AL3,Southeast,Gulf
+1133,Winston County,Alabama,AL,AL1,Southeast,Gulf
+1061,Geneva County,Alabama,AL,AL3,Southeast,Gulf
+1099,Monroe County,Alabama,AL,AL2,Southeast,Gulf
+1007,Bibb County,Alabama,AL,AL3,Southeast,Gulf
+1091,Marengo County,Alabama,AL,AL2,Southeast,Gulf
+1087,Macon County,Alabama,AL,AL2,Southeast,Gulf
+1111,Randolph County,Alabama,AL,AL2,Southeast,Gulf
+1107,Pickens County,Alabama,AL,AL1,Southeast,Gulf
+1039,Covington County,Alabama,AL,AL2,Southeast,Gulf
+1059,Franklin County,Alabama,AL,AL1,Southeast,Gulf
+1057,Fayette County,Alabama,AL,AL2,Southeast,Gulf
+1023,Choctaw County,Alabama,AL,AL2,Southeast,Gulf
+1067,Henry County,Alabama,AL,AL3,Southeast,Gulf
+1065,Hale County,Alabama,AL,AL3,Southeast,Gulf
+1027,Clay County,Alabama,AL,AL1,Southeast,Gulf
+1075,Lamar County,Alabama,AL,AL1,Southeast,Gulf
+1129,Washington County,Alabama,AL,AL1,Southeast,Gulf
+1013,Butler County,Alabama,AL,AL3,Southeast,Gulf
+1131,Wilcox County,Alabama,AL,AL2,Southeast,Gulf
+1041,Crenshaw County,Alabama,AL,AL2,Southeast,Gulf
+1037,Coosa County,Alabama,AL,AL2,Southeast,Gulf
+1029,Cleburne County,Alabama,AL,AL2,Southeast,Gulf
+1119,Sumter County,Alabama,AL,AL1,Southeast,Gulf
+1035,Conecuh County,Alabama,AL,AL1,Southeast,Gulf
+1085,Lowndes County,Alabama,AL,AL1,Southeast,Gulf
+1105,Perry County,Alabama,AL,AL2,Southeast,Gulf
+1011,Bullock County,Alabama,AL,AL3,Southeast,Gulf
+1063,Greene County,Alabama,AL,AL1,Southeast,Gulf
+28049,Hinds County,Mississippi,MS,MS2,Southeast,Gulf
+28047,Harrison County,Mississippi,MS,MS2,Southeast,Gulf
+28033,DeSoto County,Mississippi,MS,MS2,Southeast,Gulf
+28121,Rankin County,Mississippi,MS,MS3,Southeast,Gulf
+28081,Lee County,Mississippi,MS,MS3,Southeast,Gulf
+28059,Jackson County,Mississippi,MS,MS2,Southeast,Gulf
+28067,Jones County,Mississippi,MS,MS2,Southeast,Gulf
+28035,Forrest County,Mississippi,MS,MS2,Southeast,Gulf
+28151,Washington County,Mississippi,MS,MS3,Southeast,Gulf
+28075,Lauderdale County,Mississippi,MS,MS2,Southeast,Gulf
+28089,Madison County,Mississippi,MS,MS1,Southeast,Gulf
+28071,Lafayette County,Mississippi,MS,MS3,Southeast,Gulf
+28073,Lamar County,Mississippi,MS,MS3,Southeast,Gulf
+28109,Pearl River County,Mississippi,MS,MS1,Southeast,Gulf
+28105,Oktibbeha County,Mississippi,MS,MS3,Southeast,Gulf
+28095,Monroe County,Mississippi,MS,MS1,Southeast,Gulf
+28093,Marshall County,Mississippi,MS,MS1,Southeast,Gulf
+28087,Lowndes County,Mississippi,MS,MS3,Southeast,Gulf
+28045,Hancock County,Mississippi,MS,MS3,Southeast,Gulf
+28113,Pike County,Mississippi,MS,MS3,Southeast,Gulf
+28149,Warren County,Mississippi,MS,MS1,Southeast,Gulf
+28137,Tate County,Mississippi,MS,MS3,Southeast,Gulf
+28091,Marion County,Mississippi,MS,MS2,Southeast,Gulf
+28027,Coahoma County,Mississippi,MS,MS1,Southeast,Gulf
+28145,Union County,Mississippi,MS,MS3,Southeast,Gulf
+28117,Prentiss County,Mississippi,MS,MS1,Southeast,Gulf
+28107,Panola County,Mississippi,MS,MS3,Southeast,Gulf
+28123,Scott County,Mississippi,MS,MS2,Southeast,Gulf
+28085,Lincoln County,Mississippi,MS,MS2,Southeast,Gulf
+28083,Leflore County,Mississippi,MS,MS2,Southeast,Gulf
+28001,Adams County,Mississippi,MS,MS2,Southeast,Gulf
+28127,Simpson County,Mississippi,MS,MS2,Southeast,Gulf
+28029,Copiah County,Mississippi,MS,MS3,Southeast,Gulf
+28003,Alcorn County,Mississippi,MS,MS1,Southeast,Gulf
+28051,Holmes County,Mississippi,MS,MS3,Southeast,Gulf
+28141,Tishomingo County,Mississippi,MS,MS1,Southeast,Gulf
+28131,Stone County,Mississippi,MS,MS2,Southeast,Gulf
+28163,Yazoo County,Mississippi,MS,MS1,Southeast,Gulf
+28011,Bolivar County,Mississippi,MS,MS3,Southeast,Gulf
+28159,Winston County,Mississippi,MS,MS1,Southeast,Gulf
+28031,Covington County,Mississippi,MS,MS2,Southeast,Gulf
+28115,Pontotoc County,Mississippi,MS,MS1,Southeast,Gulf
+28057,Itawamba County,Mississippi,MS,MS2,Southeast,Gulf
+28139,Tippah County,Mississippi,MS,MS2,Southeast,Gulf
+28079,Leake County,Mississippi,MS,MS3,Southeast,Gulf
+28043,Grenada County,Mississippi,MS,MS3,Southeast,Gulf
+28099,Neshoba County,Mississippi,MS,MS2,Southeast,Gulf
+28101,Newton County,Mississippi,MS,MS3,Southeast,Gulf
+28061,Jasper County,Mississippi,MS,MS2,Southeast,Gulf
+28135,Tallahatchie County,Mississippi,MS,MS2,Southeast,Gulf
+28133,Sunflower County,Mississippi,MS,MS3,Southeast,Gulf
+28147,Walthall County,Mississippi,MS,MS2,Southeast,Gulf
+28153,Wayne County,Mississippi,MS,MS1,Southeast,Gulf
+28017,Chickasaw County,Mississippi,MS,MS2,Southeast,Gulf
+28025,Clay County,Mississippi,MS,MS1,Southeast,Gulf
+28039,George County,Mississippi,MS,MS1,Southeast,Gulf
+28129,Smith County,Mississippi,MS,MS1,Southeast,Gulf
+28013,Calhoun County,Mississippi,MS,MS3,Southeast,Gulf
+28007,Attala County,Mississippi,MS,MS3,Southeast,Gulf
+28023,Clarke County,Mississippi,MS,MS2,Southeast,Gulf
+28065,Jefferson Davis County,Mississippi,MS,MS2,Southeast,Gulf
+28041,Greene County,Mississippi,MS,MS3,Southeast,Gulf
+28111,Perry County,Mississippi,MS,MS1,Southeast,Gulf
+28103,Noxubee County,Mississippi,MS,MS3,Southeast,Gulf
+28161,Yalobusha County,Mississippi,MS,MS2,Southeast,Gulf
+28015,Carroll County,Mississippi,MS,MS3,Southeast,Gulf
+28053,Humphreys County,Mississippi,MS,MS2,Southeast,Gulf
+28157,Wilkinson County,Mississippi,MS,MS3,Southeast,Gulf
+28063,Jefferson County,Mississippi,MS,MS1,Southeast,Gulf
+28037,Franklin County,Mississippi,MS,MS3,Southeast,Gulf
+28097,Montgomery County,Mississippi,MS,MS1,Southeast,Gulf
+28019,Choctaw County,Mississippi,MS,MS3,Southeast,Gulf
+28005,Amite County,Mississippi,MS,MS2,Southeast,Gulf
+28077,Lawrence County,Mississippi,MS,MS2,Southeast,Gulf
+28069,Kemper County,Mississippi,MS,MS1,Southeast,Gulf
+28143,Tunica County,Mississippi,MS,MS3,Southeast,Gulf
+28021,Claiborne County,Mississippi,MS,MS1,Southeast,Gulf
+28119,Quitman County,Mississippi,MS,MS2,Southeast,Gulf
+28155,Webster County,Mississippi,MS,MS3,Southeast,Gulf
+28009,Benton County,Mississippi,MS,MS3,Southeast,Gulf
+28125,Sharkey County,Mississippi,MS,MS1,Southeast,Gulf
+28055,Issaquena County,Mississippi,MS,MS1,Southeast,Gulf
+47157,Shelby County,Tennessee,TN,TN2,Southeast,Southeast Core
+47037,Davidson County,Tennessee,TN,TN3,Southeast,Southeast Core
+47065,Hamilton County,Tennessee,TN,TN3,Southeast,Southeast Core
+47093,Knox County,Tennessee,TN,TN3,Southeast,Southeast Core
+47149,Rutherford County,Tennessee,TN,TN3,Southeast,Southeast Core
+47187,Williamson County,Tennessee,TN,TN1,Southeast,Southeast Core
+47125,Montgomery County,Tennessee,TN,TN2,Southeast,Southeast Core
+47165,Sumner County,Tennessee,TN,TN3,Southeast,Southeast Core
+47163,Sullivan County,Tennessee,TN,TN2,Southeast,Southeast Core
+47179,Washington County,Tennessee,TN,TN2,Southeast,Southeast Core
+47189,Wilson County,Tennessee,TN,TN1,Southeast,Southeast Core
+47119,Maury County,Tennessee,TN,TN1,Southeast,Southeast Core
+47011,Bradley County,Tennessee,TN,TN1,Southeast,Southeast Core
+47141,Putnam County,Tennessee,TN,TN1,Southeast,Southeast Core
+47009,Blount County,Tennessee,TN,TN2,Southeast,Southeast Core
+47113,Madison County,Tennessee,TN,TN2,Southeast,Southeast Core
+47001,Anderson County,Tennessee,TN,TN1,Southeast,Southeast Core
+47167,Tipton County,Tennessee,TN,TN3,Southeast,Southeast Core
+47073,Hawkins County,Tennessee,TN,TN3,Southeast,Southeast Core
+47035,Cumberland County,Tennessee,TN,TN1,Southeast,Southeast Core
+47031,Coffee County,Tennessee,TN,TN1,Southeast,Southeast Core
+47155,Sevier County,Tennessee,TN,TN1,Southeast,Southeast Core
+47107,McMinn County,Tennessee,TN,TN2,Southeast,Southeast Core
+47043,Dickson County,Tennessee,TN,TN2,Southeast,Southeast Core
+47145,Roane County,Tennessee,TN,TN1,Southeast,Southeast Core
+47089,Jefferson County,Tennessee,TN,TN3,Southeast,Southeast Core
+47147,Robertson County,Tennessee,TN,TN3,Southeast,Southeast Core
+47013,Campbell County,Tennessee,TN,TN1,Southeast,Southeast Core
+47021,Cheatham County,Tennessee,TN,TN3,Southeast,Southeast Core
+47059,Greene County,Tennessee,TN,TN2,Southeast,Southeast Core
+47003,Bedford County,Tennessee,TN,TN1,Southeast,Southeast Core
+47099,Lawrence County,Tennessee,TN,TN3,Southeast,Southeast Core
+47123,Monroe County,Tennessee,TN,TN2,Southeast,Southeast Core
+47063,Hamblen County,Tennessee,TN,TN1,Southeast,Southeast Core
+47183,Weakley County,Tennessee,TN,TN1,Southeast,Southeast Core
+47029,Cocke County,Tennessee,TN,TN1,Southeast,Southeast Core
+47053,Gibson County,Tennessee,TN,TN3,Southeast,Southeast Core
+47131,Obion County,Tennessee,TN,TN1,Southeast,Southeast Core
+47115,Marion County,Tennessee,TN,TN1,Southeast,Southeast Core
+47025,Claiborne County,Tennessee,TN,TN2,Southeast,Southeast Core
+47103,Lincoln County,Tennessee,TN,TN3,Southeast,Southeast Core
+47143,Rhea County,Tennessee,TN,TN3,Southeast,Southeast Core
+47045,Dyer County,Tennessee,TN,TN1,Southeast,Southeast Core
+47071,Hardin County,Tennessee,TN,TN2,Southeast,Southeast Core
+47097,Lauderdale County,Tennessee,TN,TN3,Southeast,Southeast Core
+47047,Fayette County,Tennessee,TN,TN2,Southeast,Southeast Core
+47019,Carter County,Tennessee,TN,TN1,Southeast,Southeast Core
+47105,Loudon County,Tennessee,TN,TN2,Southeast,Southeast Core
+47177,Warren County,Tennessee,TN,TN1,Southeast,Southeast Core
+47051,Franklin County,Tennessee,TN,TN1,Southeast,Southeast Core
+47117,Marshall County,Tennessee,TN,TN3,Southeast,Southeast Core
+47041,DeKalb County,Tennessee,TN,TN2,Southeast,Southeast Core
+47017,Carroll County,Tennessee,TN,TN1,Southeast,Southeast Core
+47133,Overton County,Tennessee,TN,TN1,Southeast,Southeast Core
+47079,Henry County,Tennessee,TN,TN3,Southeast,Southeast Core
+47077,Henderson County,Tennessee,TN,TN1,Southeast,Southeast Core
+47171,Unicoi County,Tennessee,TN,TN2,Southeast,Southeast Core
+47173,Union County,Tennessee,TN,TN2,Southeast,Southeast Core
+47075,Haywood County,Tennessee,TN,TN1,Southeast,Southeast Core
+47151,Scott County,Tennessee,TN,TN1,Southeast,Southeast Core
+47111,Macon County,Tennessee,TN,TN1,Southeast,Southeast Core
+47069,Hardeman County,Tennessee,TN,TN2,Southeast,Southeast Core
+47129,Morgan County,Tennessee,TN,TN1,Southeast,Southeast Core
+47081,Hickman County,Tennessee,TN,TN1,Southeast,Southeast Core
+47153,Sequatchie County,Tennessee,TN,TN1,Southeast,Southeast Core
+47057,Grainger County,Tennessee,TN,TN1,Southeast,Southeast Core
+47159,Smith County,Tennessee,TN,TN1,Southeast,Southeast Core
+47139,Polk County,Tennessee,TN,TN3,Southeast,Southeast Core
+47181,Wayne County,Tennessee,TN,TN1,Southeast,Southeast Core
+47055,Giles County,Tennessee,TN,TN3,Southeast,Southeast Core
+47185,White County,Tennessee,TN,TN3,Southeast,Southeast Core
+47109,McNairy County,Tennessee,TN,TN2,Southeast,Southeast Core
+47061,Grundy County,Tennessee,TN,TN3,Southeast,Southeast Core
+47091,Johnson County,Tennessee,TN,TN2,Southeast,Southeast Core
+47023,Chester County,Tennessee,TN,TN1,Southeast,Southeast Core
+47085,Humphreys County,Tennessee,TN,TN2,Southeast,Southeast Core
+47101,Lewis County,Tennessee,TN,TN2,Southeast,Southeast Core
+47015,Cannon County,Tennessee,TN,TN1,Southeast,Southeast Core
+47161,Stewart County,Tennessee,TN,TN2,Southeast,Southeast Core
+47083,Houston County,Tennessee,TN,TN3,Southeast,Southeast Core
+47039,Decatur County,Tennessee,TN,TN1,Southeast,Southeast Core
+47049,Fentress County,Tennessee,TN,TN2,Southeast,Southeast Core
+47087,Jackson County,Tennessee,TN,TN2,Southeast,Southeast Core
+47007,Bledsoe County,Tennessee,TN,TN3,Southeast,Southeast Core
+47121,Meigs County,Tennessee,TN,TN2,Southeast,Southeast Core
+47135,Perry County,Tennessee,TN,TN1,Southeast,Southeast Core
+47005,Benton County,Tennessee,TN,TN1,Southeast,Southeast Core
+47033,Crockett County,Tennessee,TN,TN2,Southeast,Southeast Core
+47169,Trousdale County,Tennessee,TN,TN3,Southeast,Southeast Core
+47067,Hancock County,Tennessee,TN,TN3,Southeast,Southeast Core
+47027,Clay County,Tennessee,TN,TN1,Southeast,Southeast Core
+47127,Moore County,Tennessee,TN,TN3,Southeast,Southeast Core
+47175,Van Buren County,Tennessee,TN,TN3,Southeast,Southeast Core
+47137,Pickett County,Tennessee,TN,TN2,Southeast,Southeast Core
+47095,Lake County,Tennessee,TN,TN2,Southeast,Southeast Core
+5119,Pulaski County,Arkansas,AR,AR3,Southeast,Southeast Core
+5143,Washington County,Arkansas,AR,AR1,Southeast,Southeast Core
+5007,Benton County,Arkansas,AR,AR3,Southeast,Southeast Core
+5131,Sebastian County,Arkansas,AR,AR2,Southeast,Southeast Core
+5045,Faulkner County,Arkansas,AR,AR1,Southeast,Southeast Core
+5051,Garland County,Arkansas,AR,AR3,Southeast,Southeast Core
+5031,Craighead County,Arkansas,AR,AR1,Southeast,Southeast Core
+5125,Saline County,Arkansas,AR,AR3,Southeast,Southeast Core
+5069,Jefferson County,Arkansas,AR,AR3,Southeast,Southeast Core
+5085,Lonoke County,Arkansas,AR,AR3,Southeast,Southeast Core
+5091,Miller County,Arkansas,AR,AR2,Southeast,Southeast Core
+5145,White County,Arkansas,AR,AR3,Southeast,Southeast Core
+5115,Pope County,Arkansas,AR,AR1,Southeast,Southeast Core
+5035,Crittenden County,Arkansas,AR,AR1,Southeast,Southeast Core
+5033,Crawford County,Arkansas,AR,AR2,Southeast,Southeast Core
+5059,Hot Spring County,Arkansas,AR,AR1,Southeast,Southeast Core
+5005,Baxter County,Arkansas,AR,AR1,Southeast,Southeast Core
+5063,Independence County,Arkansas,AR,AR3,Southeast,Southeast Core
+5055,Greene County,Arkansas,AR,AR3,Southeast,Southeast Core
+5093,Mississippi County,Arkansas,AR,AR3,Southeast,Southeast Core
+5139,Union County,Arkansas,AR,AR2,Southeast,Southeast Core
+5057,Hempstead County,Arkansas,AR,AR3,Southeast,Southeast Core
+5009,Boone County,Arkansas,AR,AR2,Southeast,Southeast Core
+5023,Cleburne County,Arkansas,AR,AR3,Southeast,Southeast Core
+5027,Columbia County,Arkansas,AR,AR3,Southeast,Southeast Core
+5083,Logan County,Arkansas,AR,AR3,Southeast,Southeast Core
+5029,Conway County,Arkansas,AR,AR2,Southeast,Southeast Core
+5037,Cross County,Arkansas,AR,AR1,Southeast,Southeast Core
+5019,Clark County,Arkansas,AR,AR2,Southeast,Southeast Core
+5135,Sharp County,Arkansas,AR,AR1,Southeast,Southeast Core
+5053,Grant County,Arkansas,AR,AR2,Southeast,Southeast Core
+5089,Marion County,Arkansas,AR,AR1,Southeast,Southeast Core
+5111,Poinsett County,Arkansas,AR,AR2,Southeast,Southeast Core
+5015,Carroll County,Arkansas,AR,AR3,Southeast,Southeast Core
+5141,Van Buren County,Arkansas,AR,AR1,Southeast,Southeast Core
+5087,Madison County,Arkansas,AR,AR1,Southeast,Southeast Core
+5075,Lawrence County,Arkansas,AR,AR3,Southeast,Southeast Core
+5121,Randolph County,Arkansas,AR,AR1,Southeast,Southeast Core
+5133,Sevier County,Arkansas,AR,AR3,Southeast,Southeast Core
+5103,Ouachita County,Arkansas,AR,AR2,Southeast,Southeast Core
+5071,Johnson County,Arkansas,AR,AR3,Southeast,Southeast Core
+5149,Yell County,Arkansas,AR,AR1,Southeast,Southeast Core
+5113,Polk County,Arkansas,AR,AR3,Southeast,Southeast Core
+5123,St. Francis County,Arkansas,AR,AR1,Southeast,Southeast Core
+5043,Drew County,Arkansas,AR,AR3,Southeast,Southeast Core
+5107,Phillips County,Arkansas,AR,AR1,Southeast,Southeast Core
+5137,Stone County,Arkansas,AR,AR1,Southeast,Southeast Core
+5047,Franklin County,Arkansas,AR,AR2,Southeast,Southeast Core
+5021,Clay County,Arkansas,AR,AR1,Southeast,Southeast Core
+5081,Little River County,Arkansas,AR,AR2,Southeast,Southeast Core
+5017,Chicot County,Arkansas,AR,AR1,Southeast,Southeast Core
+5067,Jackson County,Arkansas,AR,AR3,Southeast,Southeast Core
+5065,Izard County,Arkansas,AR,AR1,Southeast,Southeast Core
+5003,Ashley County,Arkansas,AR,AR3,Southeast,Southeast Core
+5109,Pike County,Arkansas,AR,AR1,Southeast,Southeast Core
+5001,Arkansas County,Arkansas,AR,AR2,Southeast,Southeast Core
+5117,Prairie County,Arkansas,AR,AR2,Southeast,Southeast Core
+5127,Scott County,Arkansas,AR,AR1,Southeast,Southeast Core
+5061,Howard County,Arkansas,AR,AR1,Southeast,Southeast Core
+5049,Fulton County,Arkansas,AR,AR2,Southeast,Southeast Core
+5025,Cleveland County,Arkansas,AR,AR1,Southeast,Southeast Core
+5099,Nevada County,Arkansas,AR,AR1,Southeast,Southeast Core
+5079,Lincoln County,Arkansas,AR,AR1,Southeast,Southeast Core
+5105,Perry County,Arkansas,AR,AR1,Southeast,Southeast Core
+5041,Desha County,Arkansas,AR,AR3,Southeast,Southeast Core
+5039,Dallas County,Arkansas,AR,AR3,Southeast,Southeast Core
+5011,Bradley County,Arkansas,AR,AR2,Southeast,Southeast Core
+5077,Lee County,Arkansas,AR,AR2,Southeast,Southeast Core
+5101,Newton County,Arkansas,AR,AR3,Southeast,Southeast Core
+5147,Woodruff County,Arkansas,AR,AR1,Southeast,Southeast Core
+5129,Searcy County,Arkansas,AR,AR1,Southeast,Southeast Core
+5095,Monroe County,Arkansas,AR,AR3,Southeast,Southeast Core
+5097,Montgomery County,Arkansas,AR,AR3,Southeast,Southeast Core
+5073,Lafayette County,Arkansas,AR,AR3,Southeast,Southeast Core
+5013,Calhoun County,Arkansas,AR,AR2,Southeast,Southeast Core
+54039,Kanawha County,West Virginia,WV,WV3,Southeast,Southeast Core
+54003,Berkeley County,West Virginia,WV,WV1,Southeast,Southeast Core
+54011,Cabell County,West Virginia,WV,WV2,Southeast,Southeast Core
+54061,Monongalia County,West Virginia,WV,WV1,Southeast,Southeast Core
+54033,Harrison County,West Virginia,WV,WV1,Southeast,Southeast Core
+54081,Raleigh County,West Virginia,WV,WV3,Southeast,Southeast Core
+54107,Wood County,West Virginia,WV,WV3,Southeast,Southeast Core
+54049,Marion County,West Virginia,WV,WV1,Southeast,Southeast Core
+54055,Mercer County,West Virginia,WV,WV2,Southeast,Southeast Core
+54037,Jefferson County,West Virginia,WV,WV2,Southeast,Southeast Core
+54099,Wayne County,West Virginia,WV,WV1,Southeast,Southeast Core
+54019,Fayette County,West Virginia,WV,WV1,Southeast,Southeast Core
+54079,Putnam County,West Virginia,WV,WV2,Southeast,Southeast Core
+54069,Ohio County,West Virginia,WV,WV1,Southeast,Southeast Core
+54025,Greenbrier County,West Virginia,WV,WV3,Southeast,Southeast Core
+54083,Randolph County,West Virginia,WV,WV1,Southeast,Southeast Core
+54053,Mason County,West Virginia,WV,WV2,Southeast,Southeast Core
+54057,Mineral County,West Virginia,WV,WV2,Southeast,Southeast Core
+54029,Hancock County,West Virginia,WV,WV2,Southeast,Southeast Core
+54051,Marshall County,West Virginia,WV,WV3,Southeast,Southeast Core
+54043,Lincoln County,West Virginia,WV,WV3,Southeast,Southeast Core
+54045,Logan County,West Virginia,WV,WV2,Southeast,Southeast Core
+54027,Hampshire County,West Virginia,WV,WV2,Southeast,Southeast Core
+54035,Jackson County,West Virginia,WV,WV3,Southeast,Southeast Core
+54109,Wyoming County,West Virginia,WV,WV1,Southeast,Southeast Core
+54047,McDowell County,West Virginia,WV,WV1,Southeast,Southeast Core
+54097,Upshur County,West Virginia,WV,WV1,Southeast,Southeast Core
+54077,Preston County,West Virginia,WV,WV1,Southeast,Southeast Core
+54009,Brooke County,West Virginia,WV,WV3,Southeast,Southeast Core
+54091,Taylor County,West Virginia,WV,WV2,Southeast,Southeast Core
+54005,Boone County,West Virginia,WV,WV3,Southeast,Southeast Core
+54089,Summers County,West Virginia,WV,WV3,Southeast,Southeast Core
+54059,Mingo County,West Virginia,WV,WV2,Southeast,Southeast Core
+54067,Nicholas County,West Virginia,WV,WV1,Southeast,Southeast Core
+54007,Braxton County,West Virginia,WV,WV2,Southeast,Southeast Core
+54065,Morgan County,West Virginia,WV,WV2,Southeast,Southeast Core
+54103,Wetzel County,West Virginia,WV,WV1,Southeast,Southeast Core
+54087,Roane County,West Virginia,WV,WV2,Southeast,Southeast Core
+54001,Barbour County,West Virginia,WV,WV3,Southeast,Southeast Core
+54041,Lewis County,West Virginia,WV,WV2,Southeast,Southeast Core
+54063,Monroe County,West Virginia,WV,WV3,Southeast,Southeast Core
+54021,Gilmer County,West Virginia,WV,WV3,Southeast,Southeast Core
+54085,Ritchie County,West Virginia,WV,WV3,Southeast,Southeast Core
+54015,Clay County,West Virginia,WV,WV1,Southeast,Southeast Core
+54031,Hardy County,West Virginia,WV,WV2,Southeast,Southeast Core
+54101,Webster County,West Virginia,WV,WV2,Southeast,Southeast Core
+54075,Pocahontas County,West Virginia,WV,WV3,Southeast,Southeast Core
+54023,Grant County,West Virginia,WV,WV1,Southeast,Southeast Core
+54093,Tucker County,West Virginia,WV,WV2,Southeast,Southeast Core
+54095,Tyler County,West Virginia,WV,WV1,Southeast,Southeast Core
+54073,Pleasants County,West Virginia,WV,WV1,Southeast,Southeast Core
+54013,Calhoun County,West Virginia,WV,WV3,Southeast,Southeast Core
+54105,Wirt County,West Virginia,WV,WV2,Southeast,Southeast Core
+54071,Pendleton County,West Virginia,WV,WV2,Southeast,Southeast Core
+54017,Doddridge County,West Virginia,WV,WV1,Southeast,Southeast Core
+21111,Jefferson County,Kentucky,KY,KY1,Southeast,Southeast Core
+21067,Fayette County,Kentucky,KY,KY3,Southeast,Southeast Core
+21227,Warren County,Kentucky,KY,KY2,Southeast,Southeast Core
+21093,Hardin County,Kentucky,KY,KY3,Southeast,Southeast Core
+21117,Kenton County,Kentucky,KY,KY2,Southeast,Southeast Core
+21015,Boone County,Kentucky,KY,KY3,Southeast,Southeast Core
+21037,Campbell County,Kentucky,KY,KY1,Southeast,Southeast Core
+21059,Daviess County,Kentucky,KY,KY3,Southeast,Southeast Core
+21145,McCracken County,Kentucky,KY,KY1,Southeast,Southeast Core
+21185,Oldham County,Kentucky,KY,KY1,Southeast,Southeast Core
+21029,Bullitt County,Kentucky,KY,KY2,Southeast,Southeast Core
+21151,Madison County,Kentucky,KY,KY3,Southeast,Southeast Core
+21113,Jessamine County,Kentucky,KY,KY3,Southeast,Southeast Core
+21107,Hopkins County,Kentucky,KY,KY3,Southeast,Southeast Core
+21199,Pulaski County,Kentucky,KY,KY3,Southeast,Southeast Core
+21195,Pike County,Kentucky,KY,KY3,Southeast,Southeast Core
+21009,Barren County,Kentucky,KY,KY1,Southeast,Southeast Core
+21125,Laurel County,Kentucky,KY,KY2,Southeast,Southeast Core
+21073,Franklin County,Kentucky,KY,KY2,Southeast,Southeast Core
+21047,Christian County,Kentucky,KY,KY1,Southeast,Southeast Core
+21035,Calloway County,Kentucky,KY,KY1,Southeast,Southeast Core
+21019,Boyd County,Kentucky,KY,KY3,Southeast,Southeast Core
+21083,Graves County,Kentucky,KY,KY3,Southeast,Southeast Core
+21089,Greenup County,Kentucky,KY,KY1,Southeast,Southeast Core
+21177,Muhlenberg County,Kentucky,KY,KY2,Southeast,Southeast Core
+21211,Shelby County,Kentucky,KY,KY3,Southeast,Southeast Core
+21209,Scott County,Kentucky,KY,KY2,Southeast,Southeast Core
+21071,Floyd County,Kentucky,KY,KY3,Southeast,Southeast Core
+21021,Boyle County,Kentucky,KY,KY1,Southeast,Southeast Core
+21157,Marshall County,Kentucky,KY,KY1,Southeast,Southeast Core
+21179,Nelson County,Kentucky,KY,KY2,Southeast,Southeast Core
+21095,Harlan County,Kentucky,KY,KY3,Southeast,Southeast Core
+21235,Whitley County,Kentucky,KY,KY2,Southeast,Southeast Core
+21013,Bell County,Kentucky,KY,KY1,Southeast,Southeast Core
+21163,Meade County,Kentucky,KY,KY2,Southeast,Southeast Core
+21193,Perry County,Kentucky,KY,KY1,Southeast,Southeast Core
+21167,Mercer County,Kentucky,KY,KY1,Southeast,Southeast Core
+21205,Rowan County,Kentucky,KY,KY2,Southeast,Southeast Core
+21049,Clark County,Kentucky,KY,KY1,Southeast,Southeast Core
+21121,Knox County,Kentucky,KY,KY3,Southeast,Southeast Core
+21101,Henderson County,Kentucky,KY,KY2,Southeast,Southeast Core
+21239,Woodford County,Kentucky,KY,KY1,Southeast,Southeast Core
+21027,Breckinridge County,Kentucky,KY,KY3,Southeast,Southeast Core
+21003,Allen County,Kentucky,KY,KY1,Southeast,Southeast Core
+21043,Carter County,Kentucky,KY,KY1,Southeast,Southeast Core
+21085,Grayson County,Kentucky,KY,KY1,Southeast,Southeast Core
+21115,Johnson County,Kentucky,KY,KY3,Southeast,Southeast Core
+21231,Wayne County,Kentucky,KY,KY1,Southeast,Southeast Core
+21051,Clay County,Kentucky,KY,KY3,Southeast,Southeast Core
+21099,Hart County,Kentucky,KY,KY1,Southeast,Southeast Core
+21133,Letcher County,Kentucky,KY,KY2,Southeast,Southeast Core
+21001,Adair County,Kentucky,KY,KY1,Southeast,Southeast Core
+21137,Lincoln County,Kentucky,KY,KY2,Southeast,Southeast Core
+21183,Ohio County,Kentucky,KY,KY1,Southeast,Southeast Core
+21155,Marion County,Kentucky,KY,KY2,Southeast,Southeast Core
+21005,Anderson County,Kentucky,KY,KY1,Southeast,Southeast Core
+21207,Russell County,Kentucky,KY,KY1,Southeast,Southeast Core
+21119,Knott County,Kentucky,KY,KY2,Southeast,Southeast Core
+21069,Fleming County,Kentucky,KY,KY1,Southeast,Southeast Core
+21217,Taylor County,Kentucky,KY,KY2,Southeast,Southeast Core
+21123,LaRue County,Kentucky,KY,KY3,Southeast,Southeast Core
+21127,Lawrence County,Kentucky,KY,KY3,Southeast,Southeast Core
+21141,Logan County,Kentucky,KY,KY1,Southeast,Southeast Core
+21025,Breathitt County,Kentucky,KY,KY2,Southeast,Southeast Core
+21017,Bourbon County,Kentucky,KY,KY3,Southeast,Southeast Core
+21173,Montgomery County,Kentucky,KY,KY1,Southeast,Southeast Core
+21147,McCreary County,Kentucky,KY,KY3,Southeast,Southeast Core
+21081,Grant County,Kentucky,KY,KY2,Southeast,Southeast Core
+21159,Martin County,Kentucky,KY,KY3,Southeast,Southeast Core
+21219,Todd County,Kentucky,KY,KY3,Southeast,Southeast Core
+21221,Trigg County,Kentucky,KY,KY3,Southeast,Southeast Core
+21135,Lewis County,Kentucky,KY,KY3,Southeast,Southeast Core
+21065,Estill County,Kentucky,KY,KY2,Southeast,Southeast Core
+21197,Powell County,Kentucky,KY,KY1,Southeast,Southeast Core
+21187,Owen County,Kentucky,KY,KY1,Southeast,Southeast Core
+21103,Henry County,Kentucky,KY,KY3,Southeast,Southeast Core
+21131,Leslie County,Kentucky,KY,KY2,Southeast,Southeast Core
+21149,McLean County,Kentucky,KY,KY1,Southeast,Southeast Core
+21215,Spencer County,Kentucky,KY,KY3,Southeast,Southeast Core
+21233,Webster County,Kentucky,KY,KY2,Southeast,Southeast Core
+21031,Butler County,Kentucky,KY,KY3,Southeast,Southeast Core
+21161,Mason County,Kentucky,KY,KY2,Southeast,Southeast Core
+21097,Harrison County,Kentucky,KY,KY3,Southeast,Southeast Core
+21213,Simpson County,Kentucky,KY,KY3,Southeast,Southeast Core
+21079,Garrard County,Kentucky,KY,KY3,Southeast,Southeast Core
+21225,Union County,Kentucky,KY,KY1,Southeast,Southeast Core
+21109,Jackson County,Kentucky,KY,KY1,Southeast,Southeast Core
+21053,Clinton County,Kentucky,KY,KY2,Southeast,Southeast Core
+21077,Gallatin County,Kentucky,KY,KY1,Southeast,Southeast Core
+21223,Trimble County,Kentucky,KY,KY1,Southeast,Southeast Core
+21045,Casey County,Kentucky,KY,KY3,Southeast,Southeast Core
+21171,Monroe County,Kentucky,KY,KY1,Southeast,Southeast Core
+21033,Caldwell County,Kentucky,KY,KY3,Southeast,Southeast Core
+21153,Magoffin County,Kentucky,KY,KY2,Southeast,Southeast Core
+21203,Rockcastle County,Kentucky,KY,KY1,Southeast,Southeast Core
+21229,Washington County,Kentucky,KY,KY1,Southeast,Southeast Core
+21191,Pendleton County,Kentucky,KY,KY3,Southeast,Southeast Core
+21057,Cumberland County,Kentucky,KY,KY1,Southeast,Southeast Core
+21041,Carroll County,Kentucky,KY,KY1,Southeast,Southeast Core
+21175,Morgan County,Kentucky,KY,KY2,Southeast,Southeast Core
+21129,Lee County,Kentucky,KY,KY2,Southeast,Southeast Core
+21169,Metcalfe County,Kentucky,KY,KY2,Southeast,Southeast Core
+21091,Hancock County,Kentucky,KY,KY3,Southeast,Southeast Core
+21011,Bath County,Kentucky,KY,KY2,Southeast,Southeast Core
+21061,Edmonson County,Kentucky,KY,KY1,Southeast,Southeast Core
+21007,Ballard County,Kentucky,KY,KY2,Southeast,Southeast Core
+21075,Fulton County,Kentucky,KY,KY2,Southeast,Southeast Core
+21087,Green County,Kentucky,KY,KY1,Southeast,Southeast Core
+21023,Bracken County,Kentucky,KY,KY2,Southeast,Southeast Core
+21237,Wolfe County,Kentucky,KY,KY3,Southeast,Southeast Core
+21181,Nicholas County,Kentucky,KY,KY1,Southeast,Southeast Core
+21055,Crittenden County,Kentucky,KY,KY2,Southeast,Southeast Core
+21139,Livingston County,Kentucky,KY,KY1,Southeast,Southeast Core
+21143,Lyon County,Kentucky,KY,KY2,Southeast,Southeast Core
+21039,Carlisle County,Kentucky,KY,KY1,Southeast,Southeast Core
+21105,Hickman County,Kentucky,KY,KY1,Southeast,Southeast Core
+21165,Menifee County,Kentucky,KY,KY1,Southeast,Southeast Core
+21063,Elliott County,Kentucky,KY,KY3,Southeast,Southeast Core
+21189,Owsley County,Kentucky,KY,KY1,Southeast,Southeast Core
+21201,Robertson County,Kentucky,KY,KY1,Southeast,Southeast Core
+51059,Fairfax County,Virginia,VA,VA2,Southeast,Atlantic SE
+51810,"Virginia Beach, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51087,Henrico County,Virginia,VA,VA1,Southeast,Atlantic SE
+51041,Chesterfield County,Virginia,VA,VA3,Southeast,Atlantic SE
+51153,Prince William County,Virginia,VA,VA1,Southeast,Atlantic SE
+51013,Arlington County,Virginia,VA,VA1,Southeast,Atlantic SE
+51760,"Richmond, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51710,"Norfolk, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51107,Loudoun County,Virginia,VA,VA3,Southeast,Atlantic SE
+51550,"Chesapeake, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51510,"Alexandria, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51700,"Newport News, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51770,"Roanoke, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51177,Spotsylvania County,Virginia,VA,VA2,Southeast,Atlantic SE
+51161,Roanoke County,Virginia,VA,VA1,Southeast,Atlantic SE
+51121,Montgomery County,Virginia,VA,VA3,Southeast,Atlantic SE
+51800,"Suffolk, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51680,"Lynchburg, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51019,Bedford County,Virginia,VA,VA1,Southeast,Atlantic SE
+51085,Hanover County,Virginia,VA,VA2,Southeast,Atlantic SE
+51165,Rockingham County,Virginia,VA,VA3,Southeast,Atlantic SE
+51179,Stafford County,Virginia,VA,VA2,Southeast,Atlantic SE
+51061,Fauquier County,Virginia,VA,VA3,Southeast,Atlantic SE
+51740,"Portsmouth, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51650,"Hampton, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51199,York County,Virginia,VA,VA2,Southeast,Atlantic SE
+51069,Frederick County,Virginia,VA,VA3,Southeast,Atlantic SE
+51003,Albemarle County,Virginia,VA,VA2,Southeast,Atlantic SE
+51191,Washington County,Virginia,VA,VA2,Southeast,Atlantic SE
+51015,Augusta County,Virginia,VA,VA3,Southeast,Atlantic SE
+51031,Campbell County,Virginia,VA,VA3,Southeast,Atlantic SE
+51143,Pittsylvania County,Virginia,VA,VA3,Southeast,Atlantic SE
+51185,Tazewell County,Virginia,VA,VA3,Southeast,Atlantic SE
+51067,Franklin County,Virginia,VA,VA3,Southeast,Atlantic SE
+51095,James City County,Virginia,VA,VA2,Southeast,Atlantic SE
+51047,Culpeper County,Virginia,VA,VA1,Southeast,Atlantic SE
+51149,Prince George County,Virginia,VA,VA2,Southeast,Atlantic SE
+51137,Orange County,Virginia,VA,VA1,Southeast,Atlantic SE
+51540,"Charlottesville, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51173,Smyth County,Virginia,VA,VA1,Southeast,Atlantic SE
+51117,Mecklenburg County,Virginia,VA,VA1,Southeast,Atlantic SE
+51590,"Danville, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51171,Shenandoah County,Virginia,VA,VA3,Southeast,Atlantic SE
+51155,Pulaski County,Virginia,VA,VA1,Southeast,Atlantic SE
+51660,"Harrisonburg, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51167,Russell County,Virginia,VA,VA3,Southeast,Atlantic SE
+51089,Henry County,Virginia,VA,VA2,Southeast,Atlantic SE
+51109,Louisa County,Virginia,VA,VA3,Southeast,Atlantic SE
+51187,Warren County,Virginia,VA,VA1,Southeast,Atlantic SE
+51105,Lee County,Virginia,VA,VA3,Southeast,Atlantic SE
+51195,Wise County,Virginia,VA,VA2,Southeast,Atlantic SE
+51683,"Manassas, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51840,"Winchester, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51093,Isle of Wight County,Virginia,VA,VA3,Southeast,Atlantic SE
+51001,Accomack County,Virginia,VA,VA2,Southeast,Atlantic SE
+51033,Caroline County,Virginia,VA,VA1,Southeast,Atlantic SE
+51009,Amherst County,Virginia,VA,VA1,Southeast,Atlantic SE
+51169,Scott County,Virginia,VA,VA3,Southeast,Atlantic SE
+51035,Carroll County,Virginia,VA,VA2,Southeast,Atlantic SE
+51670,"Hopewell, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51600,"Fairfax, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51197,Wythe County,Virginia,VA,VA2,Southeast,Atlantic SE
+51145,Powhatan County,Virginia,VA,VA1,Southeast,Atlantic SE
+51065,Fluvanna County,Virginia,VA,VA3,Southeast,Atlantic SE
+51730,"Petersburg, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51127,New Kent County,Virginia,VA,VA2,Southeast,Atlantic SE
+51073,Gloucester County,Virginia,VA,VA2,Southeast,Atlantic SE
+51083,Halifax County,Virginia,VA,VA2,Southeast,Atlantic SE
+51820,"Waynesboro, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51139,Page County,Virginia,VA,VA1,Southeast,Atlantic SE
+51175,Southampton County,Virginia,VA,VA1,Southeast,Atlantic SE
+51079,Greene County,Virginia,VA,VA2,Southeast,Atlantic SE
+51023,Botetourt County,Virginia,VA,VA1,Southeast,Atlantic SE
+51570,"Colonial Heights, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51053,Dinwiddie County,Virginia,VA,VA2,Southeast,Atlantic SE
+51027,Buchanan County,Virginia,VA,VA3,Southeast,Atlantic SE
+51750,"Radford, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51163,Rockbridge County,Virginia,VA,VA3,Southeast,Atlantic SE
+51101,King William County,Virginia,VA,VA2,Southeast,Atlantic SE
+51029,Buckingham County,Virginia,VA,VA3,Southeast,Atlantic SE
+51011,Appomattox County,Virginia,VA,VA3,Southeast,Atlantic SE
+51113,Madison County,Virginia,VA,VA3,Southeast,Atlantic SE
+51071,Giles County,Virginia,VA,VA3,Southeast,Atlantic SE
+51005,Alleghany County,Virginia,VA,VA2,Southeast,Atlantic SE
+51630,"Fredericksburg, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51141,Patrick County,Virginia,VA,VA2,Southeast,Atlantic SE
+51830,"Williamsburg, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51790,"Staunton, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51099,King George County,Virginia,VA,VA1,Southeast,Atlantic SE
+51077,Grayson County,Virginia,VA,VA3,Southeast,Atlantic SE
+51775,"Salem, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51183,Sussex County,Virginia,VA,VA3,Southeast,Atlantic SE
+51135,Nottoway County,Virginia,VA,VA1,Southeast,Atlantic SE
+51051,Dickenson County,Virginia,VA,VA3,Southeast,Atlantic SE
+51037,Charlotte County,Virginia,VA,VA1,Southeast,Atlantic SE
+51063,Floyd County,Virginia,VA,VA1,Southeast,Atlantic SE
+51103,Lancaster County,Virginia,VA,VA1,Southeast,Atlantic SE
+51193,Westmoreland County,Virginia,VA,VA2,Southeast,Atlantic SE
+51520,"Bristol, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51147,Prince Edward County,Virginia,VA,VA2,Southeast,Atlantic SE
+51043,Clarke County,Virginia,VA,VA1,Southeast,Atlantic SE
+51075,Goochland County,Virginia,VA,VA2,Southeast,Atlantic SE
+51131,Northampton County,Virginia,VA,VA1,Southeast,Atlantic SE
+51025,Brunswick County,Virginia,VA,VA2,Southeast,Atlantic SE
+51007,Amelia County,Virginia,VA,VA2,Southeast,Atlantic SE
+51111,Lunenburg County,Virginia,VA,VA3,Southeast,Atlantic SE
+51125,Nelson County,Virginia,VA,VA3,Southeast,Atlantic SE
+51610,"Falls Church, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51119,Middlesex County,Virginia,VA,VA3,Southeast,Atlantic SE
+51685,"Manassas Park, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51133,Northumberland County,Virginia,VA,VA2,Southeast,Atlantic SE
+51049,Cumberland County,Virginia,VA,VA3,Southeast,Atlantic SE
+51159,Richmond County,Virginia,VA,VA2,Southeast,Atlantic SE
+51115,Mathews County,Virginia,VA,VA3,Southeast,Atlantic SE
+51690,"Martinsville, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51021,Bland County,Virginia,VA,VA2,Southeast,Atlantic SE
+51081,Greensville County,Virginia,VA,VA1,Southeast,Atlantic SE
+51530,"Buena Vista, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51057,Essex County,Virginia,VA,VA1,Southeast,Atlantic SE
+51735,"Poquoson, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51036,Charles City County,Virginia,VA,VA3,Southeast,Atlantic SE
+51097,King and Queen County,Virginia,VA,VA3,Southeast,Atlantic SE
+51045,Craig County,Virginia,VA,VA2,Southeast,Atlantic SE
+51157,Rappahannock County,Virginia,VA,VA3,Southeast,Atlantic SE
+51620,"Franklin, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51181,Surry County,Virginia,VA,VA2,Southeast,Atlantic SE
+51017,Bath County,Virginia,VA,VA3,Southeast,Atlantic SE
+51640,"Galax, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51580,"Covington, City of",Virginia,VA,VA3,Southeast,Atlantic SE
+51678,"Lexington, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51595,"Emporia, City of",Virginia,VA,VA2,Southeast,Atlantic SE
+51720,"Norton, City of",Virginia,VA,VA1,Southeast,Atlantic SE
+51091,Highland County,Virginia,VA,VA3,Southeast,Atlantic SE
+37119,Mecklenburg County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37183,Wake County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37081,Guilford County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37051,Cumberland County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37067,Forsyth County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37021,Buncombe County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37025,Cabarrus County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37063,Durham County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37071,Gaston County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37133,Onslow County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37151,Randolph County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37129,New Hanover County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37155,Robeson County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37097,Iredell County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37179,Union County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37159,Rowan County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37001,Alamance County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37147,Pitt County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37057,Davidson County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37019,Brunswick County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37191,Wayne County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37085,Harnett County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37089,Henderson County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37157,Rockingham County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37035,Catawba County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37023,Burke County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37135,Orange County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37101,Johnston County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37109,Lincoln County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37037,Chatham County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37195,Wilson County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37049,Craven County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37193,Wilkes County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37077,Granville County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37167,Stanly County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37127,Nash County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37087,Haywood County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37161,Rutherford County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37105,Lee County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37065,Edgecombe County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37045,Cleveland County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37047,Columbus County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37125,Moore County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37153,Richmond County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37111,McDowell County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37171,Surry County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37027,Caldwell County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37083,Halifax County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37107,Lenoir County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37093,Hoke County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37061,Duplin County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37141,Pender County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37055,Dare County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37031,Carteret County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37181,Vance County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37069,Franklin County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37189,Watauga County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37139,Pasquotank County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37175,Transylvania County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37145,Person County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37163,Sampson County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37013,Beaufort County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37099,Jackson County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37017,Bladen County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37039,Cherokee County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37123,Montgomery County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37169,Stokes County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37033,Caswell County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37165,Scotland County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37197,Yadkin County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37059,Davie County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37003,Alexander County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37053,Currituck County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37009,Ashe County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37115,Madison County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37079,Greene County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37091,Hertford County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37113,Macon County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37149,Polk County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37199,Yancey County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37041,Chowan County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37007,Anson County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37185,Warren County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37117,Martin County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37073,Gates County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37187,Washington County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37015,Bertie County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37143,Perquimans County,North Carolina,NC,NC2,Southeast,Atlantic SE
+37029,Camden County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37173,Swain County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37131,Northampton County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37005,Alleghany County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37137,Pamlico County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37011,Avery County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37043,Clay County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37121,Mitchell County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37103,Jones County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37075,Graham County,North Carolina,NC,NC1,Southeast,Atlantic SE
+37095,Hyde County,North Carolina,NC,NC3,Southeast,Atlantic SE
+37177,Tyrrell County,North Carolina,NC,NC2,Southeast,Atlantic SE
+45079,Richland County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45083,Spartanburg County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45063,Lexington County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45051,Horry County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45019,Charleston County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45045,Greenville County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45091,York County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45013,Beaufort County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45015,Berkeley County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45077,Pickens County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45007,Anderson County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45041,Florence County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45085,Sumter County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45035,Dorchester County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45003,Aiken County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45057,Lancaster County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45047,Greenwood County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45059,Laurens County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45031,Darlington County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45043,Georgetown County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45073,Oconee County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45021,Cherokee County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45055,Kershaw County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45075,Orangeburg County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45089,Williamsburg County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45027,Clarendon County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45067,Marion County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45037,Edgefield County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45025,Chesterfield County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45023,Chester County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45001,Abbeville County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45029,Colleton County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45033,Dillon County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45069,Marlboro County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45071,Newberry County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45053,Jasper County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45011,Barnwell County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45087,Union County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45061,Lee County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45009,Bamberg County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45081,Saluda County,South Carolina,SC,SC2,Southeast,Atlantic SE
+45049,Hampton County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45039,Fairfield County,South Carolina,SC,SC3,Southeast,Atlantic SE
+45017,Calhoun County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45065,McCormick County,South Carolina,SC,SC1,Southeast,Atlantic SE
+45005,Allendale County,South Carolina,SC,SC2,Southeast,Atlantic SE
+13121,Fulton County,Georgia,GA,GA2,Southeast,Atlantic SE
+13135,Gwinnett County,Georgia,GA,GA1,Southeast,Atlantic SE
+13089,DeKalb County,Georgia,GA,GA2,Southeast,Atlantic SE
+13067,Cobb County,Georgia,GA,GA2,Southeast,Atlantic SE
+13057,Cherokee County,Georgia,GA,GA1,Southeast,Atlantic SE
+13051,Chatham County,Georgia,GA,GA3,Southeast,Atlantic SE
+13139,Hall County,Georgia,GA,GA3,Southeast,Atlantic SE
+13245,Richmond County,Georgia,GA,GA2,Southeast,Atlantic SE
+13215,Muscogee County,Georgia,GA,GA2,Southeast,Atlantic SE
+13151,Henry County,Georgia,GA,GA3,Southeast,Atlantic SE
+13153,Houston County,Georgia,GA,GA1,Southeast,Atlantic SE
+13021,Bibb County,Georgia,GA,GA2,Southeast,Atlantic SE
+13063,Clayton County,Georgia,GA,GA1,Southeast,Atlantic SE
+13223,Paulding County,Georgia,GA,GA3,Southeast,Atlantic SE
+13097,Douglas County,Georgia,GA,GA1,Southeast,Atlantic SE
+13117,Forsyth County,Georgia,GA,GA3,Southeast,Atlantic SE
+13077,Coweta County,Georgia,GA,GA1,Southeast,Atlantic SE
+13045,Carroll County,Georgia,GA,GA2,Southeast,Atlantic SE
+13095,Dougherty County,Georgia,GA,GA1,Southeast,Atlantic SE
+13073,Columbia County,Georgia,GA,GA1,Southeast,Atlantic SE
+13113,Fayette County,Georgia,GA,GA3,Southeast,Atlantic SE
+13313,Whitfield County,Georgia,GA,GA2,Southeast,Atlantic SE
+13217,Newton County,Georgia,GA,GA3,Southeast,Atlantic SE
+13247,Rockdale County,Georgia,GA,GA2,Southeast,Atlantic SE
+13185,Lowndes County,Georgia,GA,GA2,Southeast,Atlantic SE
+13127,Glynn County,Georgia,GA,GA1,Southeast,Atlantic SE
+13015,Bartow County,Georgia,GA,GA2,Southeast,Atlantic SE
+13103,Effingham County,Georgia,GA,GA3,Southeast,Atlantic SE
+13059,Clarke County,Georgia,GA,GA2,Southeast,Atlantic SE
+13013,Barrow County,Georgia,GA,GA3,Southeast,Atlantic SE
+13295,Walker County,Georgia,GA,GA1,Southeast,Atlantic SE
+13129,Gordon County,Georgia,GA,GA2,Southeast,Atlantic SE
+13175,Laurens County,Georgia,GA,GA3,Southeast,Atlantic SE
+13115,Floyd County,Georgia,GA,GA3,Southeast,Atlantic SE
+13031,Bulloch County,Georgia,GA,GA2,Southeast,Atlantic SE
+13297,Walton County,Georgia,GA,GA2,Southeast,Atlantic SE
+13157,Jackson County,Georgia,GA,GA3,Southeast,Atlantic SE
+13009,Baldwin County,Georgia,GA,GA1,Southeast,Atlantic SE
+13047,Catoosa County,Georgia,GA,GA3,Southeast,Atlantic SE
+13179,Liberty County,Georgia,GA,GA2,Southeast,Atlantic SE
+13285,Troup County,Georgia,GA,GA2,Southeast,Atlantic SE
+13187,Lumpkin County,Georgia,GA,GA1,Southeast,Atlantic SE
+13255,Spalding County,Georgia,GA,GA3,Southeast,Atlantic SE
+13275,Thomas County,Georgia,GA,GA1,Southeast,Atlantic SE
+13213,Murray County,Georgia,GA,GA2,Southeast,Atlantic SE
+13071,Colquitt County,Georgia,GA,GA1,Southeast,Atlantic SE
+13299,Ware County,Georgia,GA,GA1,Southeast,Atlantic SE
+13257,Stephens County,Georgia,GA,GA2,Southeast,Atlantic SE
+13225,Peach County,Georgia,GA,GA1,Southeast,Atlantic SE
+13219,Oconee County,Georgia,GA,GA1,Southeast,Atlantic SE
+13123,Gilmer County,Georgia,GA,GA3,Southeast,Atlantic SE
+13137,Habersham County,Georgia,GA,GA2,Southeast,Atlantic SE
+13177,Lee County,Georgia,GA,GA3,Southeast,Atlantic SE
+13039,Camden County,Georgia,GA,GA2,Southeast,Atlantic SE
+13205,Mitchell County,Georgia,GA,GA3,Southeast,Atlantic SE
+13277,Tift County,Georgia,GA,GA1,Southeast,Atlantic SE
+13069,Coffee County,Georgia,GA,GA3,Southeast,Atlantic SE
+13107,Emanuel County,Georgia,GA,GA3,Southeast,Atlantic SE
+13147,Hart County,Georgia,GA,GA1,Southeast,Atlantic SE
+13091,Dodge County,Georgia,GA,GA3,Southeast,Atlantic SE
+13261,Sumter County,Georgia,GA,GA1,Southeast,Atlantic SE
+13199,Meriwether County,Georgia,GA,GA2,Southeast,Atlantic SE
+13233,Polk County,Georgia,GA,GA2,Southeast,Atlantic SE
+13055,Chattooga County,Georgia,GA,GA1,Southeast,Atlantic SE
+13029,Bryan County,Georgia,GA,GA1,Southeast,Atlantic SE
+13169,Jones County,Georgia,GA,GA3,Southeast,Atlantic SE
+13081,Crisp County,Georgia,GA,GA2,Southeast,Atlantic SE
+13293,Upson County,Georgia,GA,GA1,Southeast,Atlantic SE
+13189,McDuffie County,Georgia,GA,GA2,Southeast,Atlantic SE
+13303,Washington County,Georgia,GA,GA3,Southeast,Atlantic SE
+13119,Franklin County,Georgia,GA,GA3,Southeast,Atlantic SE
+13207,Monroe County,Georgia,GA,GA2,Southeast,Atlantic SE
+13075,Cook County,Georgia,GA,GA1,Southeast,Atlantic SE
+13183,Long County,Georgia,GA,GA3,Southeast,Atlantic SE
+13111,Fannin County,Georgia,GA,GA1,Southeast,Atlantic SE
+13279,Toombs County,Georgia,GA,GA3,Southeast,Atlantic SE
+13211,Morgan County,Georgia,GA,GA2,Southeast,Atlantic SE
+13305,Wayne County,Georgia,GA,GA2,Southeast,Atlantic SE
+13105,Elbert County,Georgia,GA,GA3,Southeast,Atlantic SE
+13019,Berrien County,Georgia,GA,GA1,Southeast,Atlantic SE
+13131,Grady County,Georgia,GA,GA1,Southeast,Atlantic SE
+13001,Appling County,Georgia,GA,GA1,Southeast,Atlantic SE
+13143,Haralson County,Georgia,GA,GA2,Southeast,Atlantic SE
+13227,Pickens County,Georgia,GA,GA3,Southeast,Atlantic SE
+13231,Pike County,Georgia,GA,GA1,Southeast,Atlantic SE
+13145,Harris County,Georgia,GA,GA2,Southeast,Atlantic SE
+13087,Decatur County,Georgia,GA,GA2,Southeast,Atlantic SE
+13195,Madison County,Georgia,GA,GA1,Southeast,Atlantic SE
+13017,Ben Hill County,Georgia,GA,GA3,Southeast,Atlantic SE
+13033,Burke County,Georgia,GA,GA2,Southeast,Atlantic SE
+13291,Union County,Georgia,GA,GA3,Southeast,Atlantic SE
+13133,Greene County,Georgia,GA,GA1,Southeast,Atlantic SE
+13193,Macon County,Georgia,GA,GA1,Southeast,Atlantic SE
+13011,Banks County,Georgia,GA,GA2,Southeast,Atlantic SE
+13093,Dooly County,Georgia,GA,GA1,Southeast,Atlantic SE
+13221,Oglethorpe County,Georgia,GA,GA2,Southeast,Atlantic SE
+13311,White County,Georgia,GA,GA2,Southeast,Atlantic SE
+13159,Jasper County,Georgia,GA,GA1,Southeast,Atlantic SE
+13267,Tattnall County,Georgia,GA,GA1,Southeast,Atlantic SE
+13085,Dawson County,Georgia,GA,GA3,Southeast,Atlantic SE
+13163,Jefferson County,Georgia,GA,GA1,Southeast,Atlantic SE
+13229,Pierce County,Georgia,GA,GA3,Southeast,Atlantic SE
+13321,Worth County,Georgia,GA,GA3,Southeast,Atlantic SE
+13025,Brantley County,Georgia,GA,GA3,Southeast,Atlantic SE
+13035,Butts County,Georgia,GA,GA1,Southeast,Atlantic SE
+13027,Brooks County,Georgia,GA,GA3,Southeast,Atlantic SE
+13083,Dade County,Georgia,GA,GA2,Southeast,Atlantic SE
+13049,Charlton County,Georgia,GA,GA1,Southeast,Atlantic SE
+13005,Bacon County,Georgia,GA,GA2,Southeast,Atlantic SE
+13191,McIntosh County,Georgia,GA,GA1,Southeast,Atlantic SE
+13281,Towns County,Georgia,GA,GA1,Southeast,Atlantic SE
+13237,Putnam County,Georgia,GA,GA2,Southeast,Atlantic SE
+13167,Johnson County,Georgia,GA,GA2,Southeast,Atlantic SE
+13043,Candler County,Georgia,GA,GA1,Southeast,Atlantic SE
+13271,Telfair County,Georgia,GA,GA3,Southeast,Atlantic SE
+13099,Early County,Georgia,GA,GA2,Southeast,Atlantic SE
+13171,Lamar County,Georgia,GA,GA1,Southeast,Atlantic SE
+13241,Rabun County,Georgia,GA,GA2,Southeast,Atlantic SE
+13319,Wilkinson County,Georgia,GA,GA2,Southeast,Atlantic SE
+13141,Hancock County,Georgia,GA,GA3,Southeast,Atlantic SE
+13289,Twiggs County,Georgia,GA,GA3,Southeast,Atlantic SE
+13197,Marion County,Georgia,GA,GA3,Southeast,Atlantic SE
+13079,Crawford County,Georgia,GA,GA3,Southeast,Atlantic SE
+13287,Turner County,Georgia,GA,GA2,Southeast,Atlantic SE
+13235,Pulaski County,Georgia,GA,GA3,Southeast,Atlantic SE
+13053,Chattahoochee County,Georgia,GA,GA2,Southeast,Atlantic SE
+13155,Irwin County,Georgia,GA,GA3,Southeast,Atlantic SE
+13149,Heard County,Georgia,GA,GA1,Southeast,Atlantic SE
+13023,Bleckley County,Georgia,GA,GA2,Southeast,Atlantic SE
+13209,Montgomery County,Georgia,GA,GA2,Southeast,Atlantic SE
+13161,Jeff Davis County,Georgia,GA,GA2,Southeast,Atlantic SE
+13251,Screven County,Georgia,GA,GA3,Southeast,Atlantic SE
+13317,Wilkes County,Georgia,GA,GA3,Southeast,Atlantic SE
+13273,Terrell County,Georgia,GA,GA3,Southeast,Atlantic SE
+13181,Lincoln County,Georgia,GA,GA2,Southeast,Atlantic SE
+13315,Wilcox County,Georgia,GA,GA3,Southeast,Atlantic SE
+13109,Evans County,Georgia,GA,GA3,Southeast,Atlantic SE
+13065,Clinch County,Georgia,GA,GA2,Southeast,Atlantic SE
+13283,Treutlen County,Georgia,GA,GA1,Southeast,Atlantic SE
+13269,Taylor County,Georgia,GA,GA2,Southeast,Atlantic SE
+13173,Lanier County,Georgia,GA,GA1,Southeast,Atlantic SE
+13249,Schley County,Georgia,GA,GA1,Southeast,Atlantic SE
+13003,Atkinson County,Georgia,GA,GA2,Southeast,Atlantic SE
+13263,Talbot County,Georgia,GA,GA3,Southeast,Atlantic SE
+13309,Wheeler County,Georgia,GA,GA1,Southeast,Atlantic SE
+13165,Jenkins County,Georgia,GA,GA2,Southeast,Atlantic SE
+13243,Randolph County,Georgia,GA,GA2,Southeast,Atlantic SE
+13253,Seminole County,Georgia,GA,GA1,Southeast,Atlantic SE
+13201,Miller County,Georgia,GA,GA1,Southeast,Atlantic SE
+13101,Echols County,Georgia,GA,GA2,Southeast,Atlantic SE
+13007,Baker County,Georgia,GA,GA1,Southeast,Atlantic SE
+13037,Calhoun County,Georgia,GA,GA1,Southeast,Atlantic SE
+13301,Warren County,Georgia,GA,GA2,Southeast,Atlantic SE
+13125,Glascock County,Georgia,GA,GA2,Southeast,Atlantic SE
+13259,Stewart County,Georgia,GA,GA1,Southeast,Atlantic SE
+13061,Clay County,Georgia,GA,GA1,Southeast,Atlantic SE
+13307,Webster County,Georgia,GA,GA3,Southeast,Atlantic SE
+13239,Quitman County,Georgia,GA,GA3,Southeast,Atlantic SE
+13265,Taliaferro County,Georgia,GA,GA3,Southeast,Atlantic SE
+49035,Salt Lake County,Utah,UT,UT2,Northwest,Mountain NW
+16001,Ada County,Idaho,ID,ID2,Northwest,Mountain NW
+49049,Utah County,Utah,UT,UT1,Northwest,Mountain NW
+49057,Weber County,Utah,UT,UT3,Northwest,Mountain NW
+16027,Canyon County,Idaho,ID,ID2,Northwest,Mountain NW
+49011,Davis County,Utah,UT,UT3,Northwest,Mountain NW
+49053,Washington County,Utah,UT,UT1,Northwest,Mountain NW
+30111,Yellowstone County,Montana,MT,MT2,Northwest,Mountain NW
+49005,Cache County,Utah,UT,UT3,Northwest,Mountain NW
+56021,Laramie County,Wyoming,WY,WY2,Northwest,Mountain NW
+16055,Kootenai County,Idaho,ID,ID1,Northwest,Mountain NW
+16019,Bonneville County,Idaho,ID,ID3,Northwest,Mountain NW
+30063,Missoula County,Montana,MT,MT2,Northwest,Mountain NW
+16083,Twin Falls County,Idaho,ID,ID2,Northwest,Mountain NW
+16005,Bannock County,Idaho,ID,ID3,Northwest,Mountain NW
+49045,Tooele County,Utah,UT,UT3,Northwest,Mountain NW
+30013,Cascade County,Montana,MT,MT3,Northwest,Mountain NW
+30031,Gallatin County,Montana,MT,MT3,Northwest,Mountain NW
+30049,Lewis and Clark County,Montana,MT,MT2,Northwest,Mountain NW
+16011,Bingham County,Idaho,ID,ID2,Northwest,Mountain NW
+56037,Sweetwater County,Wyoming,WY,WY3,Northwest,Mountain NW
+30029,Flathead County,Montana,MT,MT3,Northwest,Mountain NW
+49021,Iron County,Utah,UT,UT2,Northwest,Mountain NW
+56013,Fremont County,Wyoming,WY,WY3,Northwest,Mountain NW
+56005,Campbell County,Wyoming,WY,WY1,Northwest,Mountain NW
+16069,Nez Perce County,Idaho,ID,ID3,Northwest,Mountain NW
+30081,Ravalli County,Montana,MT,MT3,Northwest,Mountain NW
+56025,Natrona County,Wyoming,WY,WY1,Northwest,Mountain NW
+16065,Madison County,Idaho,ID,ID2,Northwest,Mountain NW
+16057,Latah County,Idaho,ID,ID3,Northwest,Mountain NW
+16017,Bonner County,Idaho,ID,ID1,Northwest,Mountain NW
+49003,Box Elder County,Utah,UT,UT1,Northwest,Mountain NW
+49047,Uintah County,Utah,UT,UT1,Northwest,Mountain NW
+56029,Park County,Wyoming,WY,WY3,Northwest,Mountain NW
+56033,Sheridan County,Wyoming,WY,WY1,Northwest,Mountain NW
+30093,Silver Bow County,Montana,MT,MT1,Northwest,Mountain NW
+16039,Elmore County,Idaho,ID,ID3,Northwest,Mountain NW
+30047,Lake County,Montana,MT,MT3,Northwest,Mountain NW
+56039,Teton County,Wyoming,WY,WY1,Northwest,Mountain NW
+16013,Blaine County,Idaho,ID,ID1,Northwest,Mountain NW
+49039,Sanpete County,Utah,UT,UT1,Northwest,Mountain NW
+49051,Wasatch County,Utah,UT,UT2,Northwest,Mountain NW
+56041,Uinta County,Wyoming,WY,WY1,Northwest,Mountain NW
+56001,Albany County,Wyoming,WY,WY2,Northwest,Mountain NW
+16031,Cassia County,Idaho,ID,ID3,Northwest,Mountain NW
+49043,Summit County,Utah,UT,UT3,Northwest,Mountain NW
+49013,Duchesne County,Utah,UT,UT1,Northwest,Mountain NW
+16045,Gem County,Idaho,ID,ID3,Northwest,Mountain NW
+16075,Payette County,Idaho,ID,ID2,Northwest,Mountain NW
+16051,Jefferson County,Idaho,ID,ID2,Northwest,Mountain NW
+30053,Lincoln County,Montana,MT,MT1,Northwest,Mountain NW
+49041,Sevier County,Utah,UT,UT1,Northwest,Mountain NW
+16053,Jerome County,Idaho,ID,ID2,Northwest,Mountain NW
+30035,Glacier County,Montana,MT,MT1,Northwest,Mountain NW
+30067,Park County,Montana,MT,MT1,Northwest,Mountain NW
+16049,Idaho County,Idaho,ID,ID2,Northwest,Mountain NW
+16043,Fremont County,Idaho,ID,ID1,Northwest,Mountain NW
+56009,Converse County,Wyoming,WY,WY1,Northwest,Mountain NW
+16047,Gooding County,Idaho,ID,ID1,Northwest,Mountain NW
+30089,Sanders County,Montana,MT,MT3,Northwest,Mountain NW
+56003,Big Horn County,Wyoming,WY,WY2,Northwest,Mountain NW
+56023,Lincoln County,Wyoming,WY,WY2,Northwest,Mountain NW
+16021,Boundary County,Idaho,ID,ID3,Northwest,Mountain NW
+30085,Roosevelt County,Montana,MT,MT1,Northwest,Mountain NW
+30083,Richland County,Montana,MT,MT2,Northwest,Mountain NW
+56007,Carbon County,Wyoming,WY,WY1,Northwest,Mountain NW
+16067,Minidoka County,Idaho,ID,ID2,Northwest,Mountain NW
+16081,Teton County,Idaho,ID,ID2,Northwest,Mountain NW
+49007,Carbon County,Utah,UT,UT3,Northwest,Mountain NW
+16041,Franklin County,Idaho,ID,ID3,Northwest,Mountain NW
+49037,San Juan County,Utah,UT,UT2,Northwest,Mountain NW
+30087,Rosebud County,Montana,MT,MT2,Northwest,Mountain NW
+56015,Goshen County,Wyoming,WY,WY2,Northwest,Mountain NW
+16087,Washington County,Idaho,ID,ID1,Northwest,Mountain NW
+16009,Benewah County,Idaho,ID,ID2,Northwest,Mountain NW
+30017,Custer County,Montana,MT,MT3,Northwest,Mountain NW
+30043,Jefferson County,Montana,MT,MT3,Northwest,Mountain NW
+30041,Hill County,Montana,MT,MT3,Northwest,Mountain NW
+49023,Juab County,Utah,UT,UT2,Northwest,Mountain NW
+16035,Clearwater County,Idaho,ID,ID3,Northwest,Mountain NW
+16079,Shoshone County,Idaho,ID,ID1,Northwest,Mountain NW
+16059,Lemhi County,Idaho,ID,ID1,Northwest,Mountain NW
+56031,Platte County,Wyoming,WY,WY2,Northwest,Mountain NW
+30009,Carbon County,Montana,MT,MT1,Northwest,Mountain NW
+56019,Johnson County,Wyoming,WY,WY1,Northwest,Mountain NW
+49029,Morgan County,Utah,UT,UT3,Northwest,Mountain NW
+49015,Emery County,Utah,UT,UT1,Northwest,Mountain NW
+56035,Sublette County,Wyoming,WY,WY2,Northwest,Mountain NW
+30023,Deer Lodge County,Montana,MT,MT1,Northwest,Mountain NW
+16029,Caribou County,Idaho,ID,ID2,Northwest,Mountain NW
+49027,Millard County,Utah,UT,UT3,Northwest,Mountain NW
+30005,Blaine County,Montana,MT,MT3,Northwest,Mountain NW
+56011,Crook County,Wyoming,WY,WY2,Northwest,Mountain NW
+30057,Madison County,Montana,MT,MT2,Northwest,Mountain NW
+30003,Big Horn County,Montana,MT,MT2,Northwest,Mountain NW
+30027,Fergus County,Montana,MT,MT1,Northwest,Mountain NW
+16073,Owyhee County,Idaho,ID,ID1,Northwest,Mountain NW
+16085,Valley County,Idaho,ID,ID2,Northwest,Mountain NW
+16015,Boise County,Idaho,ID,ID3,Northwest,Mountain NW
+30007,Broadwater County,Montana,MT,MT1,Northwest,Mountain NW
+30021,Dawson County,Montana,MT,MT3,Northwest,Mountain NW
+30095,Stillwater County,Montana,MT,MT2,Northwest,Mountain NW
+56043,Washakie County,Wyoming,WY,WY2,Northwest,Mountain NW
+49019,Grand County,Utah,UT,UT2,Northwest,Mountain NW
+30001,Beaverhead County,Montana,MT,MT1,Northwest,Mountain NW
+30101,Toole County,Montana,MT,MT2,Northwest,Mountain NW
+30105,Valley County,Montana,MT,MT1,Northwest,Mountain NW
+30077,Powell County,Montana,MT,MT2,Northwest,Mountain NW
+16063,Lincoln County,Idaho,ID,ID2,Northwest,Mountain NW
+49025,Kane County,Utah,UT,UT2,Northwest,Mountain NW
+16077,Power County,Idaho,ID,ID1,Northwest,Mountain NW
+30015,Chouteau County,Montana,MT,MT2,Northwest,Mountain NW
+30099,Teton County,Montana,MT,MT3,Northwest,Mountain NW
+30061,Mineral County,Montana,MT,MT1,Northwest,Mountain NW
+16061,Lewis County,Idaho,ID,ID3,Northwest,Mountain NW
+56045,Weston County,Wyoming,WY,WY1,Northwest,Mountain NW
+30065,Musselshell County,Montana,MT,MT3,Northwest,Mountain NW
+56017,Hot Springs County,Wyoming,WY,WY2,Northwest,Mountain NW
+16037,Custer County,Idaho,ID,ID1,Northwest,Mountain NW
+16007,Bear Lake County,Idaho,ID,ID1,Northwest,Mountain NW
+49001,Beaver County,Utah,UT,UT2,Northwest,Mountain NW
+16071,Oneida County,Idaho,ID,ID3,Northwest,Mountain NW
+30073,Pondera County,Montana,MT,MT1,Northwest,Mountain NW
+30071,Phillips County,Montana,MT,MT2,Northwest,Mountain NW
+49055,Wayne County,Utah,UT,UT1,Northwest,Mountain NW
+49017,Garfield County,Utah,UT,UT3,Northwest,Mountain NW
+30091,Sheridan County,Montana,MT,MT2,Northwest,Mountain NW
+30045,Judith Basin County,Montana,MT,MT1,Northwest,Mountain NW
+30051,Liberty County,Montana,MT,MT1,Northwest,Mountain NW
+30097,Sweet Grass County,Montana,MT,MT1,Northwest,Mountain NW
+56027,Niobrara County,Wyoming,WY,WY2,Northwest,Mountain NW
+16003,Adams County,Idaho,ID,ID2,Northwest,Mountain NW
+30039,Granite County,Montana,MT,MT1,Northwest,Mountain NW
+30025,Fallon County,Montana,MT,MT1,Northwest,Mountain NW
+30075,Powder River County,Montana,MT,MT3,Northwest,Mountain NW
+30019,Daniels County,Montana,MT,MT2,Northwest,Mountain NW
+30055,McCone County,Montana,MT,MT1,Northwest,Mountain NW
+49033,Rich County,Utah,UT,UT2,Northwest,Mountain NW
+49031,Piute County,Utah,UT,UT2,Northwest,Mountain NW
+16023,Butte County,Idaho,ID,ID3,Northwest,Mountain NW
+30079,Prairie County,Montana,MT,MT1,Northwest,Mountain NW
+30059,Meagher County,Montana,MT,MT2,Northwest,Mountain NW
+30107,Wheatland County,Montana,MT,MT1,Northwest,Mountain NW
+30011,Carter County,Montana,MT,MT2,Northwest,Mountain NW
+30033,Garfield County,Montana,MT,MT1,Northwest,Mountain NW
+49009,Daggett County,Utah,UT,UT2,Northwest,Mountain NW
+16025,Camas County,Idaho,ID,ID1,Northwest,Mountain NW
+16033,Clark County,Idaho,ID,ID3,Northwest,Mountain NW
+30109,Wibaux County,Montana,MT,MT3,Northwest,Mountain NW
+30037,Golden Valley County,Montana,MT,MT2,Northwest,Mountain NW
+30103,Treasure County,Montana,MT,MT3,Northwest,Mountain NW
+30069,Petroleum County,Montana,MT,MT3,Northwest,Mountain NW
+53033,King County,Washington,WA,WA3,Northwest,Pacific NW
+53053,Pierce County,Washington,WA,WA1,Northwest,Pacific NW
+41051,Multnomah County,Oregon,OR,OR1,Northwest,Pacific NW
+53061,Snohomish County,Washington,WA,WA1,Northwest,Pacific NW
+53011,Clark County,Washington,WA,WA1,Northwest,Pacific NW
+41005,Clackamas County,Oregon,OR,OR2,Northwest,Pacific NW
+41047,Marion County,Oregon,OR,OR3,Northwest,Pacific NW
+41067,Washington County,Oregon,OR,OR1,Northwest,Pacific NW
+53063,Spokane County,Washington,WA,WA1,Northwest,Pacific NW
+53035,Kitsap County,Washington,WA,WA2,Northwest,Pacific NW
+53073,Whatcom County,Washington,WA,WA2,Northwest,Pacific NW
+53067,Thurston County,Washington,WA,WA1,Northwest,Pacific NW
+41029,Jackson County,Oregon,OR,OR3,Northwest,Pacific NW
+41039,Lane County,Oregon,OR,OR3,Northwest,Pacific NW
+53005,Benton County,Washington,WA,WA2,Northwest,Pacific NW
+2020,"Anchorage, Municipality of",Alaska,AK,AK1,Northwest,Pacific NW
+53077,Yakima County,Washington,WA,WA2,Northwest,Pacific NW
+41017,Deschutes County,Oregon,OR,OR3,Northwest,Pacific NW
+2090,Fairbanks North Star Borough,Alaska,AK,AK1,Northwest,Pacific NW
+53057,Skagit County,Washington,WA,WA3,Northwest,Pacific NW
+53015,Cowlitz County,Washington,WA,WA2,Northwest,Pacific NW
+53025,Grant County,Washington,WA,WA1,Northwest,Pacific NW
+2170,MatanuskaSusitna Borough,Alaska,AK,AK1,Northwest,Pacific NW
+41071,Yamhill County,Oregon,OR,OR3,Northwest,Pacific NW
+41059,Umatilla County,Oregon,OR,OR3,Northwest,Pacific NW
+53027,Grays Harbor County,Washington,WA,WA3,Northwest,Pacific NW
+53041,Lewis County,Washington,WA,WA1,Northwest,Pacific NW
+41043,Linn County,Oregon,OR,OR2,Northwest,Pacific NW
+53021,Franklin County,Washington,WA,WA1,Northwest,Pacific NW
+53029,Island County,Washington,WA,WA2,Northwest,Pacific NW
+41003,Benton County,Oregon,OR,OR1,Northwest,Pacific NW
+53009,Clallam County,Washington,WA,WA1,Northwest,Pacific NW
+41019,Douglas County,Oregon,OR,OR3,Northwest,Pacific NW
+53071,Walla Walla County,Washington,WA,WA3,Northwest,Pacific NW
+41053,Polk County,Oregon,OR,OR2,Northwest,Pacific NW
+41033,Josephine County,Oregon,OR,OR3,Northwest,Pacific NW
+41011,Coos County,Oregon,OR,OR2,Northwest,Pacific NW
+53045,Mason County,Washington,WA,WA1,Northwest,Pacific NW
+41035,Klamath County,Oregon,OR,OR2,Northwest,Pacific NW
+53007,Chelan County,Washington,WA,WA2,Northwest,Pacific NW
+53017,Douglas County,Washington,WA,WA2,Northwest,Pacific NW
+41007,Clatsop County,Oregon,OR,OR1,Northwest,Pacific NW
+41041,Lincoln County,Oregon,OR,OR3,Northwest,Pacific NW
+53075,Whitman County,Washington,WA,WA2,Northwest,Pacific NW
+53047,Okanogan County,Washington,WA,WA3,Northwest,Pacific NW
+53031,Jefferson County,Washington,WA,WA3,Northwest,Pacific NW
+41045,Malheur County,Oregon,OR,OR1,Northwest,Pacific NW
+41009,Columbia County,Oregon,OR,OR1,Northwest,Pacific NW
+2122,Kenai Peninsula Borough,Alaska,AK,AK3,Northwest,Pacific NW
+53065,Stevens County,Washington,WA,WA1,Northwest,Pacific NW
+53037,Kittitas County,Washington,WA,WA3,Northwest,Pacific NW
+41027,Hood River County,Oregon,OR,OR3,Northwest,Pacific NW
+41061,Union County,Oregon,OR,OR2,Northwest,Pacific NW
+41065,Wasco County,Oregon,OR,OR3,Northwest,Pacific NW
+53001,Adams County,Washington,WA,WA1,Northwest,Pacific NW
+41013,Crook County,Oregon,OR,OR1,Northwest,Pacific NW
+2110,"Juneau, City and Borough of",Alaska,AK,AK3,Northwest,Pacific NW
+41015,Curry County,Oregon,OR,OR1,Northwest,Pacific NW
+2050,Bethel Census Area,Alaska,AK,AK2,Northwest,Pacific NW
+41031,Jefferson County,Oregon,OR,OR3,Northwest,Pacific NW
+53055,San Juan County,Washington,WA,WA1,Northwest,Pacific NW
+53049,Pacific County,Washington,WA,WA2,Northwest,Pacific NW
+53051,Pend Oreille County,Washington,WA,WA2,Northwest,Pacific NW
+41057,Tillamook County,Oregon,OR,OR2,Northwest,Pacific NW
+41001,Baker County,Oregon,OR,OR1,Northwest,Pacific NW
+53059,Skamania County,Washington,WA,WA3,Northwest,Pacific NW
+53043,Lincoln County,Washington,WA,WA3,Northwest,Pacific NW
+53003,Asotin County,Washington,WA,WA1,Northwest,Pacific NW
+53039,Klickitat County,Washington,WA,WA3,Northwest,Pacific NW
+2180,Nome Census Area,Alaska,AK,AK2,Northwest,Pacific NW
+2185,North Slope Borough,Alaska,AK,AK3,Northwest,Pacific NW
+2150,Kodiak Island Borough,Alaska,AK,AK1,Northwest,Pacific NW
+41037,Lake County,Oregon,OR,OR1,Northwest,Pacific NW
+41049,Morrow County,Oregon,OR,OR1,Northwest,Pacific NW
+2130,Ketchikan Gateway Borough,Alaska,AK,AK1,Northwest,Pacific NW
+2270,Kusilvak Census Area,Alaska,AK,AK3,Northwest,Pacific NW
+41023,Grant County,Oregon,OR,OR3,Northwest,Pacific NW
+2188,Northwest Arctic Borough,Alaska,AK,AK1,Northwest,Pacific NW
+53019,Ferry County,Washington,WA,WA3,Northwest,Pacific NW
+2198,Prince of Wales Hyder Census Area,Alaska,AK,AK3,Northwest,Pacific NW
+2261,Valdez Cordova Census Area,Alaska,AK,AK1,Northwest,Pacific NW
+41025,Harney County,Oregon,OR,OR2,Northwest,Pacific NW
+41063,Wallowa County,Oregon,OR,OR1,Northwest,Pacific NW
+2220,"Sitka, City and Borough of",Alaska,AK,AK2,Northwest,Pacific NW
+2070,Dillingham Census Area,Alaska,AK,AK3,Northwest,Pacific NW
+2240,Southeast Fairbanks Census Area,Alaska,AK,AK1,Northwest,Pacific NW
+2290,Yukon Koyukuk Census Area,Alaska,AK,AK2,Northwest,Pacific NW
+53069,Wahkiakum County,Washington,WA,WA1,Northwest,Pacific NW
+53013,Columbia County,Washington,WA,WA1,Northwest,Pacific NW
+2016,Aleutians West Census Area,Alaska,AK,AK1,Northwest,Pacific NW
+2275,"Wrangell, City and Borough of",Alaska,AK,AK3,Northwest,Pacific NW
+41021,Gilliam County,Oregon,OR,OR3,Northwest,Pacific NW
+2068,Denali Borough,Alaska,AK,AK1,Northwest,Pacific NW
+53023,Garfield County,Washington,WA,WA2,Northwest,Pacific NW
+2013,Aleutians East Borough,Alaska,AK,AK2,Northwest,Pacific NW
+41055,Sherman County,Oregon,OR,OR2,Northwest,Pacific NW
+41069,Wheeler County,Oregon,OR,OR2,Northwest,Pacific NW
+2164,Lake and Peninsula Borough,Alaska,AK,AK1,Northwest,Pacific NW
+34003,Bergen County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+24033,Prince George's County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24031,Montgomery County,Maryland,MD,MD1,Northeast,Mid Atlantic
+34017,Hudson County,New Jersey,NJ,NJ1,Northeast,Mid Atlantic
+24005,Baltimore County,Maryland,MD,MD1,Northeast,Mid Atlantic
+34023,Middlesex County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+24510,Baltimore City,Maryland,MD,MD1,Northeast,Mid Atlantic
+34013,Essex County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+34025,Monmouth County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+34031,Passaic County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+10003,New Castle County,Delaware,DE,DE1,Northeast,Mid Atlantic
+34039,Union County,New Jersey,NJ,NJ3,Northeast,Mid Atlantic
+24003,Anne Arundel County,Maryland,MD,MD2,Northeast,Mid Atlantic
+34007,Camden County,New Jersey,NJ,NJ3,Northeast,Mid Atlantic
+34029,Ocean County,New Jersey,NJ,NJ1,Northeast,Mid Atlantic
+34005,Burlington County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+34021,Mercer County,New Jersey,NJ,NJ1,Northeast,Mid Atlantic
+34027,Morris County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+34015,Gloucester County,New Jersey,NJ,NJ1,Northeast,Mid Atlantic
+24027,Howard County,Maryland,MD,MD2,Northeast,Mid Atlantic
+34035,Somerset County,New Jersey,NJ,NJ3,Northeast,Mid Atlantic
+34001,Atlantic County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+24021,Frederick County,Maryland,MD,MD2,Northeast,Mid Atlantic
+10005,Sussex County,Delaware,DE,DE1,Northeast,Mid Atlantic
+34037,Sussex County,New Jersey,NJ,NJ3,Northeast,Mid Atlantic
+24025,Harford County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24013,Carroll County,Maryland,MD,MD2,Northeast,Mid Atlantic
+34011,Cumberland County,New Jersey,NJ,NJ3,Northeast,Mid Atlantic
+24017,Charles County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24043,Washington County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24009,Calvert County,Maryland,MD,MD1,Northeast,Mid Atlantic
+24037,St. Mary's County,Maryland,MD,MD1,Northeast,Mid Atlantic
+10001,Kent County,Delaware,DE,DE1,Northeast,Mid Atlantic
+34019,Hunterdon County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+24045,Wicomico County,Maryland,MD,MD1,Northeast,Mid Atlantic
+24015,Cecil County,Maryland,MD,MD1,Northeast,Mid Atlantic
+34041,Warren County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+34033,Salem County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+34009,Cape May County,New Jersey,NJ,NJ2,Northeast,Mid Atlantic
+24001,Allegany County,Maryland,MD,MD1,Northeast,Mid Atlantic
+24035,Queen Anne's County,Maryland,MD,MD1,Northeast,Mid Atlantic
+24019,Dorchester County,Maryland,MD,MD1,Northeast,Mid Atlantic
+24023,Garrett County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24047,Worcester County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24041,Talbot County,Maryland,MD,MD3,Northeast,Mid Atlantic
+24011,Caroline County,Maryland,MD,MD2,Northeast,Mid Atlantic
+24029,Kent County,Maryland,MD,MD3,Northeast,Mid Atlantic
+24039,Somerset County,Maryland,MD,MD3,Northeast,Mid Atlantic
+42003,Allegheny County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42101,Philadelphia County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42091,Montgomery County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42029,Chester County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42133,York County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42045,Delaware County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42017,Bucks County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42071,Lancaster County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42049,Erie County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42011,Berks County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42077,Lehigh County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42129,Westmoreland County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42019,Butler County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42079,Luzerne County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42007,Beaver County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42043,Dauphin County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42041,Cumberland County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42095,Northampton County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42069,Lackawanna County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42089,Monroe County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42027,Centre County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42125,Washington County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42013,Blair County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42081,Lycoming County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42055,Franklin County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42075,Lebanon County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42051,Fayette County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42107,Schuylkill County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42039,Crawford County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42021,Cambria County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42063,Indiana County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42111,Somerset County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42073,Lawrence County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42033,Clearfield County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42037,Columbia County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42097,Northumberland County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42085,Mercer County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42005,Armstrong County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42061,Huntingdon County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42121,Venango County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42001,Adams County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42119,Union County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42103,Pike County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42015,Bradford County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42031,Clarion County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42123,Warren County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42087,Mifflin County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42025,Carbon County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42009,Bedford County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42115,Susquehanna County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42099,Perry County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42065,Jefferson County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42117,Tioga County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42035,Clinton County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42083,McKean County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42067,Juniata County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42127,Wayne County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42131,Wyoming County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42059,Greene County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42047,Elk County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42105,Potter County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42109,Snyder County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42093,Montour County,Pennsylvania,PA,PA1,Northeast,Mid Atlantic
+42057,Fulton County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42113,Sullivan County,Pennsylvania,PA,PA2,Northeast,Mid Atlantic
+42023,Cameron County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+42053,Forest County,Pennsylvania,PA,PA3,Northeast,Mid Atlantic
+36081,Queens County,New York,NY,NY3,Northeast,New England
+36047,Kings County,New York,NY,NY3,Northeast,New England
+36005,Bronx County,New York,NY,NY3,Northeast,New England
+36059,Nassau County,New York,NY,NY2,Northeast,New England
+36103,Suffolk County,New York,NY,NY2,Northeast,New England
+25017,Middlesex County,Massachusetts,MA,MA2,Northeast,New England
+25025,Suffolk County,Massachusetts,MA,MA1,Northeast,New England
+36061,New York County,New York,NY,NY1,Northeast,New England
+36029,Erie County,New York,NY,NY1,Northeast,New England
+25009,Essex County,Massachusetts,MA,MA1,Northeast,New England
+36055,Monroe County,New York,NY,NY1,Northeast,New England
+9001,Fairfield County,Connecticut,CT,CT1,Northeast,New England
+9009,New Haven County,Connecticut,CT,CT2,Northeast,New England
+36119,Westchester County,New York,NY,NY3,Northeast,New England
+9003,Hartford County,Connecticut,CT,CT1,Northeast,New England
+25027,Worcester County,Massachusetts,MA,MA1,Northeast,New England
+25013,Hampden County,Massachusetts,MA,MA2,Northeast,New England
+44007,Providence County,Rhode Island,RI,RI1,Northeast,New England
+25023,Plymouth County,Massachusetts,MA,MA1,Northeast,New England
+36067,Onondaga County,New York,NY,NY3,Northeast,New England
+25021,Norfolk County,Massachusetts,MA,MA3,Northeast,New England
+25005,Bristol County,Massachusetts,MA,MA3,Northeast,New England
+36001,Albany County,New York,NY,NY2,Northeast,New England
+33011,Hillsborough County,New Hampshire,NH,NH1,Northeast,New England
+36085,Richmond County,New York,NY,NY1,Northeast,New England
+9011,New London County,Connecticut,CT,CT3,Northeast,New England
+36071,Orange County,New York,NY,NY3,Northeast,New England
+36065,Oneida County,New York,NY,NY2,Northeast,New England
+36027,Dutchess County,New York,NY,NY1,Northeast,New England
+36063,Niagara County,New York,NY,NY3,Northeast,New England
+36087,Rockland County,New York,NY,NY2,Northeast,New England
+33015,Rockingham County,New Hampshire,NH,NH2,Northeast,New England
+36007,Broome County,New York,NY,NY3,Northeast,New England
+23005,Cumberland County,Maine,ME,ME1,Northeast,New England
+50007,Chittenden County,Vermont,VT,VT1,Northeast,New England
+23019,Penobscot County,Maine,ME,ME1,Northeast,New England
+36111,Ulster County,New York,NY,NY3,Northeast,New England
+9005,Litchfield County,Connecticut,CT,CT3,Northeast,New England
+23031,York County,Maine,ME,ME1,Northeast,New England
+44003,Kent County,Rhode Island,RI,RI1,Northeast,New England
+36093,Schenectady County,New York,NY,NY3,Northeast,New England
+25015,Hampshire County,Massachusetts,MA,MA2,Northeast,New England
+33013,Merrimack County,New Hampshire,NH,NH1,Northeast,New England
+44009,Washington County,Rhode Island,RI,RI1,Northeast,New England
+23011,Kennebec County,Maine,ME,ME2,Northeast,New England
+36013,Chautauqua County,New York,NY,NY3,Northeast,New England
+25003,Berkshire County,Massachusetts,MA,MA3,Northeast,New England
+36083,Rensselaer County,New York,NY,NY3,Northeast,New England
+36091,Saratoga County,New York,NY,NY1,Northeast,New England
+25001,Barnstable County,Massachusetts,MA,MA3,Northeast,New England
+36101,Steuben County,New York,NY,NY1,Northeast,New England
+23001,Androscoggin County,Maine,ME,ME2,Northeast,New England
+36075,Oswego County,New York,NY,NY1,Northeast,New England
+36045,Jefferson County,New York,NY,NY2,Northeast,New England
+9007,Middlesex County,Connecticut,CT,CT1,Northeast,New England
+33017,Strafford County,New Hampshire,NH,NH2,Northeast,New England
+36089,St. Lawrence County,New York,NY,NY3,Northeast,New England
+36011,Cayuga County,New York,NY,NY1,Northeast,New England
+36109,Tompkins County,New York,NY,NY1,Northeast,New England
+9013,Tolland County,Connecticut,CT,CT2,Northeast,New England
+9015,Windham County,Connecticut,CT,CT2,Northeast,New England
+36069,Ontario County,New York,NY,NY1,Northeast,New England
+33009,Grafton County,New Hampshire,NH,NH1,Northeast,New England
+36009,Cattaraugus County,New York,NY,NY1,Northeast,New England
+36115,Washington County,New York,NY,NY3,Northeast,New England
+36015,Chemung County,New York,NY,NY1,Northeast,New England
+36077,Otsego County,New York,NY,NY3,Northeast,New England
+36117,Wayne County,New York,NY,NY1,Northeast,New England
+23017,Oxford County,Maine,ME,ME3,Northeast,New England
+36079,Putnam County,New York,NY,NY1,Northeast,New England
+44005,Newport County,Rhode Island,RI,RI1,Northeast,New England
+36035,Fulton County,New York,NY,NY2,Northeast,New England
+36037,Genesee County,New York,NY,NY1,Northeast,New England
+36113,Warren County,New York,NY,NY3,Northeast,New England
+36051,Livingston County,New York,NY,NY2,Northeast,New England
+36021,Columbia County,New York,NY,NY2,Northeast,New England
+36019,Clinton County,New York,NY,NY2,Northeast,New England
+50021,Rutland County,Vermont,VT,VT1,Northeast,New England
+36017,Chenango County,New York,NY,NY2,Northeast,New England
+23003,Aroostook County,Maine,ME,ME3,Northeast,New England
+33001,Belknap County,New Hampshire,NH,NH2,Northeast,New England
+23025,Somerset County,Maine,ME,ME2,Northeast,New England
+33005,Cheshire County,New Hampshire,NH,NH1,Northeast,New England
+50011,Franklin County,Vermont,VT,VT3,Northeast,New England
+36105,Sullivan County,New York,NY,NY2,Northeast,New England
+36003,Allegany County,New York,NY,NY3,Northeast,New England
+36121,Wyoming County,New York,NY,NY2,Northeast,New England
+36039,Greene County,New York,NY,NY3,Northeast,New England
+36043,Herkimer County,New York,NY,NY2,Northeast,New England
+36053,Madison County,New York,NY,NY3,Northeast,New England
+36033,Franklin County,New York,NY,NY2,Northeast,New England
+44001,Bristol County,Rhode Island,RI,RI1,Northeast,New England
+50023,Washington County,Vermont,VT,VT3,Northeast,New England
+36031,Essex County,New York,NY,NY2,Northeast,New England
+36025,Delaware County,New York,NY,NY2,Northeast,New England
+23009,Hancock County,Maine,ME,ME3,Northeast,New England
+36023,Cortland County,New York,NY,NY3,Northeast,New England
+25011,Franklin County,Massachusetts,MA,MA1,Northeast,New England
+36107,Tioga County,New York,NY,NY3,Northeast,New England
+36057,Montgomery County,New York,NY,NY1,Northeast,New England
+36095,Schoharie County,New York,NY,NY2,Northeast,New England
+50003,Bennington County,Vermont,VT,VT2,Northeast,New England
+50027,Windsor County,Vermont,VT,VT2,Northeast,New England
+23013,Knox County,Maine,ME,ME2,Northeast,New England
+33019,Sullivan County,New Hampshire,NH,NH2,Northeast,New England
+50025,Windham County,Vermont,VT,VT1,Northeast,New England
+23029,Washington County,Maine,ME,ME1,Northeast,New England
+23007,Franklin County,Maine,ME,ME1,Northeast,New England
+50015,Lamoille County,Vermont,VT,VT1,Northeast,New England
+36123,Yates County,New York,NY,NY3,Northeast,New England
+36099,Seneca County,New York,NY,NY1,Northeast,New England
+33007,Coos County,New Hampshire,NH,NH1,Northeast,New England
+50005,Caledonia County,Vermont,VT,VT2,Northeast,New England
+23015,Lincoln County,Maine,ME,ME2,Northeast,New England
+33003,Carroll County,New Hampshire,NH,NH2,Northeast,New England
+50001,Addison County,Vermont,VT,VT1,Northeast,New England
+23027,Waldo County,Maine,ME,ME1,Northeast,New England
+36073,Orleans County,New York,NY,NY1,Northeast,New England
+23023,Sagadahoc County,Maine,ME,ME3,Northeast,New England
+50017,Orange County,Vermont,VT,VT3,Northeast,New England
+50019,Orleans County,Vermont,VT,VT1,Northeast,New England
+36049,Lewis County,New York,NY,NY3,Northeast,New England
+36097,Schuyler County,New York,NY,NY3,Northeast,New England
+25007,Dukes County,Massachusetts,MA,MA2,Northeast,New England
+23021,Piscataquis County,Maine,ME,ME3,Northeast,New England
+25019,Nantucket County,Massachusetts,MA,MA1,Northeast,New England
+50013,Grand Isle County,Vermont,VT,VT1,Northeast,New England
+50009,Essex County,Vermont,VT,VT2,Northeast,New England
+36041,Hamilton County,New York,NY,NY2,Northeast,New England
+6037,Los Angeles County,California,CA,CA3,Southwest,Pacific SW
+6059,Orange County,California,CA,CA3,Southwest,Pacific SW
+6073,San Diego County,California,CA,CA3,Southwest,Pacific SW
+4013,Maricopa County,Arizona,AZ,AZ3,Southwest,Southwest Core
+6071,San Bernardino County,California,CA,CA3,Southwest,Pacific SW
+6065,Riverside County,California,CA,CA3,Southwest,Pacific SW
+32003,Clark County,Nevada,NV,NV3,Southwest,Pacific SW
+6001,Alameda County,California,CA,CA2,Southwest,Pacific SW
+6085,Santa Clara County,California,CA,CA2,Southwest,Pacific SW
+6067,Sacramento County,California,CA,CA1,Southwest,Pacific SW
+6111,Ventura County,California,CA,CA1,Southwest,Pacific SW
+4019,Pima County,Arizona,AZ,AZ1,Southwest,Southwest Core
+6019,Fresno County,California,CA,CA1,Southwest,Pacific SW
+6029,Kern County,California,CA,CA1,Southwest,Pacific SW
+15003,Honolulu County,Hawaii,HI,HI3,Southwest,Pacific SW
+6075,San Francisco County,California,CA,CA3,Southwest,Pacific SW
+6013,Contra Costa County,California,CA,CA2,Southwest,Pacific SW
+6077,San Joaquin County,California,CA,CA3,Southwest,Pacific SW
+6107,Tulare County,California,CA,CA2,Southwest,Pacific SW
+6099,Stanislaus County,California,CA,CA2,Southwest,Pacific SW
+6097,Sonoma County,California,CA,CA3,Southwest,Pacific SW
+6081,San Mateo County,California,CA,CA2,Southwest,Pacific SW
+6083,Santa Barbara County,California,CA,CA1,Southwest,Pacific SW
+35001,Bernalillo County,New Mexico,NM,NM2,Southwest,Southwest Core
+6095,Solano County,California,CA,CA3,Southwest,Pacific SW
+6053,Monterey County,California,CA,CA3,Southwest,Pacific SW
+32031,Washoe County,Nevada,NV,NV3,Southwest,Pacific SW
+4021,Pinal County,Arizona,AZ,AZ3,Southwest,Southwest Core
+6041,Marin County,California,CA,CA1,Southwest,Pacific SW
+6007,Butte County,California,CA,CA3,Southwest,Pacific SW
+6061,Placer County,California,CA,CA1,Southwest,Pacific SW
+6079,San Luis Obispo County,California,CA,CA3,Southwest,Pacific SW
+15001,Hawaii County,Hawaii,HI,HI3,Southwest,Pacific SW
+6113,Yolo County,California,CA,CA3,Southwest,Pacific SW
+6017,El Dorado County,California,CA,CA3,Southwest,Pacific SW
+6087,Santa Cruz County,California,CA,CA3,Southwest,Pacific SW
+6039,Madera County,California,CA,CA3,Southwest,Pacific SW
+4025,Yavapai County,Arizona,AZ,AZ1,Southwest,Southwest Core
+4027,Yuma County,Arizona,AZ,AZ1,Southwest,Southwest Core
+6025,Imperial County,California,CA,CA1,Southwest,Pacific SW
+6047,Merced County,California,CA,CA1,Southwest,Pacific SW
+35013,Dona Ana County,New Mexico,NM,NM2,Southwest,Southwest Core
+4003,Cochise County,Arizona,AZ,AZ3,Southwest,Southwest Core
+35043,Sandoval County,New Mexico,NM,NM3,Southwest,Southwest Core
+35049,Santa Fe County,New Mexico,NM,NM1,Southwest,Southwest Core
+35045,San Juan County,New Mexico,NM,NM3,Southwest,Southwest Core
+4015,Mohave County,Arizona,AZ,AZ3,Southwest,Southwest Core
+15009,Maui County,Hawaii,HI,HI3,Southwest,Pacific SW
+6031,Kings County,California,CA,CA1,Southwest,Pacific SW
+6101,Sutter County,California,CA,CA3,Southwest,Pacific SW
+6023,Humboldt County,California,CA,CA2,Southwest,Pacific SW
+4005,Coconino County,Arizona,AZ,AZ2,Southwest,Southwest Core
+6055,Napa County,California,CA,CA3,Southwest,Pacific SW
+6089,Shasta County,California,CA,CA3,Southwest,Pacific SW
+6057,Nevada County,California,CA,CA3,Southwest,Pacific SW
+35061,Valencia County,New Mexico,NM,NM2,Southwest,Southwest Core
+35025,Lea County,New Mexico,NM,NM1,Southwest,Southwest Core
+4017,Navajo County,Arizona,AZ,AZ2,Southwest,Southwest Core
+4001,Apache County,Arizona,AZ,AZ3,Southwest,Southwest Core
+35031,McKinley County,New Mexico,NM,NM3,Southwest,Southwest Core
+6115,Yuba County,California,CA,CA1,Southwest,Pacific SW
+15007,Kauai County,Hawaii,HI,HI1,Southwest,Pacific SW
+6033,Lake County,California,CA,CA1,Southwest,Pacific SW
+6045,Mendocino County,California,CA,CA1,Southwest,Pacific SW
+6103,Tehama County,California,CA,CA1,Southwest,Pacific SW
+32007,Elko County,Nevada,NV,NV3,Southwest,Pacific SW
+35005,Chaves County,New Mexico,NM,NM2,Southwest,Southwest Core
+32510,Carson City,Nevada,NV,NV1,Southwest,Pacific SW
+6069,San Benito County,California,CA,CA1,Southwest,Pacific SW
+4023,Santa Cruz County,Arizona,AZ,AZ3,Southwest,Southwest Core
+32019,Lyon County,Nevada,NV,NV2,Southwest,Pacific SW
+4009,Graham County,Arizona,AZ,AZ3,Southwest,Southwest Core
+6093,Siskiyou County,California,CA,CA2,Southwest,Pacific SW
+35039,Rio Arriba County,New Mexico,NM,NM3,Southwest,Southwest Core
+35015,Eddy County,New Mexico,NM,NM1,Southwest,Southwest Core
+6109,Tuolumne County,California,CA,CA2,Southwest,Pacific SW
+35035,Otero County,New Mexico,NM,NM1,Southwest,Southwest Core
+32023,Nye County,Nevada,NV,NV2,Southwest,Pacific SW
+4007,Gila County,Arizona,AZ,AZ3,Southwest,Southwest Core
+35009,Curry County,New Mexico,NM,NM3,Southwest,Southwest Core
+32005,Douglas County,Nevada,NV,NV3,Southwest,Pacific SW
+6009,Calaveras County,California,CA,CA3,Southwest,Pacific SW
+35006,Cibola County,New Mexico,NM,NM1,Southwest,Southwest Core
+6005,Amador County,California,CA,CA2,Southwest,Pacific SW
+6015,Del Norte County,California,CA,CA3,Southwest,Pacific SW
+32001,Churchill County,Nevada,NV,NV2,Southwest,Pacific SW
+35055,Taos County,New Mexico,NM,NM2,Southwest,Southwest Core
+6035,Lassen County,California,CA,CA2,Southwest,Pacific SW
+4012,La Paz County,Arizona,AZ,AZ2,Southwest,Southwest Core
+6021,Glenn County,California,CA,CA2,Southwest,Pacific SW
+6027,Inyo County,California,CA,CA2,Southwest,Pacific SW
+35041,Roosevelt County,New Mexico,NM,NM3,Southwest,Southwest Core
+35047,San Miguel County,New Mexico,NM,NM3,Southwest,Southwest Core
+35017,Grant County,New Mexico,NM,NM1,Southwest,Southwest Core
+35027,Lincoln County,New Mexico,NM,NM3,Southwest,Southwest Core
+6063,Plumas County,California,CA,CA3,Southwest,Pacific SW
+6011,Colusa County,California,CA,CA2,Southwest,Pacific SW
+35028,Los Alamos County,New Mexico,NM,NM3,Southwest,Southwest Core
+35029,Luna County,New Mexico,NM,NM2,Southwest,Southwest Core
+35057,Torrance County,New Mexico,NM,NM3,Southwest,Southwest Core
+6105,Trinity County,California,CA,CA3,Southwest,Pacific SW
+32013,Humboldt County,Nevada,NV,NV1,Southwest,Pacific SW
+35007,Colfax County,New Mexico,NM,NM1,Southwest,Southwest Core
+35051,Sierra County,New Mexico,NM,NM1,Southwest,Southwest Core
+35053,Socorro County,New Mexico,NM,NM2,Southwest,Southwest Core
+6043,Mariposa County,California,CA,CA2,Southwest,Pacific SW
+35037,Quay County,New Mexico,NM,NM2,Southwest,Southwest Core
+6051,Mono County,California,CA,CA1,Southwest,Pacific SW
+4011,Greenlee County,Arizona,AZ,AZ3,Southwest,Southwest Core
+32017,Lincoln County,Nevada,NV,NV3,Southwest,Pacific SW
+32033,White Pine County,Nevada,NV,NV3,Southwest,Pacific SW
+35019,Guadalupe County,New Mexico,NM,NM1,Southwest,Southwest Core
+35023,Hidalgo County,New Mexico,NM,NM3,Southwest,Southwest Core
+32015,Lander County,Nevada,NV,NV3,Southwest,Pacific SW
+6049,Modoc County,California,CA,CA1,Southwest,Pacific SW
+32027,Pershing County,Nevada,NV,NV1,Southwest,Pacific SW
+32029,Storey County,Nevada,NV,NV3,Southwest,Pacific SW
+32021,Mineral County,Nevada,NV,NV1,Southwest,Pacific SW
+35003,Catron County,New Mexico,NM,NM3,Southwest,Southwest Core
+6091,Sierra County,California,CA,CA3,Southwest,Pacific SW
+35033,Mora County,New Mexico,NM,NM1,Southwest,Southwest Core
+35059,Union County,New Mexico,NM,NM1,Southwest,Southwest Core
+32011,Eureka County,Nevada,NV,NV2,Southwest,Pacific SW
+35011,De Baca County,New Mexico,NM,NM1,Southwest,Southwest Core
+6003,Alpine County,California,CA,CA1,Southwest,Pacific SW
+32009,Esmeralda County,Nevada,NV,NV3,Southwest,Pacific SW
+35021,Harding County,New Mexico,NM,NM3,Southwest,Southwest Core
+15005,Kalawao County,Hawaii,HI,HI1,Southwest,Pacific SW
+48215,Hidalgo County,Texas,TX,TX1,Southwest,Southwest Core
+48121,Denton County,Texas,TX,TX1,Southwest,Southwest Core
+48085,Collin County,Texas,TX,TX1,Southwest,Southwest Core
+48339,Montgomery County,Texas,TX,TX1,Southwest,Southwest Core
+48141,El Paso County,Texas,TX,TX1,Southwest,Southwest Core
+48061,Cameron County,Texas,TX,TX1,Southwest,Southwest Core
+48167,Galveston County,Texas,TX,TX1,Southwest,Southwest Core
+48479,Webb County,Texas,TX,TX1,Southwest,Southwest Core
+48039,Brazoria County,Texas,TX,TX1,Southwest,Southwest Core
+48245,Jefferson County,Texas,TX,TX1,Southwest,Southwest Core
+48139,Ellis County,Texas,TX,TX1,Southwest,Southwest Core
+48441,Taylor County,Texas,TX,TX1,Southwest,Southwest Core
+48187,Guadalupe County,Texas,TX,TX1,Southwest,Southwest Core
+48309,McLennan County,Texas,TX,TX1,Southwest,Southwest Core
+48485,Wichita County,Texas,TX,TX1,Southwest,Southwest Core
+48257,Kaufman County,Texas,TX,TX1,Southwest,Southwest Core
+48381,Randall County,Texas,TX,TX1,Southwest,Southwest Core
+48397,Rockwall County,Texas,TX,TX1,Southwest,Southwest Core
+48001,Anderson County,Texas,TX,TX1,Southwest,Southwest Core
+48347,Nacogdoches County,Texas,TX,TX1,Southwest,Southwest Core
+48099,Coryell County,Texas,TX,TX1,Southwest,Southwest Core
+48213,Henderson County,Texas,TX,TX1,Southwest,Southwest Core
+48199,Hardin County,Texas,TX,TX1,Southwest,Southwest Core
+48013,Atascosa County,Texas,TX,TX1,Southwest,Southwest Core
+48265,Kerr County,Texas,TX,TX1,Southwest,Southwest Core
+48401,Rusk County,Texas,TX,TX1,Southwest,Southwest Core
+48097,Cooke County,Texas,TX,TX1,Southwest,Southwest Core
+48465,Val Verde County,Texas,TX,TX1,Southwest,Southwest Core
+48189,Hale County,Texas,TX,TX1,Southwest,Southwest Core
+48497,Wise County,Texas,TX,TX1,Southwest,Southwest Core
+48471,Walker County,Texas,TX,TX1,Southwest,Southwest Core
+48227,Howard County,Texas,TX,TX1,Southwest,Southwest Core
+48467,Van Zandt County,Texas,TX,TX1,Southwest,Southwest Core
+48363,Palo Pinto County,Texas,TX,TX1,Southwest,Southwest Core
+48481,Wharton County,Texas,TX,TX1,Southwest,Southwest Core
+48473,Waller County,Texas,TX,TX1,Southwest,Southwest Core
+48459,Upshur County,Texas,TX,TX1,Southwest,Southwest Core
+48225,Houston County,Texas,TX,TX1,Southwest,Southwest Core
+48341,Moore County,Texas,TX,TX1,Southwest,Southwest Core
+48499,Wood County,Texas,TX,TX1,Southwest,Southwest Core
+48025,Bee County,Texas,TX,TX1,Southwest,Southwest Core
+48419,Shelby County,Texas,TX,TX1,Southwest,Southwest Core
+48285,Lavaca County,Texas,TX,TX1,Southwest,Southwest Core
+48365,Panola County,Texas,TX,TX1,Southwest,Southwest Core
+48219,Hockley County,Texas,TX,TX1,Southwest,Southwest Core
+48505,Zapata County,Texas,TX,TX1,Southwest,Southwest Core
+48161,Freestone County,Texas,TX,TX1,Southwest,Southwest Core
+48487,Wilbarger County,Texas,TX,TX1,Southwest,Southwest Core
+48395,Robertson County,Texas,TX,TX1,Southwest,Southwest Core
+48057,Calhoun County,Texas,TX,TX1,Southwest,Southwest Core
+48063,Camp County,Texas,TX,TX1,Southwest,Southwest Core
+48335,Mitchell County,Texas,TX,TX1,Southwest,Southwest Core
+48351,Newton County,Texas,TX,TX1,Southwest,Southwest Core
+48255,Karnes County,Texas,TX,TX1,Southwest,Southwest Core
+48279,Lamb County,Texas,TX,TX1,Southwest,Southwest Core
+48297,Live Oak County,Texas,TX,TX1,Southwest,Southwest Core
+48115,Dawson County,Texas,TX,TX1,Southwest,Southwest Core
+48083,Coleman County,Texas,TX,TX1,Southwest,Southwest Core
+48495,Winkler County,Texas,TX,TX1,Southwest,Southwest Core
+48437,Swisher County,Texas,TX,TX1,Southwest,Southwest Core
+48093,Comanche County,Texas,TX,TX1,Southwest,Southwest Core
+48315,Marion County,Texas,TX,TX1,Southwest,Southwest Core
+48501,Yoakum County,Texas,TX,TX1,Southwest,Southwest Core
+48391,Refugio County,Texas,TX,TX1,Southwest,Southwest Core
+48343,Morris County,Texas,TX,TX1,Southwest,Southwest Core
+48077,Clay County,Texas,TX,TX1,Southwest,Southwest Core
+48483,Wheeler County,Texas,TX,TX1,Southwest,Southwest Core
+48247,Jim Hogg County,Texas,TX,TX1,Southwest,Southwest Core
+48169,Garza County,Texas,TX,TX1,Southwest,Southwest Core
+48193,Hamilton County,Texas,TX,TX1,Southwest,Southwest Core
+48107,Crosby County,Texas,TX,TX1,Southwest,Southwest Core
+48153,Floyd County,Texas,TX,TX1,Southwest,Southwest Core
+48081,Coke County,Texas,TX,TX1,Southwest,Southwest Core
+48421,Sherman County,Texas,TX,TX1,Southwest,Southwest Core
+48333,Mills County,Texas,TX,TX1,Southwest,Southwest Core
+48417,Shackelford County,Texas,TX,TX1,Southwest,Southwest Core
+48095,Concho County,Texas,TX,TX1,Southwest,Southwest Core
+48317,Martin County,Texas,TX,TX1,Southwest,Southwest Core
+48295,Lipscomb County,Texas,TX,TX1,Southwest,Southwest Core
+48243,Jeff Davis County,Texas,TX,TX1,Southwest,Southwest Core
+48137,Edwards County,Texas,TX,TX1,Southwest,Southwest Core
+48359,Oldham County,Texas,TX,TX1,Southwest,Southwest Core
+48201,Harris County,Texas,TX,TX3,Southwest,Southwest Core
+48113,Dallas County,Texas,TX,TX3,Southwest,Southwest Core
+48303,Lubbock County,Texas,TX,TX3,Southwest,Southwest Core
+48027,Bell County,Texas,TX,TX3,Southwest,Southwest Core
+48209,Hays County,Texas,TX,TX3,Southwest,Southwest Core
+48135,Ector County,Texas,TX,TX3,Southwest,Southwest Core
+48367,Parker County,Texas,TX,TX3,Southwest,Southwest Core
+48183,Gregg County,Texas,TX,TX3,Southwest,Southwest Core
+48451,Tom Green County,Texas,TX,TX3,Southwest,Southwest Core
+48231,Hunt County,Texas,TX,TX3,Southwest,Southwest Core
+48329,Midland County,Texas,TX,TX3,Southwest,Southwest Core
+48291,Liberty County,Texas,TX,TX3,Southwest,Southwest Core
+48005,Angelina County,Texas,TX,TX3,Southwest,Southwest Core
+48427,Starr County,Texas,TX,TX3,Southwest,Southwest Core
+48409,San Patricio County,Texas,TX,TX3,Southwest,Southwest Core
+48203,Harrison County,Texas,TX,TX3,Southwest,Southwest Core
+48073,Cherokee County,Texas,TX,TX3,Southwest,Southwest Core
+48323,Maverick County,Texas,TX,TX3,Southwest,Southwest Core
+48463,Uvalde County,Texas,TX,TX3,Southwest,Southwest Core
+48217,Hill County,Texas,TX,TX3,Southwest,Southwest Core
+48053,Burnet County,Texas,TX,TX3,Southwest,Southwest Core
+48249,Jim Wells County,Texas,TX,TX3,Southwest,Southwest Core
+48259,Kendall County,Texas,TX,TX3,Southwest,Southwest Core
+48321,Matagorda County,Texas,TX,TX3,Southwest,Southwest Core
+48035,Bosque County,Texas,TX,TX3,Southwest,Southwest Core
+48171,Gillespie County,Texas,TX,TX3,Southwest,Southwest Core
+48133,Eastland County,Texas,TX,TX3,Southwest,Southwest Core
+48223,Hopkins County,Texas,TX,TX3,Southwest,Southwest Core
+48163,Frio County,Texas,TX,TX3,Southwest,Southwest Core
+48003,Andrews County,Texas,TX,TX3,Southwest,Southwest Core
+48415,Scurry County,Texas,TX,TX3,Southwest,Southwest Core
+48145,Falls County,Texas,TX,TX3,Southwest,Southwest Core
+48449,Titus County,Texas,TX,TX3,Southwest,Southwest Core
+48117,Deaf Smith County,Texas,TX,TX3,Southwest,Southwest Core
+48123,DeWitt County,Texas,TX,TX3,Southwest,Southwest Core
+48407,San Jacinto County,Texas,TX,TX3,Southwest,Southwest Core
+48299,Llano County,Texas,TX,TX3,Southwest,Southwest Core
+48387,Red River County,Texas,TX,TX3,Southwest,Southwest Core
+48489,Willacy County,Texas,TX,TX3,Southwest,Southwest Core
+48059,Callahan County,Texas,TX,TX3,Southwest,Southwest Core
+48179,Gray County,Texas,TX,TX3,Southwest,Southwest Core
+48019,Bandera County,Texas,TX,TX3,Southwest,Southwest Core
+48503,Young County,Texas,TX,TX3,Southwest,Southwest Core
+48445,Terry County,Texas,TX,TX3,Southwest,Southwest Core
+48165,Gaines County,Texas,TX,TX3,Southwest,Southwest Core
+48127,Dimmit County,Texas,TX,TX3,Southwest,Southwest Core
+48239,Jackson County,Texas,TX,TX3,Southwest,Southwest Core
+48253,Jones County,Texas,TX,TX3,Southwest,Southwest Core
+48177,Gonzales County,Texas,TX,TX3,Southwest,Southwest Core
+48353,Nolan County,Texas,TX,TX3,Southwest,Southwest Core
+48389,Reeves County,Texas,TX,TX3,Southwest,Southwest Core
+48379,Rains County,Texas,TX,TX3,Southwest,Southwest Core
+48357,Ochiltree County,Texas,TX,TX3,Southwest,Southwest Core
+48425,Somervell County,Texas,TX,TX3,Southwest,Southwest Core
+48377,Presidio County,Texas,TX,TX3,Southwest,Southwest Core
+48207,Haskell County,Texas,TX,TX3,Southwest,Southwest Core
+48175,Goliad County,Texas,TX,TX3,Southwest,Southwest Core
+48507,Zavala County,Texas,TX,TX3,Southwest,Southwest Core
+48475,Ward County,Texas,TX,TX3,Southwest,Southwest Core
+48119,Delta County,Texas,TX,TX3,Southwest,Southwest Core
+48047,Brooks County,Texas,TX,TX3,Southwest,Southwest Core
+48403,Sabine County,Texas,TX,TX3,Southwest,Southwest Core
+48237,Jack County,Texas,TX,TX3,Southwest,Southwest Core
+48191,Hall County,Texas,TX,TX3,Southwest,Southwest Core
+48103,Crane County,Texas,TX,TX3,Southwest,Southwest Core
+48205,Hartley County,Texas,TX,TX3,Southwest,Southwest Core
+48151,Fisher County,Texas,TX,TX3,Southwest,Southwest Core
+48267,Kimble County,Texas,TX,TX3,Southwest,Southwest Core
+48197,Hardeman County,Texas,TX,TX3,Southwest,Southwest Core
+48125,Dickens County,Texas,TX,TX3,Southwest,Southwest Core
+48211,Hemphill County,Texas,TX,TX3,Southwest,Southwest Core
+48023,Baylor County,Texas,TX,TX3,Southwest,Southwest Core
+48383,Reagan County,Texas,TX,TX3,Southwest,Southwest Core
+48433,Stonewall County,Texas,TX,TX3,Southwest,Southwest Core
+48173,Glasscock County,Texas,TX,TX3,Southwest,Southwest Core
+48431,Sterling County,Texas,TX,TX3,Southwest,Southwest Core
+48155,Foard County,Texas,TX,TX3,Southwest,Southwest Core
+48345,Motley County,Texas,TX,TX3,Southwest,Southwest Core
+48443,Terrell County,Texas,TX,TX3,Southwest,Southwest Core
+48263,Kent County,Texas,TX,TX3,Southwest,Southwest Core
+48393,Roberts County,Texas,TX,TX3,Southwest,Southwest Core
+48311,McMullen County,Texas,TX,TX3,Southwest,Southwest Core
+48261,Kenedy County,Texas,TX,TX3,Southwest,Southwest Core
+48269,King County,Texas,TX,TX3,Southwest,Southwest Core
+48029,Bexar County,Texas,TX,TX2,Southwest,Southwest Core
+48439,Tarrant County,Texas,TX,TX2,Southwest,Southwest Core
+48453,Travis County,Texas,TX,TX2,Southwest,Southwest Core
+48157,Fort Bend County,Texas,TX,TX2,Southwest,Southwest Core
+48491,Williamson County,Texas,TX,TX2,Southwest,Southwest Core
+48355,Nueces County,Texas,TX,TX2,Southwest,Southwest Core
+48041,Brazos County,Texas,TX,TX2,Southwest,Southwest Core
+48251,Johnson County,Texas,TX,TX2,Southwest,Southwest Core
+48091,Comal County,Texas,TX,TX2,Southwest,Southwest Core
+48423,Smith County,Texas,TX,TX2,Southwest,Southwest Core
+48181,Grayson County,Texas,TX,TX2,Southwest,Southwest Core
+48375,Potter County,Texas,TX,TX2,Southwest,Southwest Core
+48021,Bastrop County,Texas,TX,TX2,Southwest,Southwest Core
+48361,Orange County,Texas,TX,TX2,Southwest,Southwest Core
+48469,Victoria County,Texas,TX,TX2,Southwest,Southwest Core
+48277,Lamar County,Texas,TX,TX2,Southwest,Southwest Core
+48493,Wilson County,Texas,TX,TX2,Southwest,Southwest Core
+48325,Medina County,Texas,TX,TX2,Southwest,Southwest Core
+48037,Bowie County,Texas,TX,TX2,Southwest,Southwest Core
+48373,Polk County,Texas,TX,TX2,Southwest,Southwest Core
+48349,Navarro County,Texas,TX,TX2,Southwest,Southwest Core
+48221,Hood County,Texas,TX,TX2,Southwest,Southwest Core
+48147,Fannin County,Texas,TX,TX2,Southwest,Southwest Core
+48477,Washington County,Texas,TX,TX2,Southwest,Southwest Core
+48273,Kleberg County,Texas,TX,TX2,Southwest,Southwest Core
+48049,Brown County,Texas,TX,TX2,Southwest,Southwest Core
+48067,Cass County,Texas,TX,TX2,Southwest,Southwest Core
+48055,Caldwell County,Texas,TX,TX2,Southwest,Southwest Core
+48015,Austin County,Texas,TX,TX2,Southwest,Southwest Core
+48241,Jasper County,Texas,TX,TX2,Southwest,Southwest Core
+48071,Chambers County,Texas,TX,TX2,Southwest,Southwest Core
+48149,Fayette County,Texas,TX,TX2,Southwest,Southwest Core
+48143,Erath County,Texas,TX,TX2,Southwest,Southwest Core
+48185,Grimes County,Texas,TX,TX2,Southwest,Southwest Core
+48293,Limestone County,Texas,TX,TX2,Southwest,Southwest Core
+48287,Lee County,Texas,TX,TX2,Southwest,Southwest Core
+48281,Lampasas County,Texas,TX,TX2,Southwest,Southwest Core
+48007,Aransas County,Texas,TX,TX2,Southwest,Southwest Core
+48331,Milam County,Texas,TX,TX2,Southwest,Southwest Core
+48051,Burleson County,Texas,TX,TX2,Southwest,Southwest Core
+48371,Pecos County,Texas,TX,TX2,Southwest,Southwest Core
+48313,Madison County,Texas,TX,TX2,Southwest,Southwest Core
+48031,Blanco County,Texas,TX,TX2,Southwest,Southwest Core
+48233,Hutchinson County,Texas,TX,TX2,Southwest,Southwest Core
+48457,Tyler County,Texas,TX,TX2,Southwest,Southwest Core
+48369,Parmer County,Texas,TX,TX2,Southwest,Southwest Core
+48289,Leon County,Texas,TX,TX2,Southwest,Southwest Core
+48337,Montague County,Texas,TX,TX2,Southwest,Southwest Core
+48089,Colorado County,Texas,TX,TX2,Southwest,Southwest Core
+48159,Franklin County,Texas,TX,TX2,Southwest,Southwest Core
+48455,Trinity County,Texas,TX,TX2,Southwest,Southwest Core
+48307,McCulloch County,Texas,TX,TX2,Southwest,Southwest Core
+48131,Duval County,Texas,TX,TX2,Southwest,Southwest Core
+48069,Castro County,Texas,TX,TX2,Southwest,Southwest Core
+48399,Runnels County,Texas,TX,TX2,Southwest,Southwest Core
+48043,Brewster County,Texas,TX,TX2,Southwest,Southwest Core
+48405,San Augustine County,Texas,TX,TX2,Southwest,Southwest Core
+48111,Dallam County,Texas,TX,TX2,Southwest,Southwest Core
+48017,Bailey County,Texas,TX,TX2,Southwest,Southwest Core
+48283,La Salle County,Texas,TX,TX2,Southwest,Southwest Core
+48075,Childress County,Texas,TX,TX2,Southwest,Southwest Core
+48009,Archer County,Texas,TX,TX2,Southwest,Southwest Core
+48429,Stephens County,Texas,TX,TX2,Southwest,Southwest Core
+48319,Mason County,Texas,TX,TX2,Southwest,Southwest Core
+48435,Sutton County,Texas,TX,TX2,Southwest,Southwest Core
+48305,Lynn County,Texas,TX,TX2,Southwest,Southwest Core
+48195,Hansford County,Texas,TX,TX2,Southwest,Southwest Core
+48271,Kinney County,Texas,TX,TX2,Southwest,Southwest Core
+48065,Carson County,Texas,TX,TX2,Southwest,Southwest Core
+48411,San Saba County,Texas,TX,TX2,Southwest,Southwest Core
+48105,Crockett County,Texas,TX,TX2,Southwest,Southwest Core
+48087,Collingsworth County,Texas,TX,TX2,Southwest,Southwest Core
+48129,Donley County,Texas,TX,TX2,Southwest,Southwest Core
+48229,Hudspeth County,Texas,TX,TX2,Southwest,Southwest Core
+48275,Knox County,Texas,TX,TX2,Southwest,Southwest Core
+48461,Upton County,Texas,TX,TX2,Southwest,Southwest Core
+48079,Cochran County,Texas,TX,TX2,Southwest,Southwest Core
+48413,Schleicher County,Texas,TX,TX2,Southwest,Southwest Core
+48011,Armstrong County,Texas,TX,TX2,Southwest,Southwest Core
+48385,Real County,Texas,TX,TX2,Southwest,Southwest Core
+48045,Briscoe County,Texas,TX,TX2,Southwest,Southwest Core
+48327,Menard County,Texas,TX,TX2,Southwest,Southwest Core
+48235,Irion County,Texas,TX,TX2,Southwest,Southwest Core
+48109,Culberson County,Texas,TX,TX2,Southwest,Southwest Core
+48447,Throckmorton County,Texas,TX,TX2,Southwest,Southwest Core
+48101,Cottle County,Texas,TX,TX2,Southwest,Southwest Core
+48033,Borden County,Texas,TX,TX2,Southwest,Southwest Core
+48301,Loving County,Texas,TX,TX2,Southwest,Southwest Core
